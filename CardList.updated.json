@@ -1,14 +1,15 @@
 {
   "1": {
 	"id": "1",
-  	"isToken": true,
+  	"isToken": false,
 	"face": {
 		"front": {
 			"name": "Baron",
 			"image": "https://i.imgur.com/sFu2t1E.png"
 		}
 	},
-	"name": "Baron"
+	"name": "Baron",
+	"type": "Baron"
   },	
   "79": {
     "id": "79",

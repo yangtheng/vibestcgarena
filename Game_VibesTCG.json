@@ -81,6 +81,12 @@
               "style": false,
               "content": [
                 {
+                  "section": "Baron",
+                  "style": {
+                    "width": 100
+                  }
+                },
+                {
                   "section": "Huddle",
                   "style": false
                 }
@@ -116,7 +122,8 @@
           "Action": "Stack",
           "Character": "Huddle",
           "Rod": "Mana",
-          "Relic": "Huddle"
+          "Relic": "Huddle",
+          "Baron": "Baron"
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
@@ -154,6 +161,22 @@
           },
           "Stack": {
             "title": "Stack",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Baron": {
+            "title": "Baron",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
