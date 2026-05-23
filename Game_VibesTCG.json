@@ -30,7 +30,7 @@
         "startingHandSize": "5",
 	"mulliganCount": {
         	"min": 0,
-        	"max": 5
+        	"max": 1
     	},
 	"mulliganCycle": {
         	"steps": ["toBottom","draw"],
