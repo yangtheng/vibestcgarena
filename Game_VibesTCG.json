@@ -14,18 +14,13 @@
     "cardBack": ""
   },
   "deckBuilding": {
-    "mainFilters": [
-      "Character",
-      "Relic",
-      "Action",
-      "Rod"
-    ],
+    "mainFilters": [],
     "formats": [
       {
         "title": "Constructed",
         "gameplay": "Constructed",
         "customCategories": [
-          "Main Deck"
+          "Deck"
         ]
       }
     ]
@@ -126,7 +121,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Main Deck"
+          "Deck"
         ],
         "autoPlayFromHand": {
           "Action": "Stack",
