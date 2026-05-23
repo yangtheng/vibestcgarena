@@ -37,8 +37,8 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "",
-        "drawPerTurn": 1
+        "firstPlayerTokenName": "Baron",
+        "drawPerTurn": "0"
       },
       "defaultNotes": "",
       "tokens": [
@@ -89,20 +89,8 @@
               "style": "",
               "content": [
                 {
-                  "section": "Deck",
-                  "style": {
-                    "width": 150
-                  }
-                },
-                {
                   "section": "Mana",
                   "style": false
-                },
-                {
-                  "section": "Discard",
-                  "style": {
-                    "width": 150
-                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -133,7 +121,7 @@
         "sectionsDict": {
           "Mana": {
             "title": "Mana",
-            "isHidden": "opponent-only",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -147,47 +135,15 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Deck": {
-            "title": "Deck",
-            "isHidden": "yes",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Huddle": {
             "title": "Huddle",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Discard": {
-            "title": "Discard",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Ice",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
