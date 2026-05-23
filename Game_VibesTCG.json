@@ -24,7 +24,9 @@
       {
         "title": "Constructed",
         "gameplay": "Constructed",
-        "customCategories": []
+        "customCategories": [
+          "Main Deck"
+        ]
       }
     ]
   },
@@ -124,7 +126,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Deck"
+          "Main Deck"
         ],
         "autoPlayFromHand": {
           "Action": "Stack",
