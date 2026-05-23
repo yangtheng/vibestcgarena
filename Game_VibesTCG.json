@@ -19,9 +19,7 @@
       {
         "title": "Constructed",
         "gameplay": "Constructed",
-        "customCategories": [
-          "Deck"
-        ]
+        "customCategories": []
       }
     ]
   },
@@ -108,9 +106,7 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [
-          "Deck"
-        ],
+        "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
           "Action": "Stack",
           "Character": "Huddle",
