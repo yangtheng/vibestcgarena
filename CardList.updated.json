@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Penguin Who Is the Garden",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoIstheGarden.png",
         "isHorizontal": false
       }
     },
     "name": "Penguin Who Is the Garden",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Green"
@@ -53,7 +53,7 @@
     "id": "81",
     "isToken": false,
     "name": "Absent-Minded Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -62,7 +62,7 @@
     "face": {
       "front": {
         "name": "Absent-Minded Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AbsentMindedPenguin.png",
         "isHorizontal": false
@@ -78,7 +78,7 @@
     "id": "82",
     "isToken": false,
     "name": "Abstract Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -87,7 +87,7 @@
     "face": {
       "front": {
         "name": "Abstract Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AbstractPenguin.png",
         "isHorizontal": false
@@ -152,7 +152,7 @@
     "id": "85",
     "isToken": false,
     "name": "Aha Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Colorless"
@@ -161,7 +161,7 @@
     "face": {
       "front": {
         "name": "Aha Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AhaPenguin.png",
         "isHorizontal": false
@@ -176,7 +176,7 @@
     "id": "86",
     "isToken": false,
     "name": "Amazing Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -185,7 +185,7 @@
     "face": {
       "front": {
         "name": "Amazing Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AmazingPenguin.png",
         "isHorizontal": false
@@ -200,7 +200,7 @@
     "id": "87",
     "isToken": false,
     "name": "Ambitious Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Purple"
@@ -209,7 +209,7 @@
     "face": {
       "front": {
         "name": "Ambitious Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AmbitiousPenguin.png",
         "isHorizontal": false
@@ -272,7 +272,7 @@
     "id": "90",
     "isToken": false,
     "name": "Ascending Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -281,7 +281,7 @@
     "face": {
       "front": {
         "name": "Ascending Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AscendingPenguin.png",
         "isHorizontal": false
@@ -297,7 +297,7 @@
     "id": "91",
     "isToken": false,
     "name": "Balanced Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Green"
@@ -306,7 +306,7 @@
     "face": {
       "front": {
         "name": "Balanced Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BalancedPenguin.png",
         "isHorizontal": false
@@ -323,7 +323,7 @@
     "id": "92",
     "isToken": false,
     "name": "Bamboo Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Red"
@@ -332,7 +332,7 @@
     "face": {
       "front": {
         "name": "Bamboo Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BambooPenguin.png",
         "isHorizontal": false
@@ -371,7 +371,7 @@
     "id": "94",
     "isToken": false,
     "name": "Bashful Swordsman Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -380,7 +380,7 @@
     "face": {
       "front": {
         "name": "Bashful Swordsman Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BashfulSwordsmanPenguin.png",
         "isHorizontal": false
@@ -519,7 +519,7 @@
     "id": "100",
     "isToken": false,
     "name": "Becky Breaker",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -528,7 +528,7 @@
     "face": {
       "front": {
         "name": "Becky Breaker",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BeckyBreaker.png",
         "isHorizontal": false
@@ -594,7 +594,7 @@
     "id": "103",
     "isToken": false,
     "name": "Binkus, Who Eats the Stars",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "13",
     "Color": [
       "Blue"
@@ -603,7 +603,7 @@
     "face": {
       "front": {
         "name": "Binkus, Who Eats the Stars",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "13",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BinkusWhoEatsTheStars.png",
         "isHorizontal": false
@@ -619,7 +619,7 @@
     "id": "104",
     "isToken": false,
     "name": "Bizmo, PhD Candidate",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -628,7 +628,7 @@
     "face": {
       "front": {
         "name": "Bizmo, PhD Candidate",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BizmoPhDCandidate.png",
         "isHorizontal": false
@@ -644,7 +644,7 @@
     "id": "105",
     "isToken": false,
     "name": "Blizzby the Swift",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Blue"
@@ -653,7 +653,7 @@
     "face": {
       "front": {
         "name": "Blizzby the Swift",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BlizzbyTheSwift.png",
         "isHorizontal": false
@@ -669,7 +669,7 @@
     "id": "106",
     "isToken": false,
     "name": "Blossoming Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green"
@@ -678,7 +678,7 @@
     "face": {
       "front": {
         "name": "Blossoming Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BlossomingPenguin.png",
         "isHorizontal": false
@@ -693,7 +693,7 @@
     "id": "107",
     "isToken": false,
     "name": "Blue Mega Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Blue"
@@ -702,7 +702,7 @@
     "face": {
       "front": {
         "name": "Blue Mega Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BlueMegaPenguin.png",
         "isHorizontal": false
@@ -718,7 +718,7 @@
     "id": "108",
     "isToken": false,
     "name": "Blue Wizard Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Blue"
@@ -727,7 +727,7 @@
     "face": {
       "front": {
         "name": "Blue Wizard Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BlueWizardPenguin.png",
         "isHorizontal": false
@@ -743,7 +743,7 @@
     "id": "109",
     "isToken": false,
     "name": "Boat-Tying Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Colorless"
@@ -752,7 +752,7 @@
     "face": {
       "front": {
         "name": "Boat-Tying Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BoatTyingPenguin.png",
         "isHorizontal": false
@@ -767,7 +767,7 @@
     "id": "110",
     "isToken": false,
     "name": "Bottle Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Blue"
@@ -776,7 +776,7 @@
     "face": {
       "front": {
         "name": "Bottle Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BottlePenguin.png",
         "isHorizontal": false
@@ -815,7 +815,7 @@
     "id": "112",
     "isToken": false,
     "name": "Brainy Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -824,7 +824,7 @@
     "face": {
       "front": {
         "name": "Brainy Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BrainyPenguin.png",
         "isHorizontal": false
@@ -864,7 +864,7 @@
     "id": "114",
     "isToken": false,
     "name": "Bubbles, the Great and Powerful",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "8",
     "Color": [
       "Purple"
@@ -873,7 +873,7 @@
     "face": {
       "front": {
         "name": "Bubbles, the Great and Powerful",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "8",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BubblestheGreatandPowerful.png",
         "isHorizontal": false
@@ -938,7 +938,7 @@
     "id": "117",
     "isToken": false,
     "name": "Bunkus, Who Is the Stars",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "12",
     "Color": [
       "Purple"
@@ -947,7 +947,7 @@
     "face": {
       "front": {
         "name": "Bunkus, Who Is the Stars",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "12",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BunkusWhoIstheStars.png",
         "isHorizontal": false
@@ -987,7 +987,7 @@
     "id": "119",
     "isToken": false,
     "name": "Cannonball Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Blue"
@@ -996,7 +996,7 @@
     "face": {
       "front": {
         "name": "Cannonball Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CannonballPenguin.png",
         "isHorizontal": false
@@ -1037,7 +1037,7 @@
     "id": "121",
     "isToken": false,
     "name": "Carnival Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "7",
     "Color": [
       "Red"
@@ -1046,7 +1046,7 @@
     "face": {
       "front": {
         "name": "Carnival Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "7",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CarnivalPenguin.png",
         "isHorizontal": false
@@ -1110,7 +1110,7 @@
     "id": "124",
     "isToken": false,
     "name": "Charming Swordsman Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -1119,7 +1119,7 @@
     "face": {
       "front": {
         "name": "Charming Swordsman Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CharmingSwordsmanPenguin.png",
         "isHorizontal": false
@@ -1207,7 +1207,7 @@
     "id": "128",
     "isToken": false,
     "name": "Chef Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Red"
@@ -1216,7 +1216,7 @@
     "face": {
       "front": {
         "name": "Chef Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ChefPenguin.png",
         "isHorizontal": false
@@ -1256,7 +1256,7 @@
     "id": "130",
     "isToken": false,
     "name": "Chub, Who Lives for Action",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "8",
     "Color": [
       "Red"
@@ -1265,7 +1265,7 @@
     "face": {
       "front": {
         "name": "Chub, Who Lives for Action",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "8",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ChubWhoLivesforAction.png",
         "isHorizontal": false
@@ -1281,7 +1281,7 @@
     "id": "131",
     "isToken": false,
     "name": "Chubopolis Unleashed",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "10",
     "Color": [
       "Red"
@@ -1290,7 +1290,7 @@
     "face": {
       "front": {
         "name": "Chubopolis Unleashed",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "10",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ChubopolisUnleashed.png",
         "isHorizontal": false
@@ -1354,7 +1354,7 @@
     "id": "134",
     "isToken": false,
     "name": "Contemplation Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "1",
     "Color": [
       "Red"
@@ -1363,7 +1363,7 @@
     "face": {
       "front": {
         "name": "Contemplation Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "1",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ContemplationPenguin.png",
         "isHorizontal": false
@@ -1402,7 +1402,7 @@
     "id": "136",
     "isToken": false,
     "name": "Cooking Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -1411,7 +1411,7 @@
     "face": {
       "front": {
         "name": "Cooking Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CookingPenguin.png",
         "isHorizontal": false
@@ -1474,7 +1474,7 @@
     "id": "139",
     "isToken": false,
     "name": "Curious Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Green"
@@ -1483,7 +1483,7 @@
     "face": {
       "front": {
         "name": "Curious Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CuriousPenguin.png",
         "isHorizontal": false
@@ -1498,7 +1498,7 @@
     "id": "140",
     "isToken": false,
     "name": "Dashing Swordsman Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Yellow"
@@ -1507,7 +1507,7 @@
     "face": {
       "front": {
         "name": "Dashing Swordsman Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/DashingSwordsmanPenguin.png",
         "isHorizontal": false
@@ -1523,7 +1523,7 @@
     "id": "141",
     "isToken": false,
     "name": "Daydreaming Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -1532,7 +1532,7 @@
     "face": {
       "front": {
         "name": "Daydreaming Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/DaydreamingPenguin.png",
         "isHorizontal": false
@@ -1548,7 +1548,7 @@
     "id": "142",
     "isToken": false,
     "name": "Demolition Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -1557,7 +1557,7 @@
     "face": {
       "front": {
         "name": "Demolition Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/DemolitionPenguin.png",
         "isHorizontal": false
@@ -1573,7 +1573,7 @@
     "id": "143",
     "isToken": false,
     "name": "Dima the Destroyer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Green"
@@ -1582,7 +1582,7 @@
     "face": {
       "front": {
         "name": "Dima the Destroyer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/DimaTheDestroyer.png",
         "isHorizontal": false
@@ -1671,7 +1671,7 @@
     "id": "147",
     "isToken": false,
     "name": "Dragonrider Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Blue"
@@ -1680,7 +1680,7 @@
     "face": {
       "front": {
         "name": "Dragonrider Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/DragonriderPenguin.png",
         "isHorizontal": false
@@ -1861,7 +1861,7 @@
     "id": "155",
     "isToken": false,
     "name": "Extrovert Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Yellow"
@@ -1870,7 +1870,7 @@
     "face": {
       "front": {
         "name": "Extrovert Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ExtrovertPenguin.png",
         "isHorizontal": false
@@ -1886,7 +1886,7 @@
     "id": "156",
     "isToken": false,
     "name": "Fact-Finding Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Blue"
@@ -1895,7 +1895,7 @@
     "face": {
       "front": {
         "name": "Fact-Finding Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FactFindingPenguin.png",
         "isHorizontal": false
@@ -2009,7 +2009,7 @@
     "id": "161",
     "isToken": false,
     "name": "Flower-Arranging Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Green"
@@ -2018,7 +2018,7 @@
     "face": {
       "front": {
         "name": "Flower-Arranging Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FlowerArrangingPenguin.png",
         "isHorizontal": false
@@ -2034,7 +2034,7 @@
     "id": "162",
     "isToken": false,
     "name": "Flying Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "1",
     "Color": [
       "Yellow"
@@ -2043,7 +2043,7 @@
     "face": {
       "front": {
         "name": "Flying Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "1",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FlyingPenguin.png",
         "isHorizontal": false
@@ -2154,7 +2154,7 @@
     "id": "167",
     "isToken": false,
     "name": "Frosterous the Great",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Yellow"
@@ -2163,7 +2163,7 @@
     "face": {
       "front": {
         "name": "Frosterous the Great",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FrosterousTheGreat.png",
         "isHorizontal": false
@@ -2179,7 +2179,7 @@
     "id": "168",
     "isToken": false,
     "name": "Frosty the Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Blue"
@@ -2188,7 +2188,7 @@
     "face": {
       "front": {
         "name": "Frosty the Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FrostythePenguin.png",
         "isHorizontal": false
@@ -2203,7 +2203,7 @@
     "id": "169",
     "isToken": false,
     "name": "Galaxy Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Purple"
@@ -2212,7 +2212,7 @@
     "face": {
       "front": {
         "name": "Galaxy Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GalaxyPenguin.png",
         "isHorizontal": false
@@ -2228,7 +2228,7 @@
     "id": "170",
     "isToken": false,
     "name": "Gardenkeeper Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Purple"
@@ -2237,7 +2237,7 @@
     "face": {
       "front": {
         "name": "Gardenkeeper Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GardenkeeperPenguin.png",
         "isHorizontal": false
@@ -2420,7 +2420,7 @@
     "id": "178",
     "isToken": false,
     "name": "Green Mega Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Green"
@@ -2429,7 +2429,7 @@
     "face": {
       "front": {
         "name": "Green Mega Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GreenMegaPenguin.png",
         "isHorizontal": false
@@ -2446,7 +2446,7 @@
     "id": "179",
     "isToken": false,
     "name": "Green Wizard Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green"
@@ -2455,7 +2455,7 @@
     "face": {
       "front": {
         "name": "Green Wizard Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GreenWizardPenguin.png",
         "isHorizontal": false
@@ -2688,7 +2688,7 @@
     "id": "189",
     "isToken": false,
     "name": "Hungry Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Colorless"
@@ -2697,7 +2697,7 @@
     "face": {
       "front": {
         "name": "Hungry Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HungryPenguin.png",
         "isHorizontal": false
@@ -2712,7 +2712,7 @@
     "id": "190",
     "isToken": false,
     "name": "Hyper Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Yellow"
@@ -2721,7 +2721,7 @@
     "face": {
       "front": {
         "name": "Hyper Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HyperPenguin.png",
         "isHorizontal": false
@@ -2785,7 +2785,7 @@
     "id": "193",
     "isToken": false,
     "name": "Inquisitive Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "0",
     "Color": [
       "Colorless"
@@ -2794,7 +2794,7 @@
     "face": {
       "front": {
         "name": "Inquisitive Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "0",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/InquisitivePenguin.png",
         "isHorizontal": false
@@ -2809,7 +2809,7 @@
     "id": "194",
     "isToken": false,
     "name": "Insomniac Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Red"
@@ -2818,7 +2818,7 @@
     "face": {
       "front": {
         "name": "Insomniac Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/InsomniacPenguin.png",
         "isHorizontal": false
@@ -2883,7 +2883,7 @@
     "id": "197",
     "isToken": false,
     "name": "Introvert Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Colorless"
@@ -2892,7 +2892,7 @@
     "face": {
       "front": {
         "name": "Introvert Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/IntrovertPenguin.png",
         "isHorizontal": false
@@ -2931,7 +2931,7 @@
     "id": "199",
     "isToken": false,
     "name": "Jealous Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Blue"
@@ -2940,7 +2940,7 @@
     "face": {
       "front": {
         "name": "Jealous Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/JealousPenguin.png",
         "isHorizontal": false
@@ -3006,7 +3006,7 @@
     "id": "202",
     "isToken": false,
     "name": "Josephine, Party Queen",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Yellow"
@@ -3015,7 +3015,7 @@
     "face": {
       "front": {
         "name": "Josephine, Party Queen",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/JosephinePartyQueen.png",
         "isHorizontal": false
@@ -3031,7 +3031,7 @@
     "id": "203",
     "isToken": false,
     "name": "Jubilant Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "7",
     "Color": [
       "Yellow"
@@ -3040,7 +3040,7 @@
     "face": {
       "front": {
         "name": "Jubilant Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "7",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/JubilantPenguin.png",
         "isHorizontal": false
@@ -3056,7 +3056,7 @@
     "id": "204",
     "isToken": false,
     "name": "Juggling Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Red"
@@ -3065,7 +3065,7 @@
     "face": {
       "front": {
         "name": "Juggling Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/JugglingPenguin.png",
         "isHorizontal": false
@@ -3081,7 +3081,7 @@
     "id": "205",
     "isToken": false,
     "name": "Karate Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Green"
@@ -3090,7 +3090,7 @@
     "face": {
       "front": {
         "name": "Karate Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/KaratePenguin.png",
         "isHorizontal": false
@@ -3130,7 +3130,7 @@
     "id": "207",
     "isToken": false,
     "name": "Keyturning Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Red"
@@ -3139,7 +3139,7 @@
     "face": {
       "front": {
         "name": "Keyturning Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/KeyturningPenguin.png",
         "isHorizontal": false
@@ -3155,7 +3155,7 @@
     "id": "208",
     "isToken": false,
     "name": "Koi Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Green"
@@ -3164,7 +3164,7 @@
     "face": {
       "front": {
         "name": "Koi Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/KoiPenguin.png",
         "isHorizontal": false
@@ -3252,7 +3252,7 @@
     "id": "212",
     "isToken": false,
     "name": "Lil Baker",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green"
@@ -3261,7 +3261,7 @@
     "face": {
       "front": {
         "name": "Lil Baker",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilBaker.png",
         "isHorizontal": false
@@ -3277,7 +3277,7 @@
     "id": "213",
     "isToken": false,
     "name": "Lil Bamboo",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -3286,7 +3286,7 @@
     "face": {
       "front": {
         "name": "Lil Bamboo",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilBamboo.png",
         "isHorizontal": false
@@ -3301,7 +3301,7 @@
     "id": "214",
     "isToken": false,
     "name": "Lil Bellyacher",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Colorless"
@@ -3310,7 +3310,7 @@
     "face": {
       "front": {
         "name": "Lil Bellyacher",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilBellyacher.png",
         "isHorizontal": false
@@ -3325,7 +3325,7 @@
     "id": "215",
     "isToken": false,
     "name": "Lil Chef",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Green"
@@ -3334,7 +3334,7 @@
     "face": {
       "front": {
         "name": "Lil Chef",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilChef.png",
         "isHorizontal": false
@@ -3350,7 +3350,7 @@
     "id": "216",
     "isToken": false,
     "name": "Lil Comic",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Red"
@@ -3359,7 +3359,7 @@
     "face": {
       "front": {
         "name": "Lil Comic",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilComic.png",
         "isHorizontal": false
@@ -3375,7 +3375,7 @@
     "id": "217",
     "isToken": false,
     "name": "Lil Contemplator",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -3384,7 +3384,7 @@
     "face": {
       "front": {
         "name": "Lil Contemplator",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilContemplator.png",
         "isHorizontal": false
@@ -3400,7 +3400,7 @@
     "id": "218",
     "isToken": false,
     "name": "Lil Daydreamer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -3409,7 +3409,7 @@
     "face": {
       "front": {
         "name": "Lil Daydreamer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilDaydreamer.png",
         "isHorizontal": false
@@ -3425,7 +3425,7 @@
     "id": "219",
     "isToken": false,
     "name": "Lil Detective",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -3434,7 +3434,7 @@
     "face": {
       "front": {
         "name": "Lil Detective",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilDetective.png",
         "isHorizontal": false
@@ -3450,7 +3450,7 @@
     "id": "220",
     "isToken": false,
     "name": "Lil Dragonrider",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Blue"
@@ -3459,7 +3459,7 @@
     "face": {
       "front": {
         "name": "Lil Dragonrider",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilDragonrider.png",
         "isHorizontal": false
@@ -3475,7 +3475,7 @@
     "id": "221",
     "isToken": false,
     "name": "Lil Drippy",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Purple"
@@ -3484,7 +3484,7 @@
     "face": {
       "front": {
         "name": "Lil Drippy",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilDrippy.png",
         "isHorizontal": false
@@ -3500,7 +3500,7 @@
     "id": "222",
     "isToken": false,
     "name": "Lil Extrovert",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Yellow"
@@ -3509,7 +3509,7 @@
     "face": {
       "front": {
         "name": "Lil Extrovert",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilExtrovert.png",
         "isHorizontal": false
@@ -3525,7 +3525,7 @@
     "id": "223",
     "isToken": false,
     "name": "Lil Frosty",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "1",
     "Color": [
       "Blue"
@@ -3534,7 +3534,7 @@
     "face": {
       "front": {
         "name": "Lil Frosty",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "1",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilFrosty.png",
         "isHorizontal": false
@@ -3549,7 +3549,7 @@
     "id": "224",
     "isToken": false,
     "name": "Lil Gardenkeeper",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Green"
@@ -3558,7 +3558,7 @@
     "face": {
       "front": {
         "name": "Lil Gardenkeeper",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilGardenkeeper.png",
         "isHorizontal": false
@@ -3574,7 +3574,7 @@
     "id": "225",
     "isToken": false,
     "name": "Lil Insomniac",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "8",
     "Color": [
       "Red"
@@ -3583,7 +3583,7 @@
     "face": {
       "front": {
         "name": "Lil Insomniac",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "8",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilInsomniac.png",
         "isHorizontal": false
@@ -3599,7 +3599,7 @@
     "id": "226",
     "isToken": false,
     "name": "Lil Introvert",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Red"
@@ -3608,7 +3608,7 @@
     "face": {
       "front": {
         "name": "Lil Introvert",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilIntrovert.png",
         "isHorizontal": false
@@ -3624,7 +3624,7 @@
     "id": "227",
     "isToken": false,
     "name": "Lil Jelly",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Blue"
@@ -3633,7 +3633,7 @@
     "face": {
       "front": {
         "name": "Lil Jelly",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilJelly.png",
         "isHorizontal": false
@@ -3649,7 +3649,7 @@
     "id": "228",
     "isToken": false,
     "name": "Lil Juggler",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Red"
@@ -3658,7 +3658,7 @@
     "face": {
       "front": {
         "name": "Lil Juggler",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilJuggler.png",
         "isHorizontal": false
@@ -3674,7 +3674,7 @@
     "id": "229",
     "isToken": false,
     "name": "Lil Leafrider",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Yellow"
@@ -3683,7 +3683,7 @@
     "face": {
       "front": {
         "name": "Lil Leafrider",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilLeafrider.png",
         "isHorizontal": false
@@ -3698,7 +3698,7 @@
     "id": "230",
     "isToken": false,
     "name": "Lil Lifeguard",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Yellow"
@@ -3707,7 +3707,7 @@
     "face": {
       "front": {
         "name": "Lil Lifeguard",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilLifeguard.png",
         "isHorizontal": false
@@ -3723,7 +3723,7 @@
     "id": "231",
     "isToken": false,
     "name": "Lil Lodger",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Green"
@@ -3732,7 +3732,7 @@
     "face": {
       "front": {
         "name": "Lil Lodger",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilLodger.png",
         "isHorizontal": false
@@ -3748,7 +3748,7 @@
     "id": "232",
     "isToken": false,
     "name": "Lil Lookout",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -3757,7 +3757,7 @@
     "face": {
       "front": {
         "name": "Lil Lookout",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilLookout.png",
         "isHorizontal": false
@@ -3773,7 +3773,7 @@
     "id": "233",
     "isToken": false,
     "name": "Lil Lucky",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -3782,7 +3782,7 @@
     "face": {
       "front": {
         "name": "Lil Lucky",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilLucky.png",
         "isHorizontal": false
@@ -3798,7 +3798,7 @@
     "id": "234",
     "isToken": false,
     "name": "Lil Milkmaid",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -3807,7 +3807,7 @@
     "face": {
       "front": {
         "name": "Lil Milkmaid",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilMilkmaid.png",
         "isHorizontal": false
@@ -3823,7 +3823,7 @@
     "id": "235",
     "isToken": false,
     "name": "liL mOCkeR",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Blue"
@@ -3832,7 +3832,7 @@
     "face": {
       "front": {
         "name": "liL mOCkeR",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilMocker.png",
         "isHorizontal": false
@@ -3848,7 +3848,7 @@
     "id": "236",
     "isToken": false,
     "name": "Lil Moonlight",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "1",
     "Color": [
       "Purple"
@@ -3857,7 +3857,7 @@
     "face": {
       "front": {
         "name": "Lil Moonlight",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "1",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilMoonlight.png",
         "isHorizontal": false
@@ -3872,7 +3872,7 @@
     "id": "237",
     "isToken": false,
     "name": "Lil Painter",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Green"
@@ -3881,7 +3881,7 @@
     "face": {
       "front": {
         "name": "Lil Painter",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilPainter.png",
         "isHorizontal": false
@@ -3897,7 +3897,7 @@
     "id": "238",
     "isToken": false,
     "name": "Lil Paper",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -3906,7 +3906,7 @@
     "face": {
       "front": {
         "name": "Lil Paper",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilPaper.png",
         "isHorizontal": false
@@ -3922,7 +3922,7 @@
     "id": "239",
     "isToken": false,
     "name": "Lil Quaker",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -3931,7 +3931,7 @@
     "face": {
       "front": {
         "name": "Lil Quaker",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilQuaker.png",
         "isHorizontal": false
@@ -3947,7 +3947,7 @@
     "id": "240",
     "isToken": false,
     "name": "Lil Raker",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Yellow"
@@ -3956,7 +3956,7 @@
     "face": {
       "front": {
         "name": "Lil Raker",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilRaker.png",
         "isHorizontal": false
@@ -3972,7 +3972,7 @@
     "id": "241",
     "isToken": false,
     "name": "Lil Rock",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -3981,7 +3981,7 @@
     "face": {
       "front": {
         "name": "Lil Rock",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilRock.png",
         "isHorizontal": false
@@ -3997,7 +3997,7 @@
     "id": "242",
     "isToken": false,
     "name": "Lil Scissors",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -4006,7 +4006,7 @@
     "face": {
       "front": {
         "name": "Lil Scissors",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilScissors.png",
         "isHorizontal": false
@@ -4022,7 +4022,7 @@
     "id": "243",
     "isToken": false,
     "name": "Lil Shaker",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Red"
@@ -4031,7 +4031,7 @@
     "face": {
       "front": {
         "name": "Lil Shaker",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilShaker.png",
         "isHorizontal": false
@@ -4047,7 +4047,7 @@
     "id": "244",
     "isToken": false,
     "name": "Lil Singer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -4056,7 +4056,7 @@
     "face": {
       "front": {
         "name": "Lil Singer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilSinger.png",
         "isHorizontal": false
@@ -4072,7 +4072,7 @@
     "id": "245",
     "isToken": false,
     "name": "Lil Skydiver",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green"
@@ -4081,7 +4081,7 @@
     "face": {
       "front": {
         "name": "Lil Skydiver",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilSkydiver.png",
         "isHorizontal": false
@@ -4097,7 +4097,7 @@
     "id": "246",
     "isToken": false,
     "name": "Lil Solo Adventurer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -4106,7 +4106,7 @@
     "face": {
       "front": {
         "name": "Lil Solo Adventurer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilSoloAdventurer.png",
         "isHorizontal": false
@@ -4122,7 +4122,7 @@
     "id": "247",
     "isToken": false,
     "name": "Lil Space Cadet",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -4131,7 +4131,7 @@
     "face": {
       "front": {
         "name": "Lil Space Cadet",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilSpaceCadet.png",
         "isHorizontal": false
@@ -4147,7 +4147,7 @@
     "id": "248",
     "isToken": false,
     "name": "Lil Stargazer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Yellow"
@@ -4156,7 +4156,7 @@
     "face": {
       "front": {
         "name": "Lil Stargazer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilStargazer.png",
         "isHorizontal": false
@@ -4172,7 +4172,7 @@
     "id": "249",
     "isToken": false,
     "name": "Lil Surprised",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -4181,7 +4181,7 @@
     "face": {
       "front": {
         "name": "Lil Surprised",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilSurprised.png",
         "isHorizontal": false
@@ -4197,7 +4197,7 @@
     "id": "250",
     "isToken": false,
     "name": "Lil Waker",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -4206,7 +4206,7 @@
     "face": {
       "front": {
         "name": "Lil Waker",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWaker.png",
         "isHorizontal": false
@@ -4222,7 +4222,7 @@
     "id": "251",
     "isToken": false,
     "name": "Lil Who Blooms",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "1",
     "Color": [
       "Green"
@@ -4231,7 +4231,7 @@
     "face": {
       "front": {
         "name": "Lil Who Blooms",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "1",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWhoBlooms.png",
         "isHorizontal": false
@@ -4246,7 +4246,7 @@
     "id": "252",
     "isToken": false,
     "name": "Lil Who Breaks Free",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Red"
@@ -4255,7 +4255,7 @@
     "face": {
       "front": {
         "name": "Lil Who Breaks Free",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWhoBreaksFree.png",
         "isHorizontal": false
@@ -4271,7 +4271,7 @@
     "id": "253",
     "isToken": false,
     "name": "Lil Who Can't Stop Eating",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Green"
@@ -4280,7 +4280,7 @@
     "face": {
       "front": {
         "name": "Lil Who Can't Stop Eating",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWhoCantStopEating.png",
         "isHorizontal": false
@@ -4296,7 +4296,7 @@
     "id": "254",
     "isToken": false,
     "name": "Lil Who Hoops",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Blue"
@@ -4305,7 +4305,7 @@
     "face": {
       "front": {
         "name": "Lil Who Hoops",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWhoHoops.png",
         "isHorizontal": false
@@ -4321,7 +4321,7 @@
     "id": "255",
     "isToken": false,
     "name": "Lil Who Scoops",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -4330,7 +4330,7 @@
     "face": {
       "front": {
         "name": "Lil Who Scoops",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWhoScoops.png",
         "isHorizontal": false
@@ -4346,7 +4346,7 @@
     "id": "256",
     "isToken": false,
     "name": "Lil Who Slides",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -4355,7 +4355,7 @@
     "face": {
       "front": {
         "name": "Lil Who Slides",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWhoSlides.png",
         "isHorizontal": false
@@ -4371,7 +4371,7 @@
     "id": "257",
     "isToken": false,
     "name": "Lil Who's Down Bad",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Purple"
@@ -4380,7 +4380,7 @@
     "face": {
       "front": {
         "name": "Lil Who's Down Bad",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWhosDownBad.png",
         "isHorizontal": false
@@ -4396,7 +4396,7 @@
     "id": "258",
     "isToken": false,
     "name": "Lil Window Washer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Yellow"
@@ -4405,7 +4405,7 @@
     "face": {
       "front": {
         "name": "Lil Window Washer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWindowWasher.png",
         "isHorizontal": false
@@ -4421,7 +4421,7 @@
     "id": "259",
     "isToken": false,
     "name": "Lil With Balloon",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Colorless"
@@ -4430,7 +4430,7 @@
     "face": {
       "front": {
         "name": "Lil With Balloon",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilWithBalloon.png",
         "isHorizontal": false
@@ -4444,7 +4444,7 @@
     "id": "260",
     "isToken": false,
     "name": "Lil Zoomer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Red"
@@ -4453,7 +4453,7 @@
     "face": {
       "front": {
         "name": "Lil Zoomer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LilZoomer.png",
         "isHorizontal": false
@@ -4542,7 +4542,7 @@
     "id": "264",
     "isToken": false,
     "name": "Lucky Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Yellow"
@@ -4551,7 +4551,7 @@
     "face": {
       "front": {
         "name": "Lucky Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LuckyPenguin.png",
         "isHorizontal": false
@@ -4568,7 +4568,7 @@
     "id": "265",
     "isToken": false,
     "name": "Marilyl",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Blue"
@@ -4577,7 +4577,7 @@
     "face": {
       "front": {
         "name": "Marilyl",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Marilyl.png",
         "isHorizontal": false
@@ -4617,7 +4617,7 @@
     "id": "267",
     "isToken": false,
     "name": "Miss Chief, Keeper of Keys",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Blue"
@@ -4626,7 +4626,7 @@
     "face": {
       "front": {
         "name": "Miss Chief, Keeper of Keys",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/MissChiefKeeperofKeys.png",
         "isHorizontal": false
@@ -4643,7 +4643,7 @@
     "id": "268",
     "isToken": false,
     "name": "Miss Place, Forgetter of Things",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Blue"
@@ -4652,7 +4652,7 @@
     "face": {
       "front": {
         "name": "Miss Place, Forgetter of Things",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/MissPlaceForgetterofThings.png",
         "isHorizontal": false
@@ -4668,7 +4668,7 @@
     "id": "269",
     "isToken": false,
     "name": "Miss Tweeny",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "8",
     "Color": [
       "Green"
@@ -4677,7 +4677,7 @@
     "face": {
       "front": {
         "name": "Miss Tweeny",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "8",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/MissTweeny.png",
         "isHorizontal": false
@@ -4693,7 +4693,7 @@
     "id": "270",
     "isToken": false,
     "name": "Moonlit Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -4702,7 +4702,7 @@
     "face": {
       "front": {
         "name": "Moonlit Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/MoonlitPenguin.png",
         "isHorizontal": false
@@ -4740,7 +4740,7 @@
     "id": "272",
     "isToken": false,
     "name": "Mukbang Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -4749,7 +4749,7 @@
     "face": {
       "front": {
         "name": "Mukbang Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/MukbangPenguin.png",
         "isHorizontal": false
@@ -4766,7 +4766,7 @@
     "id": "273",
     "isToken": false,
     "name": "Mysterious Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Yellow"
@@ -4775,7 +4775,7 @@
     "face": {
       "front": {
         "name": "Mysterious Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/MysteriousPenguin.png",
         "isHorizontal": false
@@ -4815,7 +4815,7 @@
     "id": "275",
     "isToken": false,
     "name": "Napengulon, Legendary Host",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "10",
     "Color": [
       "Yellow"
@@ -4824,7 +4824,7 @@
     "face": {
       "front": {
         "name": "Napengulon, Legendary Host",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "10",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/NapengulonLegendaryHost.png",
         "isHorizontal": false
@@ -4937,7 +4937,7 @@
     "id": "280",
     "isToken": false,
     "name": "Nyan Cat",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Colorless"
@@ -4946,7 +4946,7 @@
     "face": {
       "front": {
         "name": "Nyan Cat",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/NyanCat.png",
         "isHorizontal": false
@@ -5057,7 +5057,7 @@
     "id": "285",
     "isToken": false,
     "name": "Ornate Swordsman Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Green"
@@ -5066,7 +5066,7 @@
     "face": {
       "front": {
         "name": "Ornate Swordsman Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/OrnateSwordsmanPenguin.png",
         "isHorizontal": false
@@ -5156,7 +5156,7 @@
     "id": "289",
     "isToken": false,
     "name": "Painter Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Blue"
@@ -5165,7 +5165,7 @@
     "face": {
       "front": {
         "name": "Painter Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PainterPenguin.png",
         "isHorizontal": false
@@ -5181,7 +5181,7 @@
     "id": "290",
     "isToken": false,
     "name": "Paper Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -5190,7 +5190,7 @@
     "face": {
       "front": {
         "name": "Paper Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PaperPenguin.png",
         "isHorizontal": false
@@ -5229,7 +5229,7 @@
     "id": "292",
     "isToken": false,
     "name": "Peace Out Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -5238,7 +5238,7 @@
     "face": {
       "front": {
         "name": "Peace Out Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PeaceOutPenguin.png",
         "isHorizontal": false
@@ -5255,7 +5255,7 @@
     "id": "293",
     "isToken": false,
     "name": "Pebblington the Brave",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -5264,7 +5264,7 @@
     "face": {
       "front": {
         "name": "Pebblington the Brave",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PebblingtonTheBrave.png",
         "isHorizontal": false
@@ -5280,7 +5280,7 @@
     "id": "294",
     "isToken": false,
     "name": "Penguin Caught in Fishing Line",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Blue"
@@ -5289,7 +5289,7 @@
     "face": {
       "front": {
         "name": "Penguin Caught in Fishing Line",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinCaughtinFishingLine.png",
         "isHorizontal": false
@@ -5305,7 +5305,7 @@
     "id": "295",
     "isToken": false,
     "name": "Penguin That Doesn't Mind Goodbyes",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Yellow"
@@ -5314,7 +5314,7 @@
     "face": {
       "front": {
         "name": "Penguin That Doesn't Mind Goodbyes",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinThatDoesntMindGoodbyes.png",
         "isHorizontal": false
@@ -5330,7 +5330,7 @@
     "id": "296",
     "isToken": false,
     "name": "Penguin Who Bakes",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green"
@@ -5339,7 +5339,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Bakes",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoBakes.png",
         "isHorizontal": false
@@ -5355,7 +5355,7 @@
     "id": "297",
     "isToken": false,
     "name": "Penguin Who Breaks the Fourth Wall",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -5364,7 +5364,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Breaks the Fourth Wall",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoBreakstheFourthWall.png",
         "isHorizontal": false
@@ -5380,7 +5380,7 @@
     "id": "298",
     "isToken": false,
     "name": "Penguin Who Carries the Berg",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -5389,7 +5389,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Carries the Berg",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoCarriestheBerg.png",
         "isHorizontal": false
@@ -5405,7 +5405,7 @@
     "id": "299",
     "isToken": false,
     "name": "Penguin Who Explores the Reef",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Blue"
@@ -5414,7 +5414,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Explores the Reef",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoExplorestheReef.png",
         "isHorizontal": false
@@ -5430,7 +5430,7 @@
     "id": "300",
     "isToken": false,
     "name": "Penguin Who Might Bring a Plus One",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -5439,7 +5439,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Might Bring a Plus One",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoMightBringaPlusOne.png",
         "isHorizontal": false
@@ -5455,7 +5455,7 @@
     "id": "301",
     "isToken": false,
     "name": "Penguin Who Quakes",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -5464,7 +5464,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Quakes",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoQuakes.png",
         "isHorizontal": false
@@ -5480,7 +5480,7 @@
     "id": "302",
     "isToken": false,
     "name": "Penguin Who Rakes",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Yellow"
@@ -5489,7 +5489,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Rakes",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoRakes.png",
         "isHorizontal": false
@@ -5505,7 +5505,7 @@
     "id": "303",
     "isToken": false,
     "name": "Penguin Who Runs the Lift",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -5514,7 +5514,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Runs the Lift",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoRunstheLift.png",
         "isHorizontal": false
@@ -5530,7 +5530,7 @@
     "id": "304",
     "isToken": false,
     "name": "Penguin Who Shakes",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Red"
@@ -5539,7 +5539,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Shakes",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoShakes.png",
         "isHorizontal": false
@@ -5555,7 +5555,7 @@
     "id": "305",
     "isToken": false,
     "name": "Penguin Who Spills the Tea",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "7",
     "Color": [
       "Yellow"
@@ -5564,7 +5564,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Spills the Tea",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "7",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoSpillstheTea.png",
         "isHorizontal": false
@@ -5580,7 +5580,7 @@
     "id": "306",
     "isToken": false,
     "name": "Penguin Who Wakes",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Blue"
@@ -5589,7 +5589,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Wakes",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoWakes.png",
         "isHorizontal": false
@@ -5605,7 +5605,7 @@
     "id": "307",
     "isToken": false,
     "name": "Penguin Who Zooms",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "1",
     "Color": [
       "Yellow"
@@ -5614,7 +5614,7 @@
     "face": {
       "front": {
         "name": "Penguin Who Zooms",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "1",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoZooms.png",
         "isHorizontal": false
@@ -5631,7 +5631,7 @@
     "id": "308",
     "isToken": false,
     "name": "Penguin Who's Late to the Party",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -5640,7 +5640,7 @@
     "face": {
       "front": {
         "name": "Penguin Who's Late to the Party",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhosLatetotheParty.png",
         "isHorizontal": false
@@ -5656,7 +5656,7 @@
     "id": "309",
     "isToken": false,
     "name": "Penguin Who's OK",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Blue"
@@ -5665,7 +5665,7 @@
     "face": {
       "front": {
         "name": "Penguin Who's OK",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhosOK.png",
         "isHorizontal": false
@@ -5681,7 +5681,7 @@
     "id": "310",
     "isToken": false,
     "name": "Penguin Whose Belly Aches",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Colorless"
@@ -5690,7 +5690,7 @@
     "face": {
       "front": {
         "name": "Penguin Whose Belly Aches",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoseBellyAches.png",
         "isHorizontal": false
@@ -5705,7 +5705,7 @@
     "id": "311",
     "isToken": false,
     "name": "Penguin Whose Garden Grows",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green"
@@ -5714,7 +5714,7 @@
     "face": {
       "front": {
         "name": "Penguin Whose Garden Grows",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWhoseGardenGrows.png",
         "isHorizontal": false
@@ -5731,7 +5731,7 @@
     "id": "312",
     "isToken": false,
     "name": "Penguin With Great Mystique",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Green"
@@ -5740,7 +5740,7 @@
     "face": {
       "front": {
         "name": "Penguin With Great Mystique",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWithGreatMystique.png",
         "isHorizontal": false
@@ -5756,7 +5756,7 @@
     "id": "313",
     "isToken": false,
     "name": "Penguin With Hoops",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -5765,7 +5765,7 @@
     "face": {
       "front": {
         "name": "Penguin With Hoops",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWithHoops.png",
         "isHorizontal": false
@@ -5781,7 +5781,7 @@
     "id": "314",
     "isToken": false,
     "name": "Penguin With Lil Mystique",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -5790,7 +5790,7 @@
     "face": {
       "front": {
         "name": "Penguin With Lil Mystique",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWithLilMystique.png",
         "isHorizontal": false
@@ -5806,7 +5806,7 @@
     "id": "315",
     "isToken": false,
     "name": "Penguin With a Flag",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -5815,7 +5815,7 @@
     "face": {
       "front": {
         "name": "Penguin With a Flag",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWithaFlag.png",
         "isHorizontal": false
@@ -5831,7 +5831,7 @@
     "id": "316",
     "isToken": false,
     "name": "Penguin With a Rod of His Own",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Colorless"
@@ -5840,7 +5840,7 @@
     "face": {
       "front": {
         "name": "Penguin With a Rod of His Own",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinWithaRodofHisOwn.png",
         "isHorizontal": false
@@ -5855,7 +5855,7 @@
     "id": "317",
     "isToken": false,
     "name": "Penguin in Color",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "- Vibes Card - Orange Cap Games ← Back to Card Library Penguin in Color Type Penguin Color Green"
@@ -5864,7 +5864,7 @@
     "face": {
       "front": {
         "name": "Penguin in Color",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguininColor.png",
         "isHorizontal": false
@@ -5880,7 +5880,7 @@
     "id": "318",
     "isToken": false,
     "name": "Penguin of the Falling Leaves",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -5889,7 +5889,7 @@
     "face": {
       "front": {
         "name": "Penguin of the Falling Leaves",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PenguinoftheFallingLeaves.png",
         "isHorizontal": false
@@ -5904,7 +5904,7 @@
     "id": "319",
     "isToken": false,
     "name": "Peppy Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Green"
@@ -5913,7 +5913,7 @@
     "face": {
       "front": {
         "name": "Peppy Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PeppyPenguin.png",
         "isHorizontal": false
@@ -5929,7 +5929,7 @@
     "id": "320",
     "isToken": false,
     "name": "Petite Pourer",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "8",
     "Color": [
       "Purple"
@@ -5938,7 +5938,7 @@
     "face": {
       "front": {
         "name": "Petite Pourer",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "8",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PetitePourer.png",
         "isHorizontal": false
@@ -5978,7 +5978,7 @@
     "id": "322",
     "isToken": false,
     "name": "Pleepem, Who Stands Alone",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "8",
     "Color": [
       "Yellow"
@@ -5987,7 +5987,7 @@
     "face": {
       "front": {
         "name": "Pleepem, Who Stands Alone",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "8",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PleepemWhoStandsAlone.png",
         "isHorizontal": false
@@ -6003,7 +6003,7 @@
     "id": "323",
     "isToken": false,
     "name": "Pointsrich Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Green"
@@ -6012,7 +6012,7 @@
     "face": {
       "front": {
         "name": "Pointsrich Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PointsrichPenguin.png",
         "isHorizontal": false
@@ -6027,7 +6027,7 @@
     "id": "324",
     "isToken": false,
     "name": "Pongo",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Colorless"
@@ -6036,7 +6036,7 @@
     "face": {
       "front": {
         "name": "Pongo",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Pongo.png",
         "isHorizontal": false
@@ -6051,7 +6051,7 @@
     "id": "325",
     "isToken": false,
     "name": "Popcorn Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Red"
@@ -6060,7 +6060,7 @@
     "face": {
       "front": {
         "name": "Popcorn Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PopcornPenguin.png",
         "isHorizontal": false
@@ -6077,7 +6077,7 @@
     "id": "326",
     "isToken": false,
     "name": "Poppin' Pete",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -6086,7 +6086,7 @@
     "face": {
       "front": {
         "name": "Poppin' Pete",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PoppinPete.png",
         "isHorizontal": false
@@ -6102,7 +6102,7 @@
     "id": "327",
     "isToken": false,
     "name": "Porthole Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -6111,7 +6111,7 @@
     "face": {
       "front": {
         "name": "Porthole Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PortholePenguin.png",
         "isHorizontal": false
@@ -6127,7 +6127,7 @@
     "id": "328",
     "isToken": false,
     "name": "Pot-Stirring Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -6136,7 +6136,7 @@
     "face": {
       "front": {
         "name": "Pot-Stirring Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PotStirringPenguin.png",
         "isHorizontal": false
@@ -6200,7 +6200,7 @@
     "id": "331",
     "isToken": false,
     "name": "Primo Wizard Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Colorless"
@@ -6209,7 +6209,7 @@
     "face": {
       "front": {
         "name": "Primo Wizard Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PrimoWizardPenguin.png",
         "isHorizontal": false
@@ -6225,7 +6225,7 @@
     "id": "332",
     "isToken": false,
     "name": "Prosperous Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -6234,7 +6234,7 @@
     "face": {
       "front": {
         "name": "Prosperous Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ProsperousPenguin.png",
         "isHorizontal": false
@@ -6297,7 +6297,7 @@
     "id": "335",
     "isToken": false,
     "name": "Purple Mega Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Purple"
@@ -6306,7 +6306,7 @@
     "face": {
       "front": {
         "name": "Purple Mega Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PurpleMegaPenguin.png",
         "isHorizontal": false
@@ -6322,7 +6322,7 @@
     "id": "336",
     "isToken": false,
     "name": "Purple Wizard Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Purple"
@@ -6331,7 +6331,7 @@
     "face": {
       "front": {
         "name": "Purple Wizard Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PurpleWizardPenguin.png",
         "isHorizontal": false
@@ -6421,7 +6421,7 @@
     "id": "340",
     "isToken": false,
     "name": "Rad Chill, Who's Super Cool",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "10",
     "Color": [
       "Blue"
@@ -6430,7 +6430,7 @@
     "face": {
       "front": {
         "name": "Rad Chill, Who's Super Cool",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "10",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RadChillWhosSuperCool.png",
         "isHorizontal": false
@@ -6470,7 +6470,7 @@
     "id": "342",
     "isToken": false,
     "name": "Red Mega Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Red"
@@ -6479,7 +6479,7 @@
     "face": {
       "front": {
         "name": "Red Mega Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RedMegaPenguin.png",
         "isHorizontal": false
@@ -6495,7 +6495,7 @@
     "id": "343",
     "isToken": false,
     "name": "Red Wizard Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Red"
@@ -6504,7 +6504,7 @@
     "face": {
       "front": {
         "name": "Red Wizard Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RedWizardPenguin.png",
         "isHorizontal": false
@@ -6520,7 +6520,7 @@
     "id": "344",
     "isToken": false,
     "name": "Ribbon-Dancing Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -6529,7 +6529,7 @@
     "face": {
       "front": {
         "name": "Ribbon-Dancing Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RibbonDancingPenguin.png",
         "isHorizontal": false
@@ -6569,7 +6569,7 @@
     "id": "346",
     "isToken": false,
     "name": "Risk-Taking Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Red"
@@ -6578,7 +6578,7 @@
     "face": {
       "front": {
         "name": "Risk-Taking Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RiskTakingPenguin.png",
         "isHorizontal": false
@@ -6594,7 +6594,7 @@
     "id": "347",
     "isToken": false,
     "name": "Rock Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -6603,7 +6603,7 @@
     "face": {
       "front": {
         "name": "Rock Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RockPenguin.png",
         "isHorizontal": false
@@ -6688,7 +6688,7 @@
     "id": "351",
     "isToken": false,
     "name": "Romulus Who Roams",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "7",
     "Color": [
       "Green"
@@ -6697,7 +6697,7 @@
     "face": {
       "front": {
         "name": "Romulus Who Roams",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "7",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RomulusWhoRoams.png",
         "isHorizontal": false
@@ -6712,7 +6712,7 @@
     "id": "352",
     "isToken": false,
     "name": "Run-It-Back Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Red"
@@ -6721,7 +6721,7 @@
     "face": {
       "front": {
         "name": "Run-It-Back Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RunItBackPenguin.png",
         "isHorizontal": false
@@ -6737,7 +6737,7 @@
     "id": "353",
     "isToken": false,
     "name": "Samantha Feathers, Pop Idol",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Green"
@@ -6746,7 +6746,7 @@
     "face": {
       "front": {
         "name": "Samantha Feathers, Pop Idol",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SamanthaFeathersPopIdol.png",
         "isHorizontal": false
@@ -6762,7 +6762,7 @@
     "id": "354",
     "isToken": false,
     "name": "Scissors Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -6771,7 +6771,7 @@
     "face": {
       "front": {
         "name": "Scissors Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ScissorsPenguin.png",
         "isHorizontal": false
@@ -6787,7 +6787,7 @@
     "id": "355",
     "isToken": false,
     "name": "Screaming Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Red"
@@ -6796,7 +6796,7 @@
     "face": {
       "front": {
         "name": "Screaming Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ScreamingPenguin.png",
         "isHorizontal": false
@@ -6885,7 +6885,7 @@
     "id": "359",
     "isToken": false,
     "name": "Serene Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Red"
@@ -6894,7 +6894,7 @@
     "face": {
       "front": {
         "name": "Serene Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SerenePenguin.png",
         "isHorizontal": false
@@ -6910,7 +6910,7 @@
     "id": "360",
     "isToken": false,
     "name": "Shapenguzad",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "7",
     "Color": [
       "Yellow"
@@ -6919,7 +6919,7 @@
     "face": {
       "front": {
         "name": "Shapenguzad",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "7",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Shapenguzad.png",
         "isHorizontal": false
@@ -6960,7 +6960,7 @@
     "id": "362",
     "isToken": false,
     "name": "Shocking Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Yellow"
@@ -6969,7 +6969,7 @@
     "face": {
       "front": {
         "name": "Shocking Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ShockingPenguin.png",
         "isHorizontal": false
@@ -6985,7 +6985,7 @@
     "id": "363",
     "isToken": false,
     "name": "Shy Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Yellow"
@@ -6994,7 +6994,7 @@
     "face": {
       "front": {
         "name": "Shy Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ShyPenguin.png",
         "isHorizontal": false
@@ -7058,7 +7058,7 @@
     "id": "366",
     "isToken": false,
     "name": "Simon Smasher",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Red"
@@ -7067,7 +7067,7 @@
     "face": {
       "front": {
         "name": "Simon Smasher",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SimonSmasher.png",
         "isHorizontal": false
@@ -7083,7 +7083,7 @@
     "id": "367",
     "isToken": false,
     "name": "Sir Vibesalil",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "16",
     "Color": [
       "Green"
@@ -7092,7 +7092,7 @@
     "face": {
       "front": {
         "name": "Sir Vibesalil",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "16",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SirVibesalil.png",
         "isHorizontal": false
@@ -7108,7 +7108,7 @@
     "id": "368",
     "isToken": false,
     "name": "Sir Vibesalot",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "10",
     "Color": [
       "Green"
@@ -7117,7 +7117,7 @@
     "face": {
       "front": {
         "name": "Sir Vibesalot",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "10",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SirVibesalot.png",
         "isHorizontal": false
@@ -7132,7 +7132,7 @@
     "id": "369",
     "isToken": false,
     "name": "Sir Waddlesworth",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "9",
     "Color": [
       "Yellow"
@@ -7141,7 +7141,7 @@
     "face": {
       "front": {
         "name": "Sir Waddlesworth",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "9",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SirWaddlesworth.png",
         "isHorizontal": false
@@ -7157,7 +7157,7 @@
     "id": "370",
     "isToken": false,
     "name": "Sketching Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Green"
@@ -7166,7 +7166,7 @@
     "face": {
       "front": {
         "name": "Sketching Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SketchingPenguin.png",
         "isHorizontal": false
@@ -7182,7 +7182,7 @@
     "id": "371",
     "isToken": false,
     "name": "Skydiving Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "8",
     "Color": [
       "Colorless"
@@ -7191,7 +7191,7 @@
     "face": {
       "front": {
         "name": "Skydiving Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "8",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SkydivingPenguin.png",
         "isHorizontal": false
@@ -7206,7 +7206,7 @@
     "id": "372",
     "isToken": false,
     "name": "Sliding Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Green"
@@ -7215,7 +7215,7 @@
     "face": {
       "front": {
         "name": "Sliding Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SlidingPenguin.png",
         "isHorizontal": false
@@ -7231,7 +7231,7 @@
     "id": "373",
     "isToken": false,
     "name": "Sneaky Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -7240,7 +7240,7 @@
     "face": {
       "front": {
         "name": "Sneaky Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SneakyPenguin.png",
         "isHorizontal": false
@@ -7256,7 +7256,7 @@
     "id": "374",
     "isToken": false,
     "name": "Son of Lil",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Green"
@@ -7265,7 +7265,7 @@
     "face": {
       "front": {
         "name": "Son of Lil",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SonOfLil.png",
         "isHorizontal": false
@@ -7281,7 +7281,7 @@
     "id": "375",
     "isToken": false,
     "name": "Space Cadet Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -7290,7 +7290,7 @@
     "face": {
       "front": {
         "name": "Space Cadet Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SpaceCadetPenguin.png",
         "isHorizontal": false
@@ -7377,7 +7377,7 @@
     "id": "379",
     "isToken": false,
     "name": "Squibblestone the Wise",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Red"
@@ -7386,7 +7386,7 @@
     "face": {
       "front": {
         "name": "Squibblestone the Wise",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SquibblestoneTheWise.png",
         "isHorizontal": false
@@ -7426,7 +7426,7 @@
     "id": "381",
     "isToken": false,
     "name": "Stargazing Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green"
@@ -7435,7 +7435,7 @@
     "face": {
       "front": {
         "name": "Stargazing Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/StargazingPenguin.png",
         "isHorizontal": false
@@ -7474,7 +7474,7 @@
     "id": "383",
     "isToken": false,
     "name": "Striking Swordsman Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -7483,7 +7483,7 @@
     "face": {
       "front": {
         "name": "Striking Swordsman Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/StrikingSwordsmanPenguin.png",
         "isHorizontal": false
@@ -7523,7 +7523,7 @@
     "id": "385",
     "isToken": false,
     "name": "Success Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Green"
@@ -7532,7 +7532,7 @@
     "face": {
       "front": {
         "name": "Success Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SuccessPenguin.png",
         "isHorizontal": false
@@ -7573,7 +7573,7 @@
     "id": "387",
     "isToken": false,
     "name": "Supportive Friend",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Colorless"
@@ -7582,7 +7582,7 @@
     "face": {
       "front": {
         "name": "Supportive Friend",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SupportiveFriend.png",
         "isHorizontal": false
@@ -7597,7 +7597,7 @@
     "id": "388",
     "isToken": false,
     "name": "Teleporter Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "7",
     "Color": [
       "Colorless"
@@ -7606,7 +7606,7 @@
     "face": {
       "front": {
         "name": "Teleporter Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "7",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TeleporterPenguin.png",
         "isHorizontal": false
@@ -7621,7 +7621,7 @@
     "id": "389",
     "isToken": false,
     "name": "Thawing Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -7630,7 +7630,7 @@
     "face": {
       "front": {
         "name": "Thawing Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ThawingPenguin.png",
         "isHorizontal": false
@@ -7646,7 +7646,7 @@
     "id": "390",
     "isToken": false,
     "name": "The Champion of Clouds",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Yellow"
@@ -7655,7 +7655,7 @@
     "face": {
       "front": {
         "name": "The Champion of Clouds",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TheChampionOfClouds.png",
         "isHorizontal": false
@@ -7694,7 +7694,7 @@
     "id": "392",
     "isToken": false,
     "name": "The Herald of Horizons",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Blue"
@@ -7703,7 +7703,7 @@
     "face": {
       "front": {
         "name": "The Herald of Horizons",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TheHeraldOfHorizons.png",
         "isHorizontal": false
@@ -7719,7 +7719,7 @@
     "id": "393",
     "isToken": false,
     "name": "The Lord of Lightning",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Red"
@@ -7728,7 +7728,7 @@
     "face": {
       "front": {
         "name": "The Lord of Lightning",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TheLordOfLightning.png",
         "isHorizontal": false
@@ -7744,7 +7744,7 @@
     "id": "394",
     "isToken": false,
     "name": "The Savior of Skies",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Green"
@@ -7753,7 +7753,7 @@
     "face": {
       "front": {
         "name": "The Savior of Skies",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TheSaviorOfSkies.png",
         "isHorizontal": false
@@ -7769,7 +7769,7 @@
     "id": "395",
     "isToken": false,
     "name": "The Warden of Wind",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Purple"
@@ -7778,7 +7778,7 @@
     "face": {
       "front": {
         "name": "The Warden of Wind",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TheWardenOfWind.png",
         "isHorizontal": false
@@ -7866,7 +7866,7 @@
     "id": "399",
     "isToken": false,
     "name": "Tidal Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "9",
     "Color": [
       "Blue"
@@ -7875,7 +7875,7 @@
     "face": {
       "front": {
         "name": "Tidal Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "9",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TidalPenguin.png",
         "isHorizontal": false
@@ -7915,7 +7915,7 @@
     "id": "401",
     "isToken": false,
     "name": "Tina Who Tears",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Blue"
@@ -7924,7 +7924,7 @@
     "face": {
       "front": {
         "name": "Tina Who Tears",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TinaWhoTears.png",
         "isHorizontal": false
@@ -8060,7 +8060,7 @@
     "id": "407",
     "isToken": false,
     "name": "Tubbins the Bold",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "4",
     "Color": [
       "Green"
@@ -8069,7 +8069,7 @@
     "face": {
       "front": {
         "name": "Tubbins the Bold",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "4",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TubbinsTheBold.png",
         "isHorizontal": false
@@ -8156,7 +8156,7 @@
     "id": "411",
     "isToken": false,
     "name": "Unmasked Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "3",
     "Color": [
       "Purple"
@@ -8165,7 +8165,7 @@
     "face": {
       "front": {
         "name": "Unmasked Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "3",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/UnmaskedPenguin.png",
         "isHorizontal": false
@@ -8229,7 +8229,7 @@
     "id": "414",
     "isToken": false,
     "name": "Waterfall Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Blue"
@@ -8238,7 +8238,7 @@
     "face": {
       "front": {
         "name": "Waterfall Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WaterfallPenguin.png",
         "isHorizontal": false
@@ -8325,7 +8325,7 @@
     "id": "418",
     "isToken": false,
     "name": "Window-Washing Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "6",
     "Color": [
       "Green"
@@ -8334,7 +8334,7 @@
     "face": {
       "front": {
         "name": "Window-Washing Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "6",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WindowWashingPenguin.png",
         "isHorizontal": false
@@ -8374,7 +8374,7 @@
     "id": "420",
     "isToken": false,
     "name": "Wizard of Balloons",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Red",
@@ -8384,7 +8384,7 @@
     "face": {
       "front": {
         "name": "Wizard of Balloons",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WizardOfBalloons.png",
         "isHorizontal": false
@@ -8399,7 +8399,7 @@
     "id": "421",
     "isToken": false,
     "name": "Wizard of Dreams",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow",
@@ -8409,7 +8409,7 @@
     "face": {
       "front": {
         "name": "Wizard of Dreams",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WizardOfDreams.png",
         "isHorizontal": false
@@ -8424,7 +8424,7 @@
     "id": "422",
     "isToken": false,
     "name": "Wizard of Feathers",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Blue",
@@ -8434,7 +8434,7 @@
     "face": {
       "front": {
         "name": "Wizard of Feathers",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WizardOfFeathers.png",
         "isHorizontal": false
@@ -8449,7 +8449,7 @@
     "id": "423",
     "isToken": false,
     "name": "Wizard of the Deep",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow",
@@ -8459,7 +8459,7 @@
     "face": {
       "front": {
         "name": "Wizard of the Deep",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WizardOfTheDeep.png",
         "isHorizontal": false
@@ -8474,7 +8474,7 @@
     "id": "424",
     "isToken": false,
     "name": "Wizard of the Void",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Green",
@@ -8484,7 +8484,7 @@
     "face": {
       "front": {
         "name": "Wizard of the Void",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WizardOfTheVoid.png",
         "isHorizontal": false
@@ -8523,7 +8523,7 @@
     "id": "426",
     "isToken": false,
     "name": "Yellow Mega Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "5",
     "Color": [
       "Yellow"
@@ -8532,7 +8532,7 @@
     "face": {
       "front": {
         "name": "Yellow Mega Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "5",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/YellowMegaPenguin.png",
         "isHorizontal": false
@@ -8549,7 +8549,7 @@
     "id": "427",
     "isToken": false,
     "name": "Yellow Wizard Penguin",
-    "type": "Penguin",
+    "type": "Character",
     "cost": "2",
     "Color": [
       "Yellow"
@@ -8558,7 +8558,7 @@
     "face": {
       "front": {
         "name": "Yellow Wizard Penguin",
-        "type": "Penguin",
+        "type": "Character",
         "cost": "2",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/YellowWizardPenguin.png",
         "isHorizontal": false

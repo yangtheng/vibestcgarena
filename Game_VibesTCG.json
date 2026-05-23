@@ -11,7 +11,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/yangtheng/vibestcgarena/main/CardList.updated.json",
-    "cardBack": ""
+    "cardBack": "https://imgur.com/a/FEHx2ph"
   },
   "deckBuilding": {
     "mainFilters": [],
