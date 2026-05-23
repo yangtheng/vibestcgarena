@@ -8618,5 +8618,1571 @@
     "pudge": "Card Text Ice all Penguins.",
     "text": "Ice all Penguins.",
     "source_url": "https://www.vibes.game/spoiler/YumYum"
+  },
+  "430": {
+    "id": "430",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Afternoon Breeze",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/afternoon-breeze.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Afternoon Breeze",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "431": {
+    "id": "431",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Art Museum",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/art-museum.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Art Museum",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "432": {
+    "id": "432",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bachelor Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/bachelor-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bachelor Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "433": {
+    "id": "433",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baker Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/baker-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baker Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "434": {
+    "id": "434",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Big Ben",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/big-ben.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Big Ben",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "435": {
+    "id": "435",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Birb Bay",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/birb-bay.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Birb Bay",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "436": {
+    "id": "436",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Birb Who S 100 Feet Tall",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/birb-who-s-100-feet-tall.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Birb Who S 100 Feet Tall",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "437": {
+    "id": "437",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "438": {
+    "id": "438",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Birbman",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/birbman.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Birbman",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "439": {
+    "id": "439",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buffering Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/buffering-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buffering Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "440": {
+    "id": "440",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "But You Didn T Even Win",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/but-you-didn-t-even-win.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "But You Didn T Even Win",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "441": {
+    "id": "441",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cloak Of Illusions",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/cloak-of-illusions.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cloak Of Illusions",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "442": {
+    "id": "442",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coastal Surfboard",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/coastal-surfboard.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coastal Surfboard",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "443": {
+    "id": "443",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cozy Mittens",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/cozy-mittens.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cozy Mittens",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "444": {
+    "id": "444",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "E Mc Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/e-mc-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "E Mc Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "445": {
+    "id": "445",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elegant Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/elegant-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elegant Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "446": {
+    "id": "446",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enchanted Boots",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/enchanted-boots.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enchanted Boots",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "447": {
+    "id": "447",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Farmer Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/farmer-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Farmer Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "448": {
+    "id": "448",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fisherman Penguin",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/fisherman-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fisherman Penguin",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "449": {
+    "id": "449",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Free Fall",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/free-fall.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Free Fall",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "450": {
+    "id": "450",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frostbitten Wizbirb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/frostbitten-wizbirb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frostbitten Wizbirb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "451": {
+    "id": "451",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goalie Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/goalie-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goalie Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "452": {
+    "id": "452",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Good Vibes Only",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/good-vibes-only.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Good Vibes Only",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "453": {
+    "id": "453",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Healthy Push",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/healthy-push.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Healthy Push",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "454": {
+    "id": "454",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Here Come Dat Peng",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/here-come-dat-peng.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Here Come Dat Peng",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "455": {
+    "id": "455",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hero S Sword",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/hero-s-sword.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hero S Sword",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "456": {
+    "id": "456",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hypnotized Penguin",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/hypnotized-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hypnotized Penguin",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "457": {
+    "id": "457",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Identity Crisis",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/identity-crisis.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Identity Crisis",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "458": {
+    "id": "458",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iron Penguin",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/iron-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iron Penguin",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "459": {
+    "id": "459",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jaskel Imaginator",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/jaskel-imaginator.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jaskel Imaginator",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "460": {
+    "id": "460",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jolly Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/jolly-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jolly Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "461": {
+    "id": "461",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lame Story Sis",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lame-story-sis.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lame Story Sis",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "462": {
+    "id": "462",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lift Off",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lift-off.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lift Off",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "463": {
+    "id": "463",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Balanced",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lil-balanced.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lil Balanced",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "464": {
+    "id": "464",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Forgotten",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lil-forgotten.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lil Forgotten",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "465": {
+    "id": "465",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Gamer",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lil-gamer.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lil Gamer",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "466": {
+    "id": "466",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Helium",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lil-helium.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lil Helium",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "467": {
+    "id": "467",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Persuader",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lil-persuader.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lil Persuader",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "468": {
+    "id": "468",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luckmaking Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/luckmaking-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luckmaking Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "469": {
+    "id": "469",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lumin Who Sees All",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lumin-who-sees-all.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lumin Who Sees All",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "470": {
+    "id": "470",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lunaris The Infinite",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lunaris-the-infinite.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lunaris The Infinite",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "471": {
+    "id": "471",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Myra Of The Mist",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/myra-of-the-mist.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Myra Of The Mist",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "472": {
+    "id": "472",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Night Of The Living Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/night-of-the-living-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Night Of The Living Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "473": {
+    "id": "473",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nightveil Wizbirb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/nightveil-wizbirb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nightveil Wizbirb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "474": {
+    "id": "474",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nimbus The Quick",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/nimbus-the-quick.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nimbus The Quick",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "475": {
+    "id": "475",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orrin Forest Guardian",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/orrin-forest-guardian.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orrin Forest Guardian",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "476": {
+    "id": "476",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pengu",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/pengu.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pengu",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "477": {
+    "id": "477",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pluma",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/pluma.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pluma",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "478": {
+    "id": "478",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pointing Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/pointing-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pointing Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "479": {
+    "id": "479",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prized Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/prized-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prized Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "480": {
+    "id": "480",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quantum Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/quantum-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quantum Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "481": {
+    "id": "481",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quiver The Flightful",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/quiver-the-flightful.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quiver The Flightful",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "482": {
+    "id": "482",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Realist Penguin",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/realist-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Realist Penguin",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "483": {
+    "id": "483",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reflective Penguin",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/reflective-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reflective Penguin",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "484": {
+    "id": "484",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reminisce",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/reminisce.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reminisce",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "485": {
+    "id": "485",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roasting Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/roasting-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roasting Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "486": {
+    "id": "486",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scholar Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/scholar-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scholar Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "487": {
+    "id": "487",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Set Sail",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/set-sail.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Set Sail",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "488": {
+    "id": "488",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Side Eye",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/side-eye.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Side Eye",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "489": {
+    "id": "489",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sleepy Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/sleepy-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sleepy Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "490": {
+    "id": "490",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squad Strike",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/squad-strike.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squad Strike",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "491": {
+    "id": "491",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Step By Step",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/step-by-step.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Step By Step",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "492": {
+    "id": "492",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stonebreaker Wizbirb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/stonebreaker-wizbirb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stonebreaker Wizbirb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "493": {
+    "id": "493",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Striker Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/striker-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Striker Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "494": {
+    "id": "494",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Study All Day",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/study-all-day.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Study All Day",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "495": {
+    "id": "495",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sudsy Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/sudsy-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sudsy Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "496": {
+    "id": "496",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tailor Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/tailor-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tailor Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "497": {
+    "id": "497",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taj Mahal",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/taj-mahal.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taj Mahal",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "498": {
+    "id": "498",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Birb Of Music",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/the-birb-of-music.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Birb Of Music",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "499": {
+    "id": "499",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Birb Of Venus",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/the-birb-of-venus.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Birb Of Venus",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "500": {
+    "id": "500",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Peng",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/the-peng.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Peng",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "501": {
+    "id": "501",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Prophecy Unfolds",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/the-prophecy-unfolds.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Prophecy Unfolds",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "502": {
+    "id": "502",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Rodromancer",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/the-rodromancer.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Rodromancer",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "503": {
+    "id": "503",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "This Is Not A Pudgy",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/this-is-not-a-pudgy.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "This Is Not A Pudgy",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "504": {
+    "id": "504",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Time Warp Toss",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/time-warp-toss.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Time Warp Toss",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "505": {
+    "id": "505",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Toasting Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/toasting-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toasting Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "506": {
+    "id": "506",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tony Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/tony-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tony Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "507": {
+    "id": "507",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Traveler S Lantern",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/traveler-s-lantern.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Traveler S Lantern",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "508": {
+    "id": "508",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "True Form",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/true-form.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "True Form",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "509": {
+    "id": "509",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turn It Up",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/turn-it-up.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turn It Up",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "510": {
+    "id": "510",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Umbra On Dream S Edge",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/umbra-on-dream-s-edge.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Umbra On Dream S Edge",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "511": {
+    "id": "511",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uncertain Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/uncertain-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uncertain Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "512": {
+    "id": "512",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unidentified Flying Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/unidentified-flying-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unidentified Flying Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "513": {
+    "id": "513",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vesper Who Is The Night",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/vesper-who-is-the-night.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vesper Who Is The Night",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "514": {
+    "id": "514",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vibe Scan",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/vibe-scan.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vibe Scan",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "515": {
+    "id": "515",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Victorious Penguin",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/victorious-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Victorious Penguin",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "516": {
+    "id": "516",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Window Shopping Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/window-shopping-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Window Shopping Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
   }
 }
