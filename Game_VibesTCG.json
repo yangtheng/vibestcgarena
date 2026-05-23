@@ -134,7 +134,7 @@
           "Mana": {
             "title": "Mana",
             "isHidden": "opponent-only",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -198,8 +198,8 @@
           "Stack": {
             "title": "Stack",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "START",
+            "height": "SMALL",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
