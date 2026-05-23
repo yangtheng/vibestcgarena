@@ -8,7 +8,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": "90",
+  "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/yangtheng/vibestcgarena/main/CardList.updated.json",
     "cardBack": "https://i.imgur.com/BhM0Y3d.png"
@@ -28,9 +28,7 @@
       "mulligan": {
         "info": "Choose cards to put below your deck",
         "startingHandSize": "5",
-        "drawNewHand": false,
-        "putSelectionAtBottom": true,
-        "drawNewSelectedCards": false
+        "steps": ["toBottom","draw"]
       },
       "newTurn": {
         "drawOnStart": true,
