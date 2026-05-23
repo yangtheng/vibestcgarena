@@ -11,7 +11,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/yangtheng/vibestcgarena/main/CardList.updated.json",
-    "cardBack": "https://imgur.com/a/FEHx2ph"
+    "cardBack": "https://i.imgur.com/BhM0Y3d.png"
   },
   "deckBuilding": {
     "mainFilters": [],
@@ -44,7 +44,7 @@
       "tokens": [
         {
           "name": "Baron",
-          "image": "https://imgur.com/a/hvS9Tex",
+          "image": "https://i.imgur.com/sFu2t1E.png",
           "isUnique": true,
           "leavesAtEndOfTurn": false
         }
