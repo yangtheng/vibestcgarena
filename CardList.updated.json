@@ -1,7 +1,7 @@
 {
   "1": {
 	"id": "1",
-  	"isToken": false,
+  	"isToken": true,
 	"face": {
 		"front": {
 			"name": "Baron",

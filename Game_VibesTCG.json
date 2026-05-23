@@ -40,18 +40,10 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "Baron",
         "drawPerTurn": "0"
       },
       "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "Baron",
-          "image": "https://i.imgur.com/sFu2t1E.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        }
-      ],
+      "tokens": [],
       "countersStartingValues": [
         "1"
       ],
