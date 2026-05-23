@@ -28,7 +28,14 @@
       "mulligan": {
         "info": "Choose cards to put below your deck",
         "startingHandSize": "5",
-        "steps": ["toBottom","draw"]
+	"mulliganCount": {
+        	"min": 0,
+        	"max": 5
+    	},
+	"mulliganCycle": {
+        	"steps": ["toBottom","draw"],
+		"keepCardsOrder": true	
+	}
       },
       "newTurn": {
         "drawOnStart": true,
