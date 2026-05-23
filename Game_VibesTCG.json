@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://github.com/yangtheng/vibestcgarena/blob/main/CardList.updated.json",
+    "dataUrl": "https://raw.githubusercontent.com/yangtheng/vibestcgarena/main/CardList.updated.json",
     "cardBack": ""
   },
   "deckBuilding": {
