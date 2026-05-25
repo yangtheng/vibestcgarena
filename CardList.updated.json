@@ -10184,5 +10184,23 @@
     "cost": "",
     "Color": [],
     "Cost": ""
+  },
+  "517": {
+    "id": "517",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hammer Rod",
+        "type": "Rod",
+        "cost": "",
+        "image": "https://i.imgur.com/sFu2t1E.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hammer Rod",
+    "type": "Rod",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
   }
 }
