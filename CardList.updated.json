@@ -29,16 +29,16 @@
     "isToken": false,
     "name": "A Drop in Attention",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "A Drop in Attention",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ADropinAttention.png",
         "isHorizontal": false
       }
@@ -104,16 +104,16 @@
     "isToken": false,
     "name": "Adventure Squad",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Adventure Squad",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AdventureSquad.png",
         "isHorizontal": false
       }
@@ -128,16 +128,16 @@
     "isToken": false,
     "name": "Again, Again",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Again, Again",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AgainAgain.png",
         "isHorizontal": false
       }
@@ -226,16 +226,16 @@
     "isToken": false,
     "name": "An Offer You Can't Refuse",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "An Offer You Can't Refuse",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/AnOfferYouCantRefuse.png",
         "isHorizontal": false
       }
@@ -348,16 +348,16 @@
     "isToken": false,
     "name": "Band Together",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Band Together",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BandTogether.png",
         "isHorizontal": false
       }
@@ -397,16 +397,16 @@
     "isToken": false,
     "name": "Be a Lil Evil",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Be a Lil Evil",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BeALilEvil.png",
         "isHorizontal": false
       }
@@ -421,16 +421,16 @@
     "isToken": false,
     "name": "Be Big and Goofy",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Be Big and Goofy",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BeBigAndGoofy.png",
         "isHorizontal": false
       }
@@ -445,16 +445,16 @@
     "isToken": false,
     "name": "Be Merry and Go",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Be Merry and Go",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BeMerryAndGo.png",
         "isHorizontal": false
       }
@@ -470,16 +470,16 @@
     "isToken": false,
     "name": "Be Weird and Silly",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Be Weird and Silly",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BeWeirdAndSilly.png",
         "isHorizontal": false
       }
@@ -494,16 +494,16 @@
     "isToken": false,
     "name": "Bearish Sentiment",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Bearish Sentiment",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BearishSentiment.png",
         "isHorizontal": false
       }
@@ -545,16 +545,16 @@
     "isToken": false,
     "name": "Bedtime Story",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Bedtime Story",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BedtimeStory.png",
         "isHorizontal": false
       }
@@ -570,16 +570,16 @@
     "isToken": false,
     "name": "Best Seats in the House",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Best Seats in the House",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BestSeatsintheHouse.png",
         "isHorizontal": false
       }
@@ -841,16 +841,16 @@
     "isToken": false,
     "name": "Bridge With Layer Zero",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Bridge With Layer Zero",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BridgeWithLayerZero.png",
         "isHorizontal": false
       }
@@ -890,16 +890,16 @@
     "isToken": false,
     "name": "Buddy Up",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Buddy Up",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/BuddyUp.png",
         "isHorizontal": false
       }
@@ -1013,16 +1013,16 @@
     "isToken": false,
     "name": "Capture the Moment",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Capture the Moment",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CaptureTheMoment.png",
         "isHorizontal": false
       }
@@ -1087,16 +1087,16 @@
     "isToken": false,
     "name": "Change Perspective",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Change Perspective",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ChangePerspective.png",
         "isHorizontal": false
       }
@@ -1136,16 +1136,16 @@
     "isToken": false,
     "name": "Chase Your Dreams",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Chase Your Dreams",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ChaseYourDreams.png",
         "isHorizontal": false
       }
@@ -1160,16 +1160,16 @@
     "isToken": false,
     "name": "Check the Yellow Pages",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Check the Yellow Pages",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ChecktheYellowPages.png",
         "isHorizontal": false
       }
@@ -1184,16 +1184,16 @@
     "isToken": false,
     "name": "Cheeky Sidequest",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Cheeky Sidequest",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CheekySidequest.png",
         "isHorizontal": false
       }
@@ -1233,16 +1233,16 @@
     "isToken": false,
     "name": "Chisel from Stone",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Chisel from Stone",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ChiselfromStone.png",
         "isHorizontal": false
       }
@@ -1307,16 +1307,16 @@
     "isToken": false,
     "name": "Clean Up Good",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Clean Up Good",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CleanUpGood.png",
         "isHorizontal": false
       }
@@ -1428,16 +1428,16 @@
     "isToken": false,
     "name": "Cool Story Bro!",
     "type": "Action",
-    "cost": "0",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "0",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Cool Story Bro!",
         "type": "Action",
-        "cost": "0",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CoolStoryBro.png",
         "isHorizontal": false
       }
@@ -1451,16 +1451,16 @@
     "isToken": false,
     "name": "Cross the River",
     "type": "Action",
-    "cost": "8",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "8",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Cross the River",
         "type": "Action",
-        "cost": "8",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/CrossTheRiver.png",
         "isHorizontal": false
       }
@@ -1599,16 +1599,16 @@
     "isToken": false,
     "name": "Distract",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Distract",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Distract.png",
         "isHorizontal": false
       }
@@ -1623,16 +1623,16 @@
     "isToken": false,
     "name": "Do a Lil Math",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Do a Lil Math",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/DoALilMath.png",
         "isHorizontal": false
       }
@@ -1648,16 +1648,16 @@
     "isToken": false,
     "name": "Don't Trust, Verify",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Don't Trust, Verify",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/DontTrustVerify.png",
         "isHorizontal": false
       }
@@ -1790,16 +1790,16 @@
     "isToken": false,
     "name": "Enter the Bounce House Dimension",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Enter the Bounce House Dimension",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/EnterTheBounceHouseDimension.png",
         "isHorizontal": false
       }
@@ -1814,16 +1814,16 @@
     "isToken": false,
     "name": "Escape in Time",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Escape in Time",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/EscapeinTime.png",
         "isHorizontal": false
       }
@@ -1838,16 +1838,16 @@
     "isToken": false,
     "name": "Everybody Stay Clam",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Everybody Stay Clam",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/EverybodyStayClam.png",
         "isHorizontal": false
       }
@@ -1936,16 +1936,16 @@
     "isToken": false,
     "name": "Fishing Trip",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Fishing Trip",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FishingTrip.png",
         "isHorizontal": false
       }
@@ -1985,16 +1985,16 @@
     "isToken": false,
     "name": "Flop, Drop, and Roll",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Flop, Drop, and Roll",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FlopDropAndRoll.png",
         "isHorizontal": false
       }
@@ -2059,16 +2059,16 @@
     "isToken": false,
     "name": "Force of Lil",
     "type": "Action",
-    "cost": "5",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "5",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Force of Lil",
         "type": "Action",
-        "cost": "5",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ForceOfLil.png",
         "isHorizontal": false
       }
@@ -2083,16 +2083,16 @@
     "isToken": false,
     "name": "Four of a Kind",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Four of a Kind",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/FourOfAKind.png",
         "isHorizontal": false
       }
@@ -2130,16 +2130,16 @@
     "isToken": false,
     "name": "Frolic",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Frolic",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Frolic.png",
         "isHorizontal": false
       }
@@ -2254,16 +2254,16 @@
     "isToken": false,
     "name": "Gather Together",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Gather Together",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GatherTogether.png",
         "isHorizontal": false
       }
@@ -2326,16 +2326,16 @@
     "isToken": false,
     "name": "Go With the Flow",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Go With the Flow",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GoWithTheFlow.png",
         "isHorizontal": false
       }
@@ -2350,16 +2350,16 @@
     "isToken": false,
     "name": "Goodnight, Pengs",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Goodnight, Pengs",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GoodnightPengs.png",
         "isHorizontal": false
       }
@@ -2374,16 +2374,16 @@
     "isToken": false,
     "name": "Got 'Em!",
     "type": "Action",
-    "cost": "0",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "0",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Got 'Em!",
         "type": "Action",
-        "cost": "0",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GotEm.png",
         "isHorizontal": false
       }
@@ -2472,16 +2472,16 @@
     "isToken": false,
     "name": "Grow Together",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Grow Together",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/GrowTogether.png",
         "isHorizontal": false
       }
@@ -2521,16 +2521,16 @@
     "isToken": false,
     "name": "Have a Philosophical Debate",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Have a Philosophical Debate",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HaveaPhilosophicalDebate.png",
         "isHorizontal": false
       }
@@ -2545,16 +2545,16 @@
     "isToken": false,
     "name": "Have an Encore",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Have an Encore",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HaveanEncore.png",
         "isHorizontal": false
       }
@@ -2569,16 +2569,16 @@
     "isToken": false,
     "name": "Heads I Win, Tails You Lose",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Heads I Win, Tails You Lose",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HeadsIWinTailsYouLose.png",
         "isHorizontal": false
       }
@@ -2593,16 +2593,16 @@
     "isToken": false,
     "name": "Here's Pengy",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Here's Pengy",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HeresPengy.png",
         "isHorizontal": false
       }
@@ -2617,16 +2617,16 @@
     "isToken": false,
     "name": "Hit the High Note",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Hit the High Note",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HittheHighNote.png",
         "isHorizontal": false
       }
@@ -2641,16 +2641,16 @@
     "isToken": false,
     "name": "Honey, I Shrunk the Pengs",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Honey, I Shrunk the Pengs",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/HoneyIShrunkThePengs.png",
         "isHorizontal": false
       }
@@ -2738,16 +2738,16 @@
     "isToken": false,
     "name": "Inconceivable!",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Inconceivable!",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Inconceivable.png",
         "isHorizontal": false
       }
@@ -2762,16 +2762,16 @@
     "isToken": false,
     "name": "Ingenious Idea",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Ingenious Idea",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/IngeniousIdea.png",
         "isHorizontal": false
       }
@@ -2860,16 +2860,16 @@
     "isToken": false,
     "name": "Into the Night",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Into the Night",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/IntoTheNight.png",
         "isHorizontal": false
       }
@@ -2908,16 +2908,16 @@
     "isToken": false,
     "name": "Is This a Rod",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Is This a Rod",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/IsThisARod.png",
         "isHorizontal": false
       }
@@ -2958,16 +2958,16 @@
     "isToken": false,
     "name": "Jeepers!",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Jeepers!",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Jeepers.png",
         "isHorizontal": false
       }
@@ -2983,16 +2983,16 @@
     "isToken": false,
     "name": "Join the Trend",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Join the Trend",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/JointheTrend.png",
         "isHorizontal": false
       }
@@ -3107,16 +3107,16 @@
     "isToken": false,
     "name": "Keep Digging",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Keep Digging",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/KeepDigging.png",
         "isHorizontal": false
       }
@@ -4470,16 +4470,16 @@
     "isToken": false,
     "name": "Look Inside",
     "type": "Action",
-    "cost": "5",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "5",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Look Inside",
         "type": "Action",
-        "cost": "5",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LookInside.png",
         "isHorizontal": false
       }
@@ -4494,16 +4494,16 @@
     "isToken": false,
     "name": "Lost in the Sauce",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Lost in the Sauce",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LostintheSauce.png",
         "isHorizontal": false
       }
@@ -4519,16 +4519,16 @@
     "isToken": false,
     "name": "Luca Saves the Penguins",
     "type": "Action",
-    "cost": "5",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "5",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Luca Saves the Penguins",
         "type": "Action",
-        "cost": "5",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/LucaSavesthePenguins.png",
         "isHorizontal": false
       }
@@ -4792,16 +4792,16 @@
     "isToken": false,
     "name": "Mystery of the Everlasting Fish",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Mystery of the Everlasting Fish",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/MysteryOfTheEverlastingFish.png",
         "isHorizontal": false
       }
@@ -4841,16 +4841,16 @@
     "isToken": false,
     "name": "No Way!",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "No Way!",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/NoWay.png",
         "isHorizontal": false
       }
@@ -4866,16 +4866,16 @@
     "isToken": false,
     "name": "Not Today!",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Not Today!",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/NotToday.png",
         "isHorizontal": false
       }
@@ -4890,16 +4890,16 @@
     "isToken": false,
     "name": "Not Your Keys",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Not Your Keys",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/NotYourKeys.png",
         "isHorizontal": false
       }
@@ -4914,16 +4914,16 @@
     "isToken": false,
     "name": "Not a Rod Anymore!",
     "type": "Action",
-    "cost": "0",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "0",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Not a Rod Anymore!",
         "type": "Action",
-        "cost": "0",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/NotaRodAnymore.png",
         "isHorizontal": false
       }
@@ -4963,16 +4963,16 @@
     "isToken": false,
     "name": "One With History",
     "type": "Action",
-    "cost": "7",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "7",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "One With History",
         "type": "Action",
-        "cost": "7",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/OneWithHistory.png",
         "isHorizontal": false
       }
@@ -4987,16 +4987,16 @@
     "isToken": false,
     "name": "Ooo, Shiny",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Ooo, Shiny",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/OooShiny.png",
         "isHorizontal": false
       }
@@ -5084,16 +5084,16 @@
     "isToken": false,
     "name": "Overwhelm With Fish",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Overwhelm With Fish",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/OverwhelmWithFish.png",
         "isHorizontal": false
       }
@@ -5109,16 +5109,16 @@
     "isToken": false,
     "name": "Overwhelm With Knowledge",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Overwhelm With Knowledge",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/OverwhelmWithKnowledge.png",
         "isHorizontal": false
       }
@@ -5133,16 +5133,16 @@
     "isToken": false,
     "name": "Pack Attack",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Pack Attack",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PackAttack.png",
         "isHorizontal": false
       }
@@ -5955,16 +5955,16 @@
     "isToken": false,
     "name": "Phone Home",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Phone Home",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PhoneHome.png",
         "isHorizontal": false
       }
@@ -6177,16 +6177,16 @@
     "isToken": false,
     "name": "Prepare for a Wild Night",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Prepare for a Wild Night",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PrepareforaWildNight.png",
         "isHorizontal": false
       }
@@ -6251,16 +6251,16 @@
     "isToken": false,
     "name": "Pudgticate",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Pudgticate",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Pudgticate.png",
         "isHorizontal": false
       }
@@ -6348,16 +6348,16 @@
     "isToken": false,
     "name": "Put Your Flippers in the Air",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Put Your Flippers in the Air",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PutYourFlippersintheAir.png",
         "isHorizontal": false
       }
@@ -6373,16 +6373,16 @@
     "isToken": false,
     "name": "Put on a Show",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Put on a Show",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/PutonaShow.png",
         "isHorizontal": false
       }
@@ -6398,16 +6398,16 @@
     "isToken": false,
     "name": "Questionable Methods",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Questionable Methods",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/QuestionableMethods.png",
         "isHorizontal": false
       }
@@ -6447,16 +6447,16 @@
     "isToken": false,
     "name": "Raid the Snacks",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Raid the Snacks",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RaidtheSnacks.png",
         "isHorizontal": false
       }
@@ -6546,16 +6546,16 @@
     "isToken": false,
     "name": "Ride the Train",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Ride the Train",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/RideTheTrain.png",
         "isHorizontal": false
       }
@@ -6813,16 +6813,16 @@
     "isToken": false,
     "name": "See the Berg",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "See the Berg",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SeeTheBerg.png",
         "isHorizontal": false
       }
@@ -6838,16 +6838,16 @@
     "isToken": false,
     "name": "Send It Too Hard",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Send It Too Hard",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SendItTooHard.png",
         "isHorizontal": false
       }
@@ -6862,16 +6862,16 @@
     "isToken": false,
     "name": "Send Off",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Send Off",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SendOff.png",
         "isHorizontal": false
       }
@@ -6937,16 +6937,16 @@
     "isToken": false,
     "name": "Sheeeesh!",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Sheeeesh!",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/Sheeeesh.png",
         "isHorizontal": false
       }
@@ -7011,16 +7011,16 @@
     "isToken": false,
     "name": "Sick Pull!",
     "type": "Action",
-    "cost": "0",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "0",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Sick Pull!",
         "type": "Action",
-        "cost": "0",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SickPull.png",
         "isHorizontal": false
       }
@@ -7330,16 +7330,16 @@
     "isToken": false,
     "name": "Spring Break",
     "type": "Action",
-    "cost": "4",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "4",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Spring Break",
         "type": "Action",
-        "cost": "4",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SpringBreak.png",
         "isHorizontal": false
       }
@@ -7354,16 +7354,16 @@
     "isToken": false,
     "name": "Spring a Leak",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Spring a Leak",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SpringaLeak.png",
         "isHorizontal": false
       }
@@ -7403,16 +7403,16 @@
     "isToken": false,
     "name": "Stand in the Rain",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Stand in the Rain",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/StandintheRain.png",
         "isHorizontal": false
       }
@@ -7500,16 +7500,16 @@
     "isToken": false,
     "name": "Study All Night",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Study All Night",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/StudyAllNight.png",
         "isHorizontal": false
       }
@@ -7549,16 +7549,16 @@
     "isToken": false,
     "name": "Sunburn a Penguin",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Sunburn a Penguin",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/SunburnaPenguin.png",
         "isHorizontal": false
       }
@@ -7795,16 +7795,16 @@
     "isToken": false,
     "name": "They're Twins",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "They're Twins",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TheyreTwins.png",
         "isHorizontal": false
       }
@@ -7819,16 +7819,16 @@
     "isToken": false,
     "name": "Three Wise Penguins",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Three Wise Penguins",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ThreeWisePenguins.png",
         "isHorizontal": false
       }
@@ -7843,16 +7843,16 @@
     "isToken": false,
     "name": "Throw Some Snow",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Purple"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Throw Some Snow",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/ThrowSomeSnow.png",
         "isHorizontal": false
       }
@@ -7892,16 +7892,16 @@
     "isToken": false,
     "name": "Tie Game",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Tie Game",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TieGame.png",
         "isHorizontal": false
       }
@@ -7941,16 +7941,16 @@
     "isToken": false,
     "name": "Too Cool for School",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Too Cool for School",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TooCoolforSchool.png",
         "isHorizontal": false
       }
@@ -7988,16 +7988,16 @@
     "isToken": false,
     "name": "Toss Up",
     "type": "Action",
-    "cost": "1",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "1",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Toss Up",
         "type": "Action",
-        "cost": "1",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TossUp.png",
         "isHorizontal": false
       }
@@ -8035,16 +8035,16 @@
     "isToken": false,
     "name": "Trust Fall",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Trust Fall",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TrustFall.png",
         "isHorizontal": false
       }
@@ -8086,16 +8086,16 @@
     "isToken": false,
     "name": "Turn to Rod",
     "type": "Action",
-    "cost": "3",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "3",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Turn to Rod",
         "type": "Action",
-        "cost": "3",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/TurnToRod.png",
         "isHorizontal": false
       }
@@ -8133,16 +8133,16 @@
     "isToken": false,
     "name": "Unlikely Friends",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Unlikely Friends",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/UnlikelyFriends.png",
         "isHorizontal": false
       }
@@ -8181,16 +8181,16 @@
     "isToken": false,
     "name": "Use Whoopee Cushion",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Red"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Use Whoopee Cushion",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/UseWhoopeeCushion.png",
         "isHorizontal": false
       }
@@ -8206,16 +8206,16 @@
     "isToken": false,
     "name": "Walk the Runway",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Walk the Runway",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WalktheRunway.png",
         "isHorizontal": false
       }
@@ -8279,16 +8279,16 @@
     "isToken": false,
     "name": "What a Twist!",
     "type": "Action",
-    "cost": "0",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "0",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "What a Twist!",
         "type": "Action",
-        "cost": "0",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WhataTwist.png",
         "isHorizontal": false
       }
@@ -8302,16 +8302,16 @@
     "isToken": false,
     "name": "Win the Race",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Blue"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Win the Race",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/WinTheRace.png",
         "isHorizontal": false
       }
@@ -8575,16 +8575,16 @@
     "isToken": false,
     "name": "You Dropped This",
     "type": "Action",
-    "cost": "2",
+    "cost": "None",
     "Color": [
       "Green"
     ],
-    "Cost": "2",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "You Dropped This",
         "type": "Action",
-        "cost": "2",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/YouDroppedThis.png",
         "isHorizontal": false
       }
@@ -8600,16 +8600,16 @@
     "isToken": false,
     "name": "Yum Yum",
     "type": "Action",
-    "cost": "5",
+    "cost": "None",
     "Color": [
       "Yellow"
     ],
-    "Cost": "5",
+    "Cost": "None",
     "face": {
       "front": {
         "name": "Yum Yum",
         "type": "Action",
-        "cost": "5",
+        "cost": "None",
         "image": "https://ocg-card-catalog.s3.us-west-2.amazonaws.com/Spoiler_Previews/YumYum.png",
         "isHorizontal": false
       }
@@ -8626,16 +8626,16 @@
       "front": {
         "name": "Afternoon Breeze",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/afternoon-breeze.webp",
         "isHorizontal": false
       }
     },
     "name": "Afternoon Breeze",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "431": {
     "id": "431",
@@ -8806,16 +8806,16 @@
       "front": {
         "name": "But You Didn't Even Win",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/but-you-didn-t-even-win.webp",
         "isHorizontal": false
       }
     },
     "name": "But You Didn't Even Win",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "441": {
     "id": "441",
@@ -8968,16 +8968,16 @@
       "front": {
         "name": "Free Fall",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/free-fall.webp",
         "isHorizontal": false
       }
     },
     "name": "Free Fall",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "450": {
     "id": "450",
@@ -9022,16 +9022,16 @@
       "front": {
         "name": "Good Vibes Only",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/good-vibes-only.webp",
         "isHorizontal": false
       }
     },
     "name": "Good Vibes Only",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "453": {
     "id": "453",
@@ -9040,16 +9040,16 @@
       "front": {
         "name": "Healthy Push",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/healthy-push.webp",
         "isHorizontal": false
       }
     },
     "name": "Healthy Push",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "454": {
     "id": "454",
@@ -9112,16 +9112,16 @@
       "front": {
         "name": "Identity Crisis",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/identity-crisis.webp",
         "isHorizontal": false
       }
     },
     "name": "Identity Crisis",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "458": {
     "id": "458",
@@ -9184,16 +9184,16 @@
       "front": {
         "name": "Lame Story Sis",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lame-story-sis.webp",
         "isHorizontal": false
       }
     },
     "name": "Lame Story Sis",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "462": {
     "id": "462",
@@ -9202,16 +9202,16 @@
       "front": {
         "name": "Lift Off",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lift-off.webp",
         "isHorizontal": false
       }
     },
     "name": "Lift Off",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "463": {
     "id": "463",
@@ -9292,16 +9292,16 @@
       "front": {
         "name": "Lil Persuader",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-persuader.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Persuader",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "468": {
     "id": "468",
@@ -9382,16 +9382,16 @@
       "front": {
         "name": "Night Of The Living Birb",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/night-of-the-living-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Night Of The Living Birb",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "473": {
     "id": "473",
@@ -9490,16 +9490,16 @@
       "front": {
         "name": "Pointing Birb",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/pointing-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Pointing Birb",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "479": {
     "id": "479",
@@ -9598,16 +9598,16 @@
       "front": {
         "name": "Reminisce",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/reminisce.webp",
         "isHorizontal": false
       }
     },
     "name": "Reminisce",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "485": {
     "id": "485",
@@ -9652,16 +9652,16 @@
       "front": {
         "name": "Set Sail",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/set-sail.webp",
         "isHorizontal": false
       }
     },
     "name": "Set Sail",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "488": {
     "id": "488",
@@ -9706,16 +9706,16 @@
       "front": {
         "name": "Squad Strike",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/squad-strike.webp",
         "isHorizontal": false
       }
     },
     "name": "Squad Strike",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "491": {
     "id": "491",
@@ -9724,16 +9724,16 @@
       "front": {
         "name": "Step By Step",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/step-by-step.webp",
         "isHorizontal": false
       }
     },
     "name": "Step By Step",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "492": {
     "id": "492",
@@ -9778,16 +9778,16 @@
       "front": {
         "name": "Study All Day",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/study-all-day.webp",
         "isHorizontal": false
       }
     },
     "name": "Study All Day",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "495": {
     "id": "495",
@@ -9868,16 +9868,16 @@
       "front": {
         "name": "The Birb Of Venus",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-birb-of-venus.webp",
         "isHorizontal": false
       }
     },
     "name": "The Birb Of Venus",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "500": {
     "id": "500",
@@ -9904,16 +9904,16 @@
       "front": {
         "name": "The Prophecy Unfolds",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-prophecy-unfolds.webp",
         "isHorizontal": false
       }
     },
     "name": "The Prophecy Unfolds",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "502": {
     "id": "502",
@@ -9958,16 +9958,16 @@
       "front": {
         "name": "Time Warp Toss",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/time-warp-toss.webp",
         "isHorizontal": false
       }
     },
     "name": "Time Warp Toss",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "505": {
     "id": "505",
@@ -10030,16 +10030,16 @@
       "front": {
         "name": "True Form",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/true-form.webp",
         "isHorizontal": false
       }
     },
     "name": "True Form",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "509": {
     "id": "509",
@@ -10048,16 +10048,16 @@
       "front": {
         "name": "Turn It Up",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/turn-it-up.webp",
         "isHorizontal": false
       }
     },
     "name": "Turn It Up",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "510": {
     "id": "510",
@@ -10138,16 +10138,16 @@
       "front": {
         "name": "Vibe Scan",
         "type": "Action",
-        "cost": "",
+        "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/vibe-scan.webp",
         "isHorizontal": false
       }
     },
     "name": "Vibe Scan",
     "type": "Action",
-    "cost": "",
+    "cost": "None",
     "Color": [],
-    "Cost": ""
+    "Cost": "None"
   },
   "515": {
     "id": "515",
