@@ -10202,5 +10202,131 @@
     "cost": "",
     "Color": [],
     "Cost": ""
+  },
+  "518": {
+    "id": "518",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Birb Who Always Gets Lost",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/birb-who-always-gets-lost.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Birb Who Always Gets Lost",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "519": {
+    "id": "519",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Breakaway Balloon",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/breakaway-balloon.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Breakaway Balloon",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "520": {
+    "id": "520",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "If Only They Knew",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/if-only-they-knew.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "If Only They Knew",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "521": {
+    "id": "521",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Messy",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lil-messy.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lil Messy",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "522": {
+    "id": "522",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Sweet Stack",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lil-sweet-stack.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lil Sweet Stack",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "523": {
+    "id": "523",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mug Life",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/mug-life.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mug Life",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "524": {
+    "id": "524",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psychic Birb",
+        "type": "",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/psychic-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psychic Birb",
+    "type": "",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
   }
 }
