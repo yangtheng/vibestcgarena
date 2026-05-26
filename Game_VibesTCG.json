@@ -159,7 +159,7 @@
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "",
             "noQuickActions": false,
