@@ -10209,14 +10209,14 @@
     "face": {
       "front": {
         "name": "Birb Who Always Gets Lost",
-        "type": "",
+        "type": "Character",
         "cost": "",
         "image": "https://www.vibes-tracker.com/set3-spoilers/birb-who-always-gets-lost.webp",
         "isHorizontal": false
       }
     },
     "name": "Birb Who Always Gets Lost",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Color": [],
     "Cost": ""
@@ -10227,14 +10227,14 @@
     "face": {
       "front": {
         "name": "Breakaway Balloon",
-        "type": "",
+        "type": "Fit",
         "cost": "",
         "image": "https://www.vibes-tracker.com/set3-spoilers/breakaway-balloon.webp",
         "isHorizontal": false
       }
     },
     "name": "Breakaway Balloon",
-    "type": "",
+    "type": "Fit",
     "cost": "",
     "Color": [],
     "Cost": ""
@@ -10245,14 +10245,14 @@
     "face": {
       "front": {
         "name": "If Only They Knew",
-        "type": "",
+        "type": "Action",
         "cost": "",
         "image": "https://www.vibes-tracker.com/set3-spoilers/if-only-they-knew.webp",
         "isHorizontal": false
       }
     },
     "name": "If Only They Knew",
-    "type": "",
+    "type": "Action",
     "cost": "",
     "Color": [],
     "Cost": ""
@@ -10263,14 +10263,14 @@
     "face": {
       "front": {
         "name": "Lil Messy",
-        "type": "",
+        "type": "Character",
         "cost": "",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-messy.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Messy",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Color": [],
     "Cost": ""
@@ -10281,14 +10281,14 @@
     "face": {
       "front": {
         "name": "Lil Sweet Stack",
-        "type": "",
+        "type": "Character",
         "cost": "",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-sweet-stack.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Sweet Stack",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Color": [],
     "Cost": ""
@@ -10299,14 +10299,14 @@
     "face": {
       "front": {
         "name": "Mug Life",
-        "type": "",
+        "type": "Fit",
         "cost": "",
         "image": "https://www.vibes-tracker.com/set3-spoilers/mug-life.webp",
         "isHorizontal": false
       }
     },
     "name": "Mug Life",
-    "type": "",
+    "type": "Fit",
     "cost": "",
     "Color": [],
     "Cost": ""
@@ -10317,14 +10317,14 @@
     "face": {
       "front": {
         "name": "Psychic Birb",
-        "type": "",
+        "type": "Character",
         "cost": "",
         "image": "https://www.vibes-tracker.com/set3-spoilers/psychic-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Psychic Birb",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Color": [],
     "Cost": ""
