@@ -10490,5 +10490,95 @@
     "cost": "",
     "Color": [],
     "Cost": ""
+  },
+  "534": {
+    "id": "534",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alchemist Penguin",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/alchemist-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alchemist Penguin",
+    "type": "Character",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "535": {
+    "id": "535",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Classy Bow Tie",
+        "type": "Fit",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/classy-bow-tie.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Classy Bow Tie",
+    "type": "Fit",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "536": {
+    "id": "536",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Control The Board",
+        "type": "Action",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/control-the-board.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Control The Board",
+    "type": "Action",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "537": {
+    "id": "537",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glimmering Coins",
+        "type": "Fit",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/glimmering-coins.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glimmering Coins",
+    "type": "Fit",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "538": {
+    "id": "538",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lavish Penguin",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lavish-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lavish Penguin",
+    "type": "Character",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
   }
 }
