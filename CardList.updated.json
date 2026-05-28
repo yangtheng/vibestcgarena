@@ -10328,5 +10328,167 @@
     "cost": "",
     "Color": [],
     "Cost": ""
+  },
+  "525": {
+    "id": "525",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arctic Ring",
+        "type": "Fit",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/arctic-ring.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arctic Ring",
+    "type": "Fit",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "526": {
+    "id": "526",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distracting Handheld",
+        "type": "Fit",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/distracting-handheld.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distracting Handheld",
+    "type": "Fit",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "527": {
+    "id": "527",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Downhill Disaster",
+        "type": "Action",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/downhill-disaster.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Downhill Disaster",
+    "type": "Action",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "528": {
+    "id": "528",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lumberjack Penguin",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/lumberjack-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lumberjack Penguin",
+    "type": "Character",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "529": {
+    "id": "529",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Now A Rod Evermore",
+        "type": "Action",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/now-a-rod-evermore.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Now A Rod Evermore",
+    "type": "Action",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "530": {
+    "id": "530",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "On Thin Ice",
+        "type": "Action",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/on-thin-ice.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "On Thin Ice",
+    "type": "Action",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "531": {
+    "id": "531",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Penguin Who Loves Goodbyes",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/penguin-who-loves-goodbyes.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Penguin Who Loves Goodbyes",
+    "type": "Character",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "532": {
+    "id": "532",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Pengorcist",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/the-pengorcist.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Pengorcist",
+    "type": "Character",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
+  },
+  "533": {
+    "id": "533",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Visionary Birb",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/visionary-birb.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Visionary Birb",
+    "type": "Character",
+    "cost": "",
+    "Color": [],
+    "Cost": ""
   }
 }
