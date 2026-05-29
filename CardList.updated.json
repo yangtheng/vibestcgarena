@@ -9489,14 +9489,14 @@
     "face": {
       "front": {
         "name": "Pointing Birb",
-        "type": "Action",
+        "type": "Character",
         "cost": "None",
         "image": "https://www.vibes-tracker.com/set3-spoilers/pointing-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Pointing Birb",
-    "type": "Action",
+    "type": "Character",
     "cost": "None",
     "Color": [],
     "Cost": "None"
