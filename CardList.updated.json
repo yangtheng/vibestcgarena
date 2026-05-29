@@ -8626,16 +8626,18 @@
       "front": {
         "name": "Afternoon Breeze",
         "type": "Action",
-        "cost": "None",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/afternoon-breeze.webp",
         "isHorizontal": false
       }
     },
     "name": "Afternoon Breeze",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "2",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "2"
   },
   "431": {
     "id": "431",
@@ -8644,16 +8646,18 @@
       "front": {
         "name": "Art Museum",
         "type": "Relic",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/art-museum.webp",
         "isHorizontal": false
       }
     },
     "name": "Art Museum",
     "type": "Relic",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "4"
   },
   "432": {
     "id": "432",
@@ -8662,16 +8666,18 @@
       "front": {
         "name": "Bachelor Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/bachelor-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Bachelor Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "3"
   },
   "433": {
     "id": "433",
@@ -8680,16 +8686,18 @@
       "front": {
         "name": "Baker Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/baker-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Baker Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "3"
   },
   "434": {
     "id": "434",
@@ -8698,16 +8706,18 @@
       "front": {
         "name": "Big Ben",
         "type": "Relic",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/big-ben.webp",
         "isHorizontal": false
       }
     },
     "name": "Big Ben",
     "type": "Relic",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "3"
   },
   "435": {
     "id": "435",
@@ -8716,16 +8726,18 @@
       "front": {
         "name": "Birb Bay",
         "type": "Relic",
-        "cost": "",
+        "cost": "7",
         "image": "https://www.vibes-tracker.com/set3-spoilers/birb-bay.webp",
         "isHorizontal": false
       }
     },
     "name": "Birb Bay",
     "type": "Relic",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "7",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "7"
   },
   "436": {
     "id": "436",
@@ -8734,16 +8746,18 @@
       "front": {
         "name": "Birb Who's 100 Feet Tall",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/birb-who-s-100-feet-tall.webp",
         "isHorizontal": false
       }
     },
     "name": "Birb Who's 100 Feet Tall",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "3"
   },
   "437": {
     "id": "437",
@@ -8752,16 +8766,18 @@
       "front": {
         "name": "Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "2"
   },
   "438": {
     "id": "438",
@@ -8770,16 +8786,18 @@
       "front": {
         "name": "Birbman",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/birbman.webp",
         "isHorizontal": false
       }
     },
     "name": "Birbman",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "3"
   },
   "439": {
     "id": "439",
@@ -8788,16 +8806,18 @@
       "front": {
         "name": "Buffering Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/buffering-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Buffering Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "4"
   },
   "440": {
     "id": "440",
@@ -8806,16 +8826,18 @@
       "front": {
         "name": "But You Didn't Even Win",
         "type": "Action",
-        "cost": "None",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/but-you-didn-t-even-win.webp",
         "isHorizontal": false
       }
     },
     "name": "But You Didn't Even Win",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "3"
   },
   "441": {
     "id": "441",
@@ -8824,16 +8846,18 @@
       "front": {
         "name": "Cloak Of Illusions",
         "type": "Fit",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/cloak-of-illusions.webp",
         "isHorizontal": false
       }
     },
     "name": "Cloak Of Illusions",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "3"
   },
   "442": {
     "id": "442",
@@ -8842,16 +8866,18 @@
       "front": {
         "name": "Coastal Surfboard",
         "type": "Fit",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/coastal-surfboard.webp",
         "isHorizontal": false
       }
     },
     "name": "Coastal Surfboard",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "3"
   },
   "443": {
     "id": "443",
@@ -8860,16 +8886,18 @@
       "front": {
         "name": "Cozy Mittens",
         "type": "Fit",
-        "cost": "",
+        "cost": "1",
         "image": "https://www.vibes-tracker.com/set3-spoilers/cozy-mittens.webp",
         "isHorizontal": false
       }
     },
     "name": "Cozy Mittens",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "1",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "1"
   },
   "444": {
     "id": "444",
@@ -8878,16 +8906,18 @@
       "front": {
         "name": "E Mc Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/e-mc-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "E Mc Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "3"
   },
   "445": {
     "id": "445",
@@ -8896,16 +8926,18 @@
       "front": {
         "name": "Elegant Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "1",
         "image": "https://www.vibes-tracker.com/set3-spoilers/elegant-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Elegant Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "1",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "1"
   },
   "446": {
     "id": "446",
@@ -8914,16 +8946,18 @@
       "front": {
         "name": "Enchanted Boots",
         "type": "Fit",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/enchanted-boots.webp",
         "isHorizontal": false
       }
     },
     "name": "Enchanted Boots",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "3"
   },
   "447": {
     "id": "447",
@@ -8932,16 +8966,18 @@
       "front": {
         "name": "Farmer Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/farmer-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Farmer Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "2"
   },
   "448": {
     "id": "448",
@@ -8950,16 +8986,18 @@
       "front": {
         "name": "Fisherman Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "6",
         "image": "https://www.vibes-tracker.com/set3-spoilers/fisherman-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Fisherman Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "6",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "6"
   },
   "449": {
     "id": "449",
@@ -8968,16 +9006,18 @@
       "front": {
         "name": "Free Fall",
         "type": "Action",
-        "cost": "None",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/free-fall.webp",
         "isHorizontal": false
       }
     },
     "name": "Free Fall",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "5",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "5"
   },
   "450": {
     "id": "450",
@@ -8986,16 +9026,19 @@
       "front": {
         "name": "Frostbitten Wizbirb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/frostbitten-wizbirb.webp",
         "isHorizontal": false
       }
     },
     "name": "Frostbitten Wizbirb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Yellow",
+      "Purple"
+    ],
+    "Cost": "2"
   },
   "451": {
     "id": "451",
@@ -9004,16 +9047,18 @@
       "front": {
         "name": "Goalie Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/goalie-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Goalie Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "5",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "5"
   },
   "452": {
     "id": "452",
@@ -9022,16 +9067,18 @@
       "front": {
         "name": "Good Vibes Only",
         "type": "Action",
-        "cost": "None",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/good-vibes-only.webp",
         "isHorizontal": false
       }
     },
     "name": "Good Vibes Only",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "2"
   },
   "453": {
     "id": "453",
@@ -9040,16 +9087,18 @@
       "front": {
         "name": "Healthy Push",
         "type": "Action",
-        "cost": "None",
+        "cost": "1",
         "image": "https://www.vibes-tracker.com/set3-spoilers/healthy-push.webp",
         "isHorizontal": false
       }
     },
     "name": "Healthy Push",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "1",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "1"
   },
   "454": {
     "id": "454",
@@ -9058,16 +9107,18 @@
       "front": {
         "name": "Here Come Dat Peng",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/here-come-dat-peng.webp",
         "isHorizontal": false
       }
     },
     "name": "Here Come Dat Peng",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "4"
   },
   "455": {
     "id": "455",
@@ -9076,16 +9127,18 @@
       "front": {
         "name": "Hero's Sword",
         "type": "Fit",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/hero-s-sword.webp",
         "isHorizontal": false
       }
     },
     "name": "Hero's Sword",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "4"
   },
   "456": {
     "id": "456",
@@ -9094,16 +9147,18 @@
       "front": {
         "name": "Hypnotized Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/hypnotized-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Hypnotized Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "4"
   },
   "457": {
     "id": "457",
@@ -9112,16 +9167,18 @@
       "front": {
         "name": "Identity Crisis",
         "type": "Action",
-        "cost": "None",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/identity-crisis.webp",
         "isHorizontal": false
       }
     },
     "name": "Identity Crisis",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "3",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "3"
   },
   "458": {
     "id": "458",
@@ -9130,16 +9187,18 @@
       "front": {
         "name": "Iron Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/iron-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Iron Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "4"
   },
   "459": {
     "id": "459",
@@ -9148,16 +9207,18 @@
       "front": {
         "name": "Jaskel Imaginator",
         "type": "Character",
-        "cost": "",
+        "cost": "8",
         "image": "https://www.vibes-tracker.com/set3-spoilers/jaskel-imaginator.webp",
         "isHorizontal": false
       }
     },
     "name": "Jaskel Imaginator",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "8",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "8"
   },
   "460": {
     "id": "460",
@@ -9166,16 +9227,18 @@
       "front": {
         "name": "Jolly Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/jolly-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Jolly Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "2"
   },
   "461": {
     "id": "461",
@@ -9184,16 +9247,18 @@
       "front": {
         "name": "Lame Story Sis",
         "type": "Action",
-        "cost": "None",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lame-story-sis.webp",
         "isHorizontal": false
       }
     },
     "name": "Lame Story Sis",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "2"
   },
   "462": {
     "id": "462",
@@ -9202,16 +9267,18 @@
       "front": {
         "name": "Lift Off",
         "type": "Action",
-        "cost": "None",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lift-off.webp",
         "isHorizontal": false
       }
     },
     "name": "Lift Off",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "2"
   },
   "463": {
     "id": "463",
@@ -9220,16 +9287,18 @@
       "front": {
         "name": "Lil Balanced",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-balanced.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Balanced",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "2"
   },
   "464": {
     "id": "464",
@@ -9238,16 +9307,18 @@
       "front": {
         "name": "Lil Forgotten",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-forgotten.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Forgotten",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "2"
   },
   "465": {
     "id": "465",
@@ -9256,16 +9327,18 @@
       "front": {
         "name": "Lil Gamer",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-gamer.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Gamer",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "2"
   },
   "466": {
     "id": "466",
@@ -9274,16 +9347,18 @@
       "front": {
         "name": "Lil Helium",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-helium.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Helium",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "3"
   },
   "467": {
     "id": "467",
@@ -9292,16 +9367,18 @@
       "front": {
         "name": "Lil Persuader",
         "type": "Action",
-        "cost": "None",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-persuader.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Persuader",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "3"
   },
   "468": {
     "id": "468",
@@ -9310,16 +9387,18 @@
       "front": {
         "name": "Luckmaking Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "6",
         "image": "https://www.vibes-tracker.com/set3-spoilers/luckmaking-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Luckmaking Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "6",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "6"
   },
   "469": {
     "id": "469",
@@ -9328,16 +9407,18 @@
       "front": {
         "name": "Lumin Who Sees All",
         "type": "Character",
-        "cost": "",
+        "cost": "10",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lumin-who-sees-all.webp",
         "isHorizontal": false
       }
     },
     "name": "Lumin Who Sees All",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "10",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "10"
   },
   "470": {
     "id": "470",
@@ -9346,16 +9427,18 @@
       "front": {
         "name": "Lunaris The Infinite",
         "type": "Character",
-        "cost": "",
+        "cost": "10",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lunaris-the-infinite.webp",
         "isHorizontal": false
       }
     },
     "name": "Lunaris The Infinite",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "10",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "10"
   },
   "471": {
     "id": "471",
@@ -9364,16 +9447,18 @@
       "front": {
         "name": "Myra Of The Mist",
         "type": "Character",
-        "cost": "",
+        "cost": "10",
         "image": "https://www.vibes-tracker.com/set3-spoilers/myra-of-the-mist.webp",
         "isHorizontal": false
       }
     },
     "name": "Myra Of The Mist",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "10",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "10"
   },
   "472": {
     "id": "472",
@@ -9382,16 +9467,18 @@
       "front": {
         "name": "Night Of The Living Birb",
         "type": "Action",
-        "cost": "None",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/night-of-the-living-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Night Of The Living Birb",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "4",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "4"
   },
   "473": {
     "id": "473",
@@ -9400,16 +9487,19 @@
       "front": {
         "name": "Nightveil Wizbirb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/nightveil-wizbirb.webp",
         "isHorizontal": false
       }
     },
     "name": "Nightveil Wizbirb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Blue",
+      "Green"
+    ],
+    "Cost": "2"
   },
   "474": {
     "id": "474",
@@ -9418,16 +9508,18 @@
       "front": {
         "name": "Nimbus The Quick",
         "type": "Character",
-        "cost": "",
+        "cost": "9",
         "image": "https://www.vibes-tracker.com/set3-spoilers/nimbus-the-quick.webp",
         "isHorizontal": false
       }
     },
     "name": "Nimbus The Quick",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "9",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "9"
   },
   "475": {
     "id": "475",
@@ -9436,16 +9528,18 @@
       "front": {
         "name": "Orrin Forest Guardian",
         "type": "Character",
-        "cost": "",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/orrin-forest-guardian.webp",
         "isHorizontal": false
       }
     },
     "name": "Orrin Forest Guardian",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "5",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "5"
   },
   "476": {
     "id": "476",
@@ -9454,16 +9548,18 @@
       "front": {
         "name": "Pengu",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/pengu.webp",
         "isHorizontal": false
       }
     },
     "name": "Pengu",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "3"
   },
   "477": {
     "id": "477",
@@ -9472,16 +9568,18 @@
       "front": {
         "name": "Pluma",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/pluma.webp",
         "isHorizontal": false
       }
     },
     "name": "Pluma",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "4"
   },
   "478": {
     "id": "478",
@@ -9490,16 +9588,18 @@
       "front": {
         "name": "Pointing Birb",
         "type": "Character",
-        "cost": "None",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/pointing-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Pointing Birb",
     "type": "Character",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "3",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "3"
   },
   "479": {
     "id": "479",
@@ -9508,16 +9608,18 @@
       "front": {
         "name": "Prized Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/prized-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Prized Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "3"
   },
   "480": {
     "id": "480",
@@ -9526,16 +9628,18 @@
       "front": {
         "name": "Quantum Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/quantum-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Quantum Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "3"
   },
   "481": {
     "id": "481",
@@ -9544,16 +9648,18 @@
       "front": {
         "name": "Quiver The Flightful",
         "type": "Character",
-        "cost": "",
+        "cost": "13",
         "image": "https://www.vibes-tracker.com/set3-spoilers/quiver-the-flightful.webp",
         "isHorizontal": false
       }
     },
     "name": "Quiver The Flightful",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "13",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "13"
   },
   "482": {
     "id": "482",
@@ -9562,16 +9668,18 @@
       "front": {
         "name": "Realist Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/realist-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Realist Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "3"
   },
   "483": {
     "id": "483",
@@ -9580,16 +9688,18 @@
       "front": {
         "name": "Reflective Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/reflective-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Reflective Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "2"
   },
   "484": {
     "id": "484",
@@ -9606,7 +9716,9 @@
     "name": "Reminisce",
     "type": "Action",
     "cost": "None",
-    "Color": [],
+    "Color": [
+      "Yellow"
+    ],
     "Cost": "None"
   },
   "485": {
@@ -9616,16 +9728,18 @@
       "front": {
         "name": "Roasting Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/roasting-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Roasting Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "4"
   },
   "486": {
     "id": "486",
@@ -9634,16 +9748,18 @@
       "front": {
         "name": "Scholar Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/scholar-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Scholar Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "3"
   },
   "487": {
     "id": "487",
@@ -9652,16 +9768,18 @@
       "front": {
         "name": "Set Sail",
         "type": "Action",
-        "cost": "None",
+        "cost": "7",
         "image": "https://www.vibes-tracker.com/set3-spoilers/set-sail.webp",
         "isHorizontal": false
       }
     },
     "name": "Set Sail",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "7",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "7"
   },
   "488": {
     "id": "488",
@@ -9670,16 +9788,18 @@
       "front": {
         "name": "Side Eye",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/side-eye.webp",
         "isHorizontal": false
       }
     },
     "name": "Side Eye",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "2"
   },
   "489": {
     "id": "489",
@@ -9688,16 +9808,18 @@
       "front": {
         "name": "Sleepy Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/sleepy-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Sleepy Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "5",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "5"
   },
   "490": {
     "id": "490",
@@ -9706,16 +9828,18 @@
       "front": {
         "name": "Squad Strike",
         "type": "Action",
-        "cost": "None",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/squad-strike.webp",
         "isHorizontal": false
       }
     },
     "name": "Squad Strike",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "4",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "4"
   },
   "491": {
     "id": "491",
@@ -9724,16 +9848,18 @@
       "front": {
         "name": "Step By Step",
         "type": "Action",
-        "cost": "None",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/step-by-step.webp",
         "isHorizontal": false
       }
     },
     "name": "Step By Step",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "3",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "3"
   },
   "492": {
     "id": "492",
@@ -9742,16 +9868,19 @@
       "front": {
         "name": "Stonebreaker Wizbirb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/stonebreaker-wizbirb.webp",
         "isHorizontal": false
       }
     },
     "name": "Stonebreaker Wizbirb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Red",
+      "Green"
+    ],
+    "Cost": "2"
   },
   "493": {
     "id": "493",
@@ -9760,16 +9889,18 @@
       "front": {
         "name": "Striker Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/striker-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Striker Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "4"
   },
   "494": {
     "id": "494",
@@ -9778,16 +9909,18 @@
       "front": {
         "name": "Study All Day",
         "type": "Action",
-        "cost": "None",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/study-all-day.webp",
         "isHorizontal": false
       }
     },
     "name": "Study All Day",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "2"
   },
   "495": {
     "id": "495",
@@ -9796,16 +9929,18 @@
       "front": {
         "name": "Sudsy Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "7",
         "image": "https://www.vibes-tracker.com/set3-spoilers/sudsy-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Sudsy Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "7",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "7"
   },
   "496": {
     "id": "496",
@@ -9814,16 +9949,18 @@
       "front": {
         "name": "Tailor Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/tailor-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Tailor Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "2"
   },
   "497": {
     "id": "497",
@@ -9832,16 +9969,18 @@
       "front": {
         "name": "Taj Mahal",
         "type": "Relic",
-        "cost": "",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/taj-mahal.webp",
         "isHorizontal": false
       }
     },
     "name": "Taj Mahal",
     "type": "Relic",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "5",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "5"
   },
   "498": {
     "id": "498",
@@ -9850,16 +9989,18 @@
       "front": {
         "name": "The Birb Of Music",
         "type": "Character",
-        "cost": "",
+        "cost": "6",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-birb-of-music.webp",
         "isHorizontal": false
       }
     },
     "name": "The Birb Of Music",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "6",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "6"
   },
   "499": {
     "id": "499",
@@ -9868,16 +10009,18 @@
       "front": {
         "name": "The Birb Of Venus",
         "type": "Action",
-        "cost": "None",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-birb-of-venus.webp",
         "isHorizontal": false
       }
     },
     "name": "The Birb Of Venus",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "4",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "4"
   },
   "500": {
     "id": "500",
@@ -9886,16 +10029,18 @@
       "front": {
         "name": "The Peng",
         "type": "Relic",
-        "cost": "",
+        "cost": "6",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-peng.webp",
         "isHorizontal": false
       }
     },
     "name": "The Peng",
     "type": "Relic",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "6",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "6"
   },
   "501": {
     "id": "501",
@@ -9904,16 +10049,18 @@
       "front": {
         "name": "The Prophecy Unfolds",
         "type": "Action",
-        "cost": "None",
+        "cost": "0",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-prophecy-unfolds.webp",
         "isHorizontal": false
       }
     },
     "name": "The Prophecy Unfolds",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "0",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "0"
   },
   "502": {
     "id": "502",
@@ -9922,16 +10069,18 @@
       "front": {
         "name": "The Rodromancer",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-rodromancer.webp",
         "isHorizontal": false
       }
     },
     "name": "The Rodromancer",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "4"
   },
   "503": {
     "id": "503",
@@ -9940,16 +10089,18 @@
       "front": {
         "name": "This Is Not A Pudgy",
         "type": "Character",
-        "cost": "",
+        "cost": "8",
         "image": "https://www.vibes-tracker.com/set3-spoilers/this-is-not-a-pudgy.webp",
         "isHorizontal": false
       }
     },
     "name": "This Is Not A Pudgy",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "8",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "8"
   },
   "504": {
     "id": "504",
@@ -9958,16 +10109,18 @@
       "front": {
         "name": "Time Warp Toss",
         "type": "Action",
-        "cost": "None",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/time-warp-toss.webp",
         "isHorizontal": false
       }
     },
     "name": "Time Warp Toss",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "2",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "2"
   },
   "505": {
     "id": "505",
@@ -9976,16 +10129,18 @@
       "front": {
         "name": "Toasting Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "1",
         "image": "https://www.vibes-tracker.com/set3-spoilers/toasting-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Toasting Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "1",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "1"
   },
   "506": {
     "id": "506",
@@ -9994,16 +10149,18 @@
       "front": {
         "name": "Tony Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/tony-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Tony Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "3"
   },
   "507": {
     "id": "507",
@@ -10012,16 +10169,18 @@
       "front": {
         "name": "Traveler's Lantern",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/traveler-s-lantern.webp",
         "isHorizontal": false
       }
     },
     "name": "Traveler's Lantern",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "2"
   },
   "508": {
     "id": "508",
@@ -10030,16 +10189,18 @@
       "front": {
         "name": "True Form",
         "type": "Action",
-        "cost": "None",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/true-form.webp",
         "isHorizontal": false
       }
     },
     "name": "True Form",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "2"
   },
   "509": {
     "id": "509",
@@ -10056,7 +10217,9 @@
     "name": "Turn It Up",
     "type": "Action",
     "cost": "None",
-    "Color": [],
+    "Color": [
+      "Blue"
+    ],
     "Cost": "None"
   },
   "510": {
@@ -10066,16 +10229,18 @@
       "front": {
         "name": "Umbra On Dream's Edge",
         "type": "Character",
-        "cost": "",
+        "cost": "10",
         "image": "https://www.vibes-tracker.com/set3-spoilers/umbra-on-dream-s-edge.webp",
         "isHorizontal": false
       }
     },
     "name": "Umbra On Dream's Edge",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "10",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "10"
   },
   "511": {
     "id": "511",
@@ -10084,16 +10249,18 @@
       "front": {
         "name": "Uncertain Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/uncertain-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Uncertain Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "4"
   },
   "512": {
     "id": "512",
@@ -10102,16 +10269,18 @@
       "front": {
         "name": "Unidentified Flying Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/unidentified-flying-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Unidentified Flying Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "2"
   },
   "513": {
     "id": "513",
@@ -10120,16 +10289,18 @@
       "front": {
         "name": "Vesper Who Is The Night",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/vesper-who-is-the-night.webp",
         "isHorizontal": false
       }
     },
     "name": "Vesper Who Is The Night",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "3"
   },
   "514": {
     "id": "514",
@@ -10138,16 +10309,18 @@
       "front": {
         "name": "Vibe Scan",
         "type": "Action",
-        "cost": "None",
+        "cost": "17",
         "image": "https://www.vibes-tracker.com/set3-spoilers/vibe-scan.webp",
         "isHorizontal": false
       }
     },
     "name": "Vibe Scan",
     "type": "Action",
-    "cost": "None",
-    "Color": [],
-    "Cost": "None"
+    "cost": "17",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "17"
   },
   "515": {
     "id": "515",
@@ -10156,16 +10329,18 @@
       "front": {
         "name": "Victorious Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/victorious-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Victorious Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "4"
   },
   "516": {
     "id": "516",
@@ -10174,16 +10349,18 @@
       "front": {
         "name": "Window Shopping Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "9",
         "image": "https://www.vibes-tracker.com/set3-spoilers/window-shopping-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Window Shopping Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "9",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "9"
   },
   "517": {
     "id": "517",
@@ -10200,7 +10377,9 @@
     "name": "Hammer Rod",
     "type": "Rod",
     "cost": "",
-    "Color": [],
+    "Color": [
+      "Colorless"
+    ],
     "Cost": ""
   },
   "518": {
@@ -10210,16 +10389,18 @@
       "front": {
         "name": "Birb Who Always Gets Lost",
         "type": "Character",
-        "cost": "",
+        "cost": "6",
         "image": "https://www.vibes-tracker.com/set3-spoilers/birb-who-always-gets-lost.webp",
         "isHorizontal": false
       }
     },
     "name": "Birb Who Always Gets Lost",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "6",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "6"
   },
   "519": {
     "id": "519",
@@ -10228,16 +10409,18 @@
       "front": {
         "name": "Breakaway Balloon",
         "type": "Fit",
-        "cost": "",
+        "cost": "1",
         "image": "https://www.vibes-tracker.com/set3-spoilers/breakaway-balloon.webp",
         "isHorizontal": false
       }
     },
     "name": "Breakaway Balloon",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "1",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "1"
   },
   "520": {
     "id": "520",
@@ -10246,16 +10429,18 @@
       "front": {
         "name": "If Only They Knew",
         "type": "Action",
-        "cost": "",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/if-only-they-knew.webp",
         "isHorizontal": false
       }
     },
     "name": "If Only They Knew",
     "type": "Action",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "5",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "5"
   },
   "521": {
     "id": "521",
@@ -10264,16 +10449,18 @@
       "front": {
         "name": "Lil Messy",
         "type": "Character",
-        "cost": "",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-messy.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Messy",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "5",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "5"
   },
   "522": {
     "id": "522",
@@ -10282,16 +10469,18 @@
       "front": {
         "name": "Lil Sweet Stack",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lil-sweet-stack.webp",
         "isHorizontal": false
       }
     },
     "name": "Lil Sweet Stack",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "2"
   },
   "523": {
     "id": "523",
@@ -10300,16 +10489,18 @@
       "front": {
         "name": "Mug Life",
         "type": "Fit",
-        "cost": "",
+        "cost": "1",
         "image": "https://www.vibes-tracker.com/set3-spoilers/mug-life.webp",
         "isHorizontal": false
       }
     },
     "name": "Mug Life",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "1",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "1"
   },
   "524": {
     "id": "524",
@@ -10318,16 +10509,18 @@
       "front": {
         "name": "Psychic Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/psychic-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Psychic Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "2"
   },
   "525": {
     "id": "525",
@@ -10336,16 +10529,18 @@
       "front": {
         "name": "Arctic Ring",
         "type": "Fit",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/arctic-ring.webp",
         "isHorizontal": false
       }
     },
     "name": "Arctic Ring",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "2"
   },
   "526": {
     "id": "526",
@@ -10354,16 +10549,18 @@
       "front": {
         "name": "Distracting Handheld",
         "type": "Fit",
-        "cost": "",
+        "cost": "0",
         "image": "https://www.vibes-tracker.com/set3-spoilers/distracting-handheld.webp",
         "isHorizontal": false
       }
     },
     "name": "Distracting Handheld",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "0",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "0"
   },
   "527": {
     "id": "527",
@@ -10372,16 +10569,18 @@
       "front": {
         "name": "Downhill Disaster",
         "type": "Action",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/downhill-disaster.webp",
         "isHorizontal": false
       }
     },
     "name": "Downhill Disaster",
     "type": "Action",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "3"
   },
   "528": {
     "id": "528",
@@ -10390,16 +10589,18 @@
       "front": {
         "name": "Lumberjack Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "5",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lumberjack-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Lumberjack Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "5",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "5"
   },
   "529": {
     "id": "529",
@@ -10408,16 +10609,18 @@
       "front": {
         "name": "Now A Rod Evermore",
         "type": "Action",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/now-a-rod-evermore.webp",
         "isHorizontal": false
       }
     },
     "name": "Now A Rod Evermore",
     "type": "Action",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "2"
   },
   "530": {
     "id": "530",
@@ -10426,16 +10629,18 @@
       "front": {
         "name": "On Thin Ice",
         "type": "Action",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/on-thin-ice.webp",
         "isHorizontal": false
       }
     },
     "name": "On Thin Ice",
     "type": "Action",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Red"
+    ],
+    "Cost": "3"
   },
   "531": {
     "id": "531",
@@ -10444,16 +10649,18 @@
       "front": {
         "name": "Penguin Who Loves Goodbyes",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/penguin-who-loves-goodbyes.webp",
         "isHorizontal": false
       }
     },
     "name": "Penguin Who Loves Goodbyes",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Purple"
+    ],
+    "Cost": "2"
   },
   "532": {
     "id": "532",
@@ -10462,16 +10669,18 @@
       "front": {
         "name": "The Pengorcist",
         "type": "Character",
-        "cost": "",
+        "cost": "4",
         "image": "https://www.vibes-tracker.com/set3-spoilers/the-pengorcist.webp",
         "isHorizontal": false
       }
     },
     "name": "The Pengorcist",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "4",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "4"
   },
   "533": {
     "id": "533",
@@ -10480,16 +10689,18 @@
       "front": {
         "name": "Visionary Birb",
         "type": "Character",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/visionary-birb.webp",
         "isHorizontal": false
       }
     },
     "name": "Visionary Birb",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Cost": "2"
   },
   "534": {
     "id": "534",
@@ -10498,16 +10709,18 @@
       "front": {
         "name": "Alchemist Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "3",
         "image": "https://www.vibes-tracker.com/set3-spoilers/alchemist-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Alchemist Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "3",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "3"
   },
   "535": {
     "id": "535",
@@ -10516,16 +10729,18 @@
       "front": {
         "name": "Classy Bow Tie",
         "type": "Fit",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/classy-bow-tie.webp",
         "isHorizontal": false
       }
     },
     "name": "Classy Bow Tie",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "2"
   },
   "536": {
     "id": "536",
@@ -10534,16 +10749,18 @@
       "front": {
         "name": "Control The Board",
         "type": "Action",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/control-the-board.webp",
         "isHorizontal": false
       }
     },
     "name": "Control The Board",
     "type": "Action",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Green"
+    ],
+    "Cost": "2"
   },
   "537": {
     "id": "537",
@@ -10552,16 +10769,18 @@
       "front": {
         "name": "Glimmering Coins",
         "type": "Fit",
-        "cost": "",
+        "cost": "2",
         "image": "https://www.vibes-tracker.com/set3-spoilers/glimmering-coins.webp",
         "isHorizontal": false
       }
     },
     "name": "Glimmering Coins",
     "type": "Fit",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "2",
+    "Color": [
+      "Colorless"
+    ],
+    "Cost": "2"
   },
   "538": {
     "id": "538",
@@ -10570,15 +10789,17 @@
       "front": {
         "name": "Lavish Penguin",
         "type": "Character",
-        "cost": "",
+        "cost": "6",
         "image": "https://www.vibes-tracker.com/set3-spoilers/lavish-penguin.webp",
         "isHorizontal": false
       }
     },
     "name": "Lavish Penguin",
     "type": "Character",
-    "cost": "",
-    "Color": [],
-    "Cost": ""
+    "cost": "6",
+    "Color": [
+      "Blue"
+    ],
+    "Cost": "6"
   }
 }
