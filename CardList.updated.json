@@ -5858,7 +5858,7 @@
     "type": "Character",
     "cost": "5",
     "Color": [
-      "- Vibes Card - Orange Cap Games ← Back to Card Library Penguin in Color Type Penguin Color Green"
+      "Green"
     ],
     "Cost": "5",
     "face": {
@@ -10800,6 +10800,134 @@
     "Color": [
       "Blue"
     ],
+    "Cost": "6"
+  },
+  "539": {
+    "id": "539",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Avis",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/avis.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avis",
+    "type": "Character",
+    "cost": "3",
+    "Color": ["Yellow"],
+    "Cost": "3"
+  },
+  "540": {
+    "id": "540",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Compass To Nowhere",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/compass-to-nowhere.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Compass To Nowhere",
+    "type": "Character",
+    "cost": "3",
+    "Color": ["Colorless"],
+    "Cost": "3"
+  },
+  "541": {
+    "id": "541",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Euphoric Leap",
+        "type": "Action",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/euphoric-leap.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Euphoric Leap",
+    "type": "Action",
+    "cost": "4",
+    "Color": ["Red"],
+    "Cost": "4"
+  },
+  "542": {
+    "id": "542",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hold On Tight",
+        "type": "Action",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/hold-on-tight.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hold On Tight",
+    "type": "Action",
+    "cost": "6",
+    "Color": ["Purple"],
+    "Cost": "6"
+  },
+  "543": {
+    "id": "543",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Junkyard Penguin",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/junkyard-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Junkyard Penguin",
+    "type": "Character",
+    "cost": "2",
+    "Color": ["Blue"],
+    "Cost": "2"
+  },
+  "544": {
+    "id": "544",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pizza Penguin",
+        "type": "Character",
+        "cost": "",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/pizza-penguin.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pizza Penguin",
+    "type": "Character",
+    "cost": "4",
+    "Color": [
+	"Blue"
+    ],
+    "Cost": "4"
+  },
+  "545": {
+    "id": "545",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Utter Mayhem",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://www.vibes-tracker.com/set3-spoilers/utter-mayhem.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Utter Mayhem",
+    "type": "Character",
+    "cost": "6",
+    "Color": ["Red"],
     "Cost": "6"
   }
 }
