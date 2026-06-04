@@ -13343,5 +13343,17 @@
     "vibe": "0",
     "text": "When this card is iced from your hand, you get a Fishsicle.",
     "source_url": "https://www.vibes.game/spoiler/Y"
+  },
+  "7777": {
+    "id": "7777",
+    "isToken": true,
+    "name": "Fishsicle",
+    "face": {
+      "front": {
+        "name": "Fishsicle",
+        "cost": "None",
+        "image": "https://i.imgur.com/EY96eFl.png",
+        "isHorizontal": false
+      }
   }
 }
