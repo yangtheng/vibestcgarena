@@ -8642,7 +8642,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "You can only play this Action if a Character was iced from your huddle this Cycle. Choose a Character and ice it.",
-    "source_url": "https://www.vibes.game/spoiler/AfternoonBreeze"
+    "source_url": "https://www.vibes.game/spoiler/AfternoonBreeze",
+    "set": "3"
   },
   "431": {
     "id": "431",
@@ -8666,7 +8667,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "Whenever any number Characters are iced, their controller gets that many Fishsicles. Whenever another Location enters play, ice this Relic.",
-    "source_url": "https://www.vibes.game/spoiler/ArtMuseum"
+    "source_url": "https://www.vibes.game/spoiler/ArtMuseum",
+    "set": "3"
   },
   "432": {
     "id": "432",
@@ -8690,7 +8692,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "When this Character enters the huddle, draw a card, then ice a card from your hand.",
-    "source_url": "https://www.vibes.game/spoiler/BachelorBirb"
+    "source_url": "https://www.vibes.game/spoiler/BachelorBirb",
+    "set": "3"
   },
   "433": {
     "id": "433",
@@ -8713,7 +8716,8 @@
     "Cost": "3",
     "rarity": "Common",
     "vibe": "6",
-    "source_url": "https://www.vibes.game/spoiler/BakerBirb"
+    "source_url": "https://www.vibes.game/spoiler/BakerBirb",
+    "set": "3"
   },
   "434": {
     "id": "434",
@@ -8737,7 +8741,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "The player with the greatest total vibe in their huddle wins Vibe Check. Whenever another Location enters play, ice this Relic.",
-    "source_url": "https://www.vibes.game/spoiler/BigBen"
+    "source_url": "https://www.vibes.game/spoiler/BigBen",
+    "set": "3"
   },
   "435": {
     "id": "435",
@@ -8761,7 +8766,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "Whenever a player plays an Action, its controller gets a Fishsicle. Whenever another Location enters play, ice this Relic.",
-    "source_url": "https://www.vibes.game/spoiler/BirbBay"
+    "source_url": "https://www.vibes.game/spoiler/BirbBay",
+    "set": "3"
   },
   "436": {
     "id": "436",
@@ -8784,7 +8790,8 @@
     "Cost": "3",
     "rarity": "Common",
     "vibe": "6",
-    "source_url": "https://www.vibes.game/spoiler/BirbWhos100FeetTall"
+    "source_url": "https://www.vibes.game/spoiler/BirbWhos100FeetTall",
+    "set": "3"
   },
   "437": {
     "id": "437",
@@ -8809,7 +8816,8 @@
     "pudge": "cost 2 or less and draw it. Put the cards you didn't draw on the bottom of your deck.",
     "vibe": "1",
     "text": "When this Character enters the huddle, reveal the top two cards of your deck. Pick up to one Action card with Pudge cost 2 or less and draw it. Put the cards you didn't draw on the bottom of your deck.",
-    "source_url": "https://www.vibes.game/spoiler/Birb"
+    "source_url": "https://www.vibes.game/spoiler/Birb",
+    "set": "3"
   },
   "438": {
     "id": "438",
@@ -8833,7 +8841,8 @@
     "rarity": "Common",
     "vibe": "5",
     "text": "Whenever this Character wins Vibe Check, draw a card, then ice a card from your hand.",
-    "source_url": "https://www.vibes.game/spoiler/Birbman"
+    "source_url": "https://www.vibes.game/spoiler/Birbman",
+    "set": "3"
   },
   "439": {
     "id": "439",
@@ -8857,7 +8866,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Whenever you lose Vibe Check, put a vibe counter on this Character. This ability is the only way vibe counters can be put on this Character. At the start of your turn, if this Character has 9 vibe counters on it, you win the game.",
-    "source_url": "https://www.vibes.game/spoiler/BufferingBirb"
+    "source_url": "https://www.vibes.game/spoiler/BufferingBirb",
+    "set": "3"
   },
   "440": {
     "id": "440",
@@ -8882,7 +8892,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose any number of Green Characters in your huddle. Return them to their owners' hands. Draw that many cards.",
-    "source_url": "https://www.vibes.game/spoiler/ButYouDidntEvenWin"
+    "source_url": "https://www.vibes.game/spoiler/ButYouDidntEvenWin",
+    "set": "3"
   },
   "441": {
     "id": "441",
@@ -8906,7 +8917,8 @@
     "rarity": "Epic",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"Whenever an Action is played that chooses this Character, copy that Action. (You make new choices for the copy)\".",
-    "source_url": "https://www.vibes.game/spoiler/CloakOfIllusions"
+    "source_url": "https://www.vibes.game/spoiler/CloakOfIllusions",
+    "set": "3"
   },
   "442": {
     "id": "442",
@@ -8930,7 +8942,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"[ACT] _F_, remove all vibe counters from this Character: Choose a Character and reduce its vibe by the number of vibe counters removed this way for the rest of this Cycle\".",
-    "source_url": "https://www.vibes.game/spoiler/CoastalSurfboard"
+    "source_url": "https://www.vibes.game/spoiler/CoastalSurfboard",
+    "set": "3"
   },
   "443": {
     "id": "443",
@@ -8954,7 +8967,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gets +1 vibe.",
-    "source_url": "https://www.vibes.game/spoiler/CozyMittens"
+    "source_url": "https://www.vibes.game/spoiler/CozyMittens",
+    "set": "3"
   },
   "445": {
     "id": "445",
@@ -8978,7 +8992,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "When this Character enters the huddle, choose another Character and put a vibe counter on it.",
-    "source_url": "https://www.vibes.game/spoiler/ElegantBirb"
+    "source_url": "https://www.vibes.game/spoiler/ElegantBirb",
+    "set": "3"
   },
   "446": {
     "id": "446",
@@ -9002,7 +9017,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gets +3 vibe.",
-    "source_url": "https://www.vibes.game/spoiler/EnchantedBoots"
+    "source_url": "https://www.vibes.game/spoiler/EnchantedBoots",
+    "set": "3"
   },
   "447": {
     "id": "447",
@@ -9026,7 +9042,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "When this Character enters the huddle, reveal a face-down Rod you control. If it's a Yellow Character card, put it into your hand.",
-    "source_url": "https://www.vibes.game/spoiler/FarmerBirb"
+    "source_url": "https://www.vibes.game/spoiler/FarmerBirb",
+    "set": "3"
   },
   "448": {
     "id": "448",
@@ -9050,7 +9067,8 @@
     "rarity": "Common",
     "vibe": "6",
     "text": "Whenever any number of Characters in your huddle are iced, boost this Character's vibe by 2 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/FishermanPenguin"
+    "source_url": "https://www.vibes.game/spoiler/FishermanPenguin",
+    "set": "3"
   },
   "449": {
     "id": "449",
@@ -9075,7 +9093,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "This Action costs one less _P_ to play for each Purple Character iced this Cycle. Draw two cards.",
-    "source_url": "https://www.vibes.game/spoiler/FreeFall"
+    "source_url": "https://www.vibes.game/spoiler/FreeFall",
+    "set": "3"
   },
   "450": {
     "id": "450",
@@ -9099,7 +9118,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "_Y_ or _P_.",
-    "source_url": "https://www.vibes.game/spoiler/FrostbittenWizbirb"
+    "source_url": "https://www.vibes.game/spoiler/FrostbittenWizbirb",
+    "set": "3"
   },
   "451": {
     "id": "451",
@@ -9123,7 +9143,8 @@
     "rarity": "Rare",
     "vibe": "4",
     "text": "[ACT] _Y__Y__Y_, _F_: Choose a Character in your huddle and ice it. At the start of the next Cycle, return it from ice to its owner's huddle.",
-    "source_url": "https://www.vibes.game/spoiler/GoalieBirb"
+    "source_url": "https://www.vibes.game/spoiler/GoalieBirb",
+    "set": "3"
   },
   "452": {
     "id": "452",
@@ -9148,7 +9169,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "As an additional cost to play this Action, ice two cards from your hand. Draw three cards.",
-    "source_url": "https://www.vibes.game/spoiler/GoodVibesOnly"
+    "source_url": "https://www.vibes.game/spoiler/GoodVibesOnly",
+    "set": "3"
   },
   "454": {
     "id": "454",
@@ -9172,7 +9194,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Whenever you win Vibe Check, put a vibe counter on this Character. This ability is the only way vibe counters can be put on this Character. At the start of your turn, if this Character has 9 vibe counters on it, you win the game.",
-    "source_url": "https://www.vibes.game/spoiler/HereComeDatPeng"
+    "source_url": "https://www.vibes.game/spoiler/HereComeDatPeng",
+    "set": "3"
   },
   "455": {
     "id": "455",
@@ -9196,7 +9219,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gets +4 vibe. When that Character leaves the huddle, return this to its owner's hand.",
-    "source_url": "https://www.vibes.game/spoiler/HerosSword"
+    "source_url": "https://www.vibes.game/spoiler/HerosSword",
+    "set": "3"
   },
   "456": {
     "id": "456",
@@ -9220,7 +9244,8 @@
     "rarity": "Rare",
     "vibe": "6",
     "text": "Whenever this Character wins Vibe Check, choose a Character. It joins your huddle. Ice this Character.",
-    "source_url": "https://www.vibes.game/spoiler/HypnotizedPenguin"
+    "source_url": "https://www.vibes.game/spoiler/HypnotizedPenguin",
+    "set": "3"
   },
   "457": {
     "id": "457",
@@ -9245,7 +9270,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. If you have the Baron, ice that Character. Otherwise, boost its vibe by 2 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/IdentityCrisis"
+    "source_url": "https://www.vibes.game/spoiler/IdentityCrisis",
+    "set": "3"
   },
   "458": {
     "id": "458",
@@ -9269,7 +9295,8 @@
     "rarity": "Uncommon",
     "vibe": "6",
     "text": "When this Character is iced, choose a player. That player ices a Character in their huddle.",
-    "source_url": "https://www.vibes.game/spoiler/IronPenguin"
+    "source_url": "https://www.vibes.game/spoiler/IronPenguin",
+    "set": "3"
   },
   "460": {
     "id": "460",
@@ -9293,7 +9320,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "[ACT] _F_: Pick two cards in your opponent's ice and put them on the bottom of their deck.",
-    "source_url": "https://www.vibes.game/spoiler/JollyBirb"
+    "source_url": "https://www.vibes.game/spoiler/JollyBirb",
+    "set": "3"
   },
   "462": {
     "id": "462",
@@ -9318,7 +9346,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character with vibe 2 or less. Flip a coin. If heads, put 6 vibe counters on it. If tails, return the Character to its owner's hand and draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/LiftOff"
+    "source_url": "https://www.vibes.game/spoiler/LiftOff",
+    "set": "3"
   },
   "463": {
     "id": "463",
@@ -9342,7 +9371,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "When this Character is iced, each player draws a card.",
-    "source_url": "https://www.vibes.game/spoiler/LilBalanced"
+    "source_url": "https://www.vibes.game/spoiler/LilBalanced",
+    "set": "3"
   },
   "464": {
     "id": "464",
@@ -9366,7 +9396,8 @@
     "rarity": "Common",
     "vibe": "3",
     "text": "When this Character is iced, each player puts the top card of their deck face-down as a Rod.",
-    "source_url": "https://www.vibes.game/spoiler/LilForgotten"
+    "source_url": "https://www.vibes.game/spoiler/LilForgotten",
+    "set": "3"
   },
   "465": {
     "id": "465",
@@ -9390,7 +9421,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "Whenever this Character is outfitted, put 2 vibe counters on it.",
-    "source_url": "https://www.vibes.game/spoiler/LilGamer"
+    "source_url": "https://www.vibes.game/spoiler/LilGamer",
+    "set": "3"
   },
   "466": {
     "id": "466",
@@ -9414,7 +9446,8 @@
     "rarity": "Common",
     "vibe": "3",
     "text": "When this Character enters the huddle, choose another Character and put 2 vibe counters on it.",
-    "source_url": "https://www.vibes.game/spoiler/LilHelium"
+    "source_url": "https://www.vibes.game/spoiler/LilHelium",
+    "set": "3"
   },
   "467": {
     "id": "467",
@@ -9438,7 +9471,8 @@
     "rarity": "Common",
     "vibe": "7",
     "text": "At the end of Action Time, if you don't have the Baron, ice this Character.",
-    "source_url": "https://www.vibes.game/spoiler/LilPersuader"
+    "source_url": "https://www.vibes.game/spoiler/LilPersuader",
+    "set": "3"
   },
   "468": {
     "id": "468",
@@ -9462,7 +9496,8 @@
     "rarity": "Rare",
     "vibe": "4",
     "text": "[ACT] _F_: Choose a Character in your huddle and ice it. Pick a Character card in your ice with the same Fish cost as, but different name than, the iced Character. Put it into your huddle.",
-    "source_url": "https://www.vibes.game/spoiler/LuckmakingBirb"
+    "source_url": "https://www.vibes.game/spoiler/LuckmakingBirb",
+    "set": "3"
   },
   "469": {
     "id": "469",
@@ -9486,7 +9521,8 @@
     "rarity": "Epic",
     "vibe": "12",
     "text": "This Character costs one less _T_ to play for each Character in your huddle.",
-    "source_url": "https://www.vibes.game/spoiler/LuminWhoSeesAll"
+    "source_url": "https://www.vibes.game/spoiler/LuminWhoSeesAll",
+    "set": "3"
   },
   "470": {
     "id": "470",
@@ -9510,7 +9546,8 @@
     "rarity": "Epic",
     "vibe": "5",
     "text": "You can play one Fit from your ice each Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/LunarisTheInfinite"
+    "source_url": "https://www.vibes.game/spoiler/LunarisTheInfinite",
+    "set": "3"
   },
   "471": {
     "id": "471",
@@ -9534,7 +9571,8 @@
     "rarity": "Epic",
     "vibe": "0",
     "text": "When this Character enters the huddle, each player returns all Characters with vibe 2 or less from their ice to their huddle.",
-    "source_url": "https://www.vibes.game/spoiler/MyraOfTheMist"
+    "source_url": "https://www.vibes.game/spoiler/MyraOfTheMist",
+    "set": "3"
   },
   "472": {
     "id": "472",
@@ -9559,7 +9597,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character that entered the huddle this Cycle. Return it to its owner's hand.",
-    "source_url": "https://www.vibes.game/spoiler/NightOfTheLivingBirb"
+    "source_url": "https://www.vibes.game/spoiler/NightOfTheLivingBirb",
+    "set": "3"
   },
   "473": {
     "id": "473",
@@ -9583,7 +9622,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "_B_ or _G_.",
-    "source_url": "https://www.vibes.game/spoiler/NightveilWizbirb"
+    "source_url": "https://www.vibes.game/spoiler/NightveilWizbirb",
+    "set": "3"
   },
   "474": {
     "id": "474",
@@ -9607,7 +9647,8 @@
     "rarity": "Epic",
     "vibe": "4",
     "text": "If an Action or a non-Silly Character's ability would cause you to draw any number of cards, draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/NimbusTheQuick"
+    "source_url": "https://www.vibes.game/spoiler/NimbusTheQuick",
+    "set": "3"
   },
   "476": {
     "id": "476",
@@ -9631,7 +9672,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Playable during Action Time as if it were an Action.",
-    "source_url": "https://www.vibes.game/spoiler/Pengu"
+    "source_url": "https://www.vibes.game/spoiler/Pengu",
+    "set": "3"
   },
   "477": {
     "id": "477",
@@ -9655,7 +9697,8 @@
     "rarity": "Uncommon",
     "vibe": "3",
     "text": "This Character can only [ACT] if two or more other Characters entered your huddle this Cycle. [ACT] _F_: Choose a Character and flop it.",
-    "source_url": "https://www.vibes.game/spoiler/Pluma"
+    "source_url": "https://www.vibes.game/spoiler/Pluma",
+    "set": "3"
   },
   "478": {
     "id": "478",
@@ -9679,7 +9722,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "When this Character is iced, pick an Action card in your ice and return it to your hand.",
-    "source_url": "https://www.vibes.game/spoiler/PointingBirb"
+    "source_url": "https://www.vibes.game/spoiler/PointingBirb",
+    "set": "3"
   },
   "479": {
     "id": "479",
@@ -9703,7 +9747,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "When this Character is iced, the player that iced it draws a card.",
-    "source_url": "https://www.vibes.game/spoiler/PrizedBirb"
+    "source_url": "https://www.vibes.game/spoiler/PrizedBirb",
+    "set": "3"
   },
   "480": {
     "id": "480",
@@ -9726,7 +9771,8 @@
     "Cost": "3",
     "rarity": "Common",
     "vibe": "6",
-    "source_url": "https://www.vibes.game/spoiler/QuantumBirb"
+    "source_url": "https://www.vibes.game/spoiler/QuantumBirb",
+    "set": "3"
   },
   "481": {
     "id": "481",
@@ -9750,7 +9796,8 @@
     "rarity": "Epic",
     "vibe": "13",
     "text": "[ACT] _F_: Choose thirteen other Characters and flop them. (You must choose exactly thirteen Characters).",
-    "source_url": "https://www.vibes.game/spoiler/QuiverTheFlightful"
+    "source_url": "https://www.vibes.game/spoiler/QuiverTheFlightful",
+    "set": "3"
   },
   "482": {
     "id": "482",
@@ -9774,7 +9821,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "[ACT] _F_, remove a vibe counter from this Character: Choose a Character and boost its vibe by 3 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/RealistPenguin"
+    "source_url": "https://www.vibes.game/spoiler/RealistPenguin",
+    "set": "3"
   },
   "483": {
     "id": "483",
@@ -9798,7 +9846,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "As long as you have the Baron, this Character can produce _G__G_.",
-    "source_url": "https://www.vibes.game/spoiler/ReflectivePenguin"
+    "source_url": "https://www.vibes.game/spoiler/ReflectivePenguin",
+    "set": "3"
   },
   "484": {
     "id": "484",
@@ -9823,7 +9872,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. For the rest of this Cycle, boost its vibe by 2 and if it wins Vibe Check, draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/Reminisce"
+    "source_url": "https://www.vibes.game/spoiler/Reminisce",
+    "set": "3"
   },
   "485": {
     "id": "485",
@@ -9847,7 +9897,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "Whenever you ice any number of cards from your hand, boost this Character's vibe by 2 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/RoastingBirb"
+    "source_url": "https://www.vibes.game/spoiler/RoastingBirb",
+    "set": "3"
   },
   "486": {
     "id": "486",
@@ -9871,7 +9922,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "When this Character is iced, choose a Character and put 3 vibe counters on it.",
-    "source_url": "https://www.vibes.game/spoiler/ScholarBirb"
+    "source_url": "https://www.vibes.game/spoiler/ScholarBirb",
+    "set": "3"
   },
   "487": {
     "id": "487",
@@ -9896,7 +9948,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Each player gives their huddle to the player on their right.",
-    "source_url": "https://www.vibes.game/spoiler/SetSail"
+    "source_url": "https://www.vibes.game/spoiler/SetSail",
+    "set": "3"
   },
   "488": {
     "id": "488",
@@ -9921,7 +9974,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. Its controller draws a card. Ice that Character.",
-    "source_url": "https://www.vibes.game/spoiler/SideEye"
+    "source_url": "https://www.vibes.game/spoiler/SideEye",
+    "set": "3"
   },
   "489": {
     "id": "489",
@@ -9945,7 +9999,8 @@
     "rarity": "Rare",
     "vibe": "6",
     "text": "Whenever this Character produces Pudge, choose another Character in your huddle and return it to its owner's hand.",
-    "source_url": "https://www.vibes.game/spoiler/SleepyBirb"
+    "source_url": "https://www.vibes.game/spoiler/SleepyBirb",
+    "set": "3"
   },
   "490": {
     "id": "490",
@@ -9970,7 +10025,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. If it's Green, put 6 vibe counters on it. Otherwise, ice it.",
-    "source_url": "https://www.vibes.game/spoiler/SquadStrike"
+    "source_url": "https://www.vibes.game/spoiler/SquadStrike",
+    "set": "3"
   },
   "491": {
     "id": "491",
@@ -9995,7 +10051,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. If it has vibe counters on it, ice it. Otherwise, flop it.",
-    "source_url": "https://www.vibes.game/spoiler/StepByStep"
+    "source_url": "https://www.vibes.game/spoiler/StepByStep",
+    "set": "3"
   },
   "492": {
     "id": "492",
@@ -10019,7 +10076,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "_G_ or _R_.",
-    "source_url": "https://www.vibes.game/spoiler/StonebreakerWizbirb"
+    "source_url": "https://www.vibes.game/spoiler/StonebreakerWizbirb",
+    "set": "3"
   },
   "493": {
     "id": "493",
@@ -10043,7 +10101,8 @@
     "rarity": "Uncommon",
     "vibe": "1",
     "text": "When this Character enters the huddle, choose a non-Silly Character in your huddle and ice it. At the start of the next Cycle, return it from ice to its owner's huddle.",
-    "source_url": "https://www.vibes.game/spoiler/StrikerBirb"
+    "source_url": "https://www.vibes.game/spoiler/StrikerBirb",
+    "set": "3"
   },
   "494": {
     "id": "494",
@@ -10068,7 +10127,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Draw two cards, then ice a card from your hand.",
-    "source_url": "https://www.vibes.game/spoiler/StudyAllDay"
+    "source_url": "https://www.vibes.game/spoiler/StudyAllDay",
+    "set": "3"
   },
   "495": {
     "id": "495",
@@ -10092,7 +10152,8 @@
     "rarity": "Rare",
     "vibe": "6",
     "text": "[ACT] _F_, pick two cards in your opponent's ice and put them on the bottom of their deck: Choose a Character and ice it. At the start of the next Cycle, return it from ice to its owner's huddle.",
-    "source_url": "https://www.vibes.game/spoiler/SudsyBirb"
+    "source_url": "https://www.vibes.game/spoiler/SudsyBirb",
+    "set": "3"
   },
   "496": {
     "id": "496",
@@ -10115,7 +10176,8 @@
     "Cost": "2",
     "rarity": "Common",
     "vibe": "4",
-    "source_url": "https://www.vibes.game/spoiler/TailorBirb"
+    "source_url": "https://www.vibes.game/spoiler/TailorBirb",
+    "set": "3"
   },
   "497": {
     "id": "497",
@@ -10139,7 +10201,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Prizes are doubled for the Vibe Check. Whenever another Location enters play, ice this Relic.",
-    "source_url": "https://www.vibes.game/spoiler/TajMahal"
+    "source_url": "https://www.vibes.game/spoiler/TajMahal",
+    "set": "3"
   },
   "498": {
     "id": "498",
@@ -10163,7 +10226,8 @@
     "rarity": "Uncommon",
     "vibe": "4",
     "text": "_R__R__R_",
-    "source_url": "https://www.vibes.game/spoiler/TheBirbOfMusic"
+    "source_url": "https://www.vibes.game/spoiler/TheBirbOfMusic",
+    "set": "3"
   },
   "499": {
     "id": "499",
@@ -10188,7 +10252,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Boost the vibe of Characters that entered your huddle this Cycle by 6 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/TheBirbOfVenus"
+    "source_url": "https://www.vibes.game/spoiler/TheBirbOfVenus",
+    "set": "3"
   },
   "500": {
     "id": "500",
@@ -10212,7 +10277,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Whenever a Character has any number of vibe counters put on it during Action Time, flop it. Whenever another Location enters play, ice this Relic.",
-    "source_url": "https://www.vibes.game/spoiler/ThePeng"
+    "source_url": "https://www.vibes.game/spoiler/ThePeng",
+    "set": "3"
   },
   "501": {
     "id": "501",
@@ -10237,7 +10303,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. Ice it at the end of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/TheProphecyUnfolds"
+    "source_url": "https://www.vibes.game/spoiler/TheProphecyUnfolds",
+    "set": "3"
   },
   "502": {
     "id": "502",
@@ -10261,7 +10328,8 @@
     "rarity": "Rare",
     "vibe": "4",
     "text": "You can play one Red non-Saucy Action from your Rods each Cycle as if it were Saucy (one per Rodromancer).",
-    "source_url": "https://www.vibes.game/spoiler/TheRodromancer"
+    "source_url": "https://www.vibes.game/spoiler/TheRodromancer",
+    "set": "3"
   },
   "503": {
     "id": "503",
@@ -10285,7 +10353,8 @@
     "rarity": "Common",
     "vibe": "10",
     "text": "This Character costs one less _T_ to play for each Fit you control.",
-    "source_url": "https://www.vibes.game/spoiler/ThisIsNotAPudgy"
+    "source_url": "https://www.vibes.game/spoiler/ThisIsNotAPudgy",
+    "set": "3"
   },
   "504": {
     "id": "504",
@@ -10310,7 +10379,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "As an additional cost to play this Action, ice a Fit you control. Choose a Character and ice it.",
-    "source_url": "https://www.vibes.game/spoiler/TimeWarpToss"
+    "source_url": "https://www.vibes.game/spoiler/TimeWarpToss",
+    "set": "3"
   },
   "505": {
     "id": "505",
@@ -10334,7 +10404,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "Whenever you ice any number of cards from your hand, put that many vibe counters on this Character.",
-    "source_url": "https://www.vibes.game/spoiler/ToastingBirb"
+    "source_url": "https://www.vibes.game/spoiler/ToastingBirb",
+    "set": "3"
   },
   "506": {
     "id": "506",
@@ -10358,7 +10429,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "When this Character enters the huddle, choose a Character with vibe 4 or less and flop it.",
-    "source_url": "https://www.vibes.game/spoiler/TonyBirb"
+    "source_url": "https://www.vibes.game/spoiler/TonyBirb",
+    "set": "3"
   },
   "507": {
     "id": "507",
@@ -10382,7 +10454,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit and if it's a Blue Character, draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/TravelersLantern"
+    "source_url": "https://www.vibes.game/spoiler/TravelersLantern",
+    "set": "3"
   },
   "508": {
     "id": "508",
@@ -10407,7 +10480,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character and ice it. At the start of the next Cycle, return it from ice to its owner's huddle.",
-    "source_url": "https://www.vibes.game/spoiler/TrueForm"
+    "source_url": "https://www.vibes.game/spoiler/TrueForm",
+    "set": "3"
   },
   "509": {
     "id": "509",
@@ -10432,7 +10506,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Fit you don't control. Return it to its owner's hand. Draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/TurnItUp"
+    "source_url": "https://www.vibes.game/spoiler/TurnItUp",
+    "set": "3"
   },
   "510": {
     "id": "510",
@@ -10456,7 +10531,8 @@
     "rarity": "Epic",
     "vibe": "10",
     "text": "[ACT] _F_: The next time this Character would be iced this Cycle, it isn't.",
-    "source_url": "https://www.vibes.game/spoiler/UmbraOnDreamsEdge"
+    "source_url": "https://www.vibes.game/spoiler/UmbraOnDreamsEdge",
+    "set": "3"
   },
   "511": {
     "id": "511",
@@ -10480,7 +10556,8 @@
     "rarity": "Common",
     "vibe": "6",
     "text": "When this Character enters the huddle, if another Character entered your huddle this Cycle, this Character enters with 3 vibe counters.",
-    "source_url": "https://www.vibes.game/spoiler/UncertainBirb"
+    "source_url": "https://www.vibes.game/spoiler/UncertainBirb",
+    "set": "3"
   },
   "512": {
     "id": "512",
@@ -10504,7 +10581,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "Whenever you ice any number of cards from your hand, you get a Fishsicle.",
-    "source_url": "https://www.vibes.game/spoiler/UnidentifiedFlyingBirb"
+    "source_url": "https://www.vibes.game/spoiler/UnidentifiedFlyingBirb",
+    "set": "3"
   },
   "513": {
     "id": "513",
@@ -10528,7 +10606,8 @@
     "rarity": "Epic",
     "vibe": "1",
     "text": "Whenever any number of Characters in your huddle are iced, put a vibe counter on this Character. At the start of Action Time, choose a Character. Boost its vibe by this Character's vibe for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/VesperWhoIsTheNight"
+    "source_url": "https://www.vibes.game/spoiler/VesperWhoIsTheNight",
+    "set": "3"
   },
   "514": {
     "id": "514",
@@ -10553,7 +10632,8 @@
     "pudge": "Vibe 0",
     "vibe": "Scan",
     "text": "Choose a Character with vibe 2 or less and ice it.",
-    "source_url": "https://www.vibes.game/spoiler/VibeScan"
+    "source_url": "https://www.vibes.game/spoiler/VibeScan",
+    "set": "3"
   },
   "515": {
     "id": "515",
@@ -10577,7 +10657,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "At the end of Action Time, if you have the Baron, put a vibe counter on each Character in your huddle.",
-    "source_url": "https://www.vibes.game/spoiler/VictoriousPenguin"
+    "source_url": "https://www.vibes.game/spoiler/VictoriousPenguin",
+    "set": "3"
   },
   "517": {
     "id": "517",
@@ -10601,7 +10682,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "[ACT] _F_: Choose a Relic and ice it. Ice this Rod. (This Rod doesn't produce Fish).",
-    "source_url": "https://www.vibes.game/spoiler/HammerRod"
+    "source_url": "https://www.vibes.game/spoiler/HammerRod",
+    "set": "3"
   },
   "518": {
     "id": "518",
@@ -10625,7 +10707,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "[ACT] _F_: Choose a Character. Boost its vibe by the number of Characters in your huddle for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/BirbWhoAlwaysGetsLost"
+    "source_url": "https://www.vibes.game/spoiler/BirbWhoAlwaysGetsLost",
+    "set": "3"
   },
   "519": {
     "id": "519",
@@ -10649,7 +10732,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"[ACT] _F_: Put a vibe counter on this Character\".",
-    "source_url": "https://www.vibes.game/spoiler/BreakawayBalloon"
+    "source_url": "https://www.vibes.game/spoiler/BreakawayBalloon",
+    "set": "3"
   },
   "520": {
     "id": "520",
@@ -10674,7 +10758,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. Ice all Characters with vibe equal to that Character's vibe.",
-    "source_url": "https://www.vibes.game/spoiler/IfOnlyTheyKnew"
+    "source_url": "https://www.vibes.game/spoiler/IfOnlyTheyKnew",
+    "set": "3"
   },
   "521": {
     "id": "521",
@@ -10698,7 +10783,8 @@
     "rarity": "Common",
     "vibe": "7",
     "text": "As an additional cost to play this Character, return a Fit you control to its owner's hand.",
-    "source_url": "https://www.vibes.game/spoiler/LilMessy"
+    "source_url": "https://www.vibes.game/spoiler/LilMessy",
+    "set": "3"
   },
   "522": {
     "id": "522",
@@ -10722,7 +10808,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "[ACT] _F_: Choose a Green Character and put a vibe counter on it.",
-    "source_url": "https://www.vibes.game/spoiler/LilSweetStack"
+    "source_url": "https://www.vibes.game/spoiler/LilSweetStack",
+    "set": "3"
   },
   "523": {
     "id": "523",
@@ -10746,7 +10833,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. Whenever a Character is outfitted with this, boost its vibe by 3 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/MugLife"
+    "source_url": "https://www.vibes.game/spoiler/MugLife",
+    "set": "3"
   },
   "524": {
     "id": "524",
@@ -10770,7 +10858,8 @@
     "rarity": "Uncommon",
     "vibe": "1",
     "text": "Whenever this Character is chosen by anything, draw a card, then ice a card from your hand.",
-    "source_url": "https://www.vibes.game/spoiler/PsychicBirb"
+    "source_url": "https://www.vibes.game/spoiler/PsychicBirb",
+    "set": "3"
   },
   "525": {
     "id": "525",
@@ -10795,7 +10884,8 @@
     "pudge": "of that same color.",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. Whenever the Character wearing this produces Pudge, they produce another Pudge of that same color.",
-    "source_url": "https://www.vibes.game/spoiler/ArcticRing"
+    "source_url": "https://www.vibes.game/spoiler/ArcticRing",
+    "set": "3"
   },
   "526": {
     "id": "526",
@@ -10819,7 +10909,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this can't produce Pudge.",
-    "source_url": "https://www.vibes.game/spoiler/DistractingHandheld"
+    "source_url": "https://www.vibes.game/spoiler/DistractingHandheld",
+    "set": "3"
   },
   "527": {
     "id": "527",
@@ -10844,7 +10935,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Pick any number of Fit cards in your ice. Put them on top of your deck in any order.",
-    "source_url": "https://www.vibes.game/spoiler/DownhillDisaster"
+    "source_url": "https://www.vibes.game/spoiler/DownhillDisaster",
+    "set": "3"
   },
   "528": {
     "id": "528",
@@ -10868,7 +10960,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "This Character enters the huddle with 4 vibe counters on it. Whenever another Character enters your huddle, move all vibe counters from this Character onto it.",
-    "source_url": "https://www.vibes.game/spoiler/LumberjackPenguin"
+    "source_url": "https://www.vibes.game/spoiler/LumberjackPenguin",
+    "set": "3"
   },
   "530": {
     "id": "530",
@@ -10893,7 +10986,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "As an additional cost to play this Action, reveal another Red Action card from your hand. Choose a Character and ice it.",
-    "source_url": "https://www.vibes.game/spoiler/OnThinIce"
+    "source_url": "https://www.vibes.game/spoiler/OnThinIce",
+    "set": "3"
   },
   "531": {
     "id": "531",
@@ -10917,7 +11011,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "When this Character is iced, if it didn't have any vibe counters on it, put it into your huddle with a vibe counter on it.",
-    "source_url": "https://www.vibes.game/spoiler/PenguinWhoLovesGoodbyes"
+    "source_url": "https://www.vibes.game/spoiler/PenguinWhoLovesGoodbyes",
+    "set": "3"
   },
   "532": {
     "id": "532",
@@ -10941,7 +11036,8 @@
     "rarity": "Rare",
     "vibe": "3",
     "text": "This Character can only [ACT] if it's wearing three or more Fits. [ACT] _F_: Choose a Character and turn it face-down as a Rod.",
-    "source_url": "https://www.vibes.game/spoiler/ThePengorcist"
+    "source_url": "https://www.vibes.game/spoiler/ThePengorcist",
+    "set": "3"
   },
   "533": {
     "id": "533",
@@ -10965,7 +11061,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "When this Character enters the huddle, reveal the top card of your deck. If it's a Character card with Fish cost 2, put it into your huddle and ice this Character.",
-    "source_url": "https://www.vibes.game/spoiler/VisionaryBirb"
+    "source_url": "https://www.vibes.game/spoiler/VisionaryBirb",
+    "set": "3"
   },
   "534": {
     "id": "534",
@@ -10989,7 +11086,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "When this Character enters the huddle, you may ice a card from your hand. If you do, search your deck for a Fit card and reveal it. Put it into your hand and shuffle your deck.",
-    "source_url": "https://www.vibes.game/spoiler/AlchemistPenguin"
+    "source_url": "https://www.vibes.game/spoiler/AlchemistPenguin",
+    "set": "3"
   },
   "535": {
     "id": "535",
@@ -11013,7 +11111,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gets +2 vibe.",
-    "source_url": "https://www.vibes.game/spoiler/ClassyBowTie"
+    "source_url": "https://www.vibes.game/spoiler/ClassyBowTie",
+    "set": "3"
   },
   "536": {
     "id": "536",
@@ -11038,7 +11137,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Draw a card. If you used two Characters each with vibe 8 or greater to pay this card's Pudge cost, return this from ice to your hand at the start of the next Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/ControlTheBoard"
+    "source_url": "https://www.vibes.game/spoiler/ControlTheBoard",
+    "set": "3"
   },
   "537": {
     "id": "537",
@@ -11062,7 +11162,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this loses all abilities and can't gain abilities.",
-    "source_url": "https://www.vibes.game/spoiler/GlimmeringCoins"
+    "source_url": "https://www.vibes.game/spoiler/GlimmeringCoins",
+    "set": "3"
   },
   "538": {
     "id": "538",
@@ -11086,7 +11187,8 @@
     "rarity": "Uncommon",
     "vibe": "6",
     "text": "When this Character enters the huddle, outfit it with all the Fits you control.",
-    "source_url": "https://www.vibes.game/spoiler/LavishPenguin"
+    "source_url": "https://www.vibes.game/spoiler/LavishPenguin",
+    "set": "3"
   },
   "539": {
     "id": "539",
@@ -11110,7 +11212,8 @@
     "rarity": "Rare",
     "vibe": "3",
     "text": "This Character can only [ACT] if three or more other Characters entered your huddle this Cycle. [ACT] _F_: Choose a Character and ice it.",
-    "source_url": "https://www.vibes.game/spoiler/Avis"
+    "source_url": "https://www.vibes.game/spoiler/Avis",
+    "set": "3"
   },
   "540": {
     "id": "540",
@@ -11134,7 +11237,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"At the start of Action Time, if you control more Characters than your opponent, ice a Character in your huddle\".",
-    "source_url": "https://www.vibes.game/spoiler/CompassToNowhere"
+    "source_url": "https://www.vibes.game/spoiler/CompassToNowhere",
+    "set": "3"
   },
   "541": {
     "id": "541",
@@ -11159,7 +11263,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. Boost its vibe by 5 for the rest of this Cycle. If it wins Vibe Check this Cycle, ice it.",
-    "source_url": "https://www.vibes.game/spoiler/EuphoricLeap"
+    "source_url": "https://www.vibes.game/spoiler/EuphoricLeap",
+    "set": "3"
   },
   "542": {
     "id": "542",
@@ -11184,7 +11289,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Ice all Characters with vibe 2 or less.",
-    "source_url": "https://www.vibes.game/spoiler/HoldOnTight"
+    "source_url": "https://www.vibes.game/spoiler/HoldOnTight",
+    "set": "3"
   },
   "543": {
     "id": "543",
@@ -11208,7 +11314,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "[ACT] _F_: Choose a Fit you control and ice it. Draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/JunkyardPenguin"
+    "source_url": "https://www.vibes.game/spoiler/JunkyardPenguin",
+    "set": "3"
   },
   "544": {
     "id": "544",
@@ -11232,7 +11339,8 @@
     "rarity": "Uncommon",
     "vibe": "6",
     "text": "[ACT] _F_: Choose a Fit you control and return it to its owner's hand.",
-    "source_url": "https://www.vibes.game/spoiler/PizzaPenguin"
+    "source_url": "https://www.vibes.game/spoiler/PizzaPenguin",
+    "set": "3"
   },
   "545": {
     "id": "545",
@@ -11257,7 +11365,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character with the highest vibe in your huddle. Ice all Characters with vibe greater than it.",
-    "source_url": "https://www.vibes.game/spoiler/UtterMayhem"
+    "source_url": "https://www.vibes.game/spoiler/UtterMayhem",
+    "set": "3"
   },
   "546": {
     "id": "546",
@@ -11281,7 +11390,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "[ACT] _F_: Reveal a face-down Rod you control. If it's a Fit card, put it into your hand.",
-    "source_url": "https://www.vibes.game/spoiler/ArchaeologistPenguin"
+    "source_url": "https://www.vibes.game/spoiler/ArchaeologistPenguin",
+    "set": "3"
   },
   "547": {
     "id": "547",
@@ -11305,7 +11415,8 @@
     "rarity": "Uncommon",
     "vibe": "3",
     "text": "At the start of Action Time, you may choose another Character in your huddle. If you do, boost this Character's vibe by that Character's vibe for the rest of this Cycle, then ice that Character.",
-    "source_url": "https://www.vibes.game/spoiler/BirbWhoFindsTheWay"
+    "source_url": "https://www.vibes.game/spoiler/BirbWhoFindsTheWay",
+    "set": "3"
   },
   "548": {
     "id": "548",
@@ -11328,7 +11439,8 @@
     "Cost": "2",
     "rarity": "Common",
     "vibe": "4",
-    "source_url": "https://www.vibes.game/spoiler/BirbWithAFlag"
+    "source_url": "https://www.vibes.game/spoiler/BirbWithAFlag",
+    "set": "3"
   },
   "549": {
     "id": "549",
@@ -11351,7 +11463,8 @@
     "Cost": "1",
     "rarity": "Common",
     "vibe": "2",
-    "source_url": "https://www.vibes.game/spoiler/BirbWithAMouse"
+    "source_url": "https://www.vibes.game/spoiler/BirbWithAMouse",
+    "set": "3"
   },
   "550": {
     "id": "550",
@@ -11376,7 +11489,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose two Characters that share a color and ice them.",
-    "source_url": "https://www.vibes.game/spoiler/BirbsNightOut"
+    "source_url": "https://www.vibes.game/spoiler/BirbsNightOut",
+    "set": "3"
   },
   "551": {
     "id": "551",
@@ -11400,7 +11514,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"[ACT] _F_: Double the number of vibe counters on this Character\".",
-    "source_url": "https://www.vibes.game/spoiler/BookOfWonders"
+    "source_url": "https://www.vibes.game/spoiler/BookOfWonders",
+    "set": "3"
   },
   "552": {
     "id": "552",
@@ -11425,7 +11540,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "You get the Baron.",
-    "source_url": "https://www.vibes.game/spoiler/BrofessionalAgreement"
+    "source_url": "https://www.vibes.game/spoiler/BrofessionalAgreement",
+    "set": "3"
   },
   "553": {
     "id": "553",
@@ -11450,7 +11566,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. Reveal a face-down Rod you control. If it's a Fit card with Fish cost 5 or less, put it into play outfitting the chosen Character.",
-    "source_url": "https://www.vibes.game/spoiler/BullishSentiment"
+    "source_url": "https://www.vibes.game/spoiler/BullishSentiment",
+    "set": "3"
   },
   "554": {
     "id": "554",
@@ -11474,7 +11591,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "As long as you have two or more Action cards in your ice, this Character can produce _R__R_.",
-    "source_url": "https://www.vibes.game/spoiler/Burglirb"
+    "source_url": "https://www.vibes.game/spoiler/Burglirb",
+    "set": "3"
   },
   "555": {
     "id": "555",
@@ -11499,7 +11617,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Ice the top two cards of your deck. Draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/BurnItAll"
+    "source_url": "https://www.vibes.game/spoiler/BurnItAll",
+    "set": "3"
   },
   "556": {
     "id": "556",
@@ -11522,7 +11641,8 @@
     "Cost": "2",
     "rarity": "Common",
     "vibe": "4",
-    "source_url": "https://www.vibes.game/spoiler/BusinessBirb"
+    "source_url": "https://www.vibes.game/spoiler/BusinessBirb",
+    "set": "3"
   },
   "558": {
     "id": "558",
@@ -11546,7 +11666,8 @@
     "rarity": "Common",
     "vibe": "3",
     "text": "[ACT] _F_: Each player draws a card, then ices a card from their hand.",
-    "source_url": "https://www.vibes.game/spoiler/ChaosBirb"
+    "source_url": "https://www.vibes.game/spoiler/ChaosBirb",
+    "set": "3"
   },
   "559": {
     "id": "559",
@@ -11570,7 +11691,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this can produce _T_.",
-    "source_url": "https://www.vibes.game/spoiler/ChewyPendant"
+    "source_url": "https://www.vibes.game/spoiler/ChewyPendant",
+    "set": "3"
   },
   "560": {
     "id": "560",
@@ -11595,7 +11717,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Draw a card for each Character iced this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/ChillOut"
+    "source_url": "https://www.vibes.game/spoiler/ChillOut",
+    "set": "3"
   },
   "561": {
     "id": "561",
@@ -11619,7 +11742,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Characters in your huddle gain the ability \"When this Character is iced, if it has exactly 1 vibe counter on it, draw a card\".",
-    "source_url": "https://www.vibes.game/spoiler/CinematicBirb"
+    "source_url": "https://www.vibes.game/spoiler/CinematicBirb",
+    "set": "3"
   },
   "562": {
     "id": "562",
@@ -11643,7 +11767,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "[ACT] _F_, remove 3 vibe counters from this Character: Choose an unflopped Character and ice it.",
-    "source_url": "https://www.vibes.game/spoiler/CubistPenguin"
+    "source_url": "https://www.vibes.game/spoiler/CubistPenguin",
+    "set": "3"
   },
   "563": {
     "id": "563",
@@ -11667,7 +11792,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Whenever this Character is outfitted, draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/DetectivePenguin"
+    "source_url": "https://www.vibes.game/spoiler/DetectivePenguin",
+    "set": "3"
   },
   "564": {
     "id": "564",
@@ -11692,7 +11818,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Whenever any number of Characters are iced this Cycle, their controller gets that many Fishsicles.",
-    "source_url": "https://www.vibes.game/spoiler/DoubleTheLuck"
+    "source_url": "https://www.vibes.game/spoiler/DoubleTheLuck",
+    "set": "3"
   },
   "565": {
     "id": "565",
@@ -11717,7 +11844,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Pick a Character card in your ice with Fish cost 2 or less. At the start of the next Cycle, return it from ice to its owner's huddle.",
-    "source_url": "https://www.vibes.game/spoiler/DoubleTrouble"
+    "source_url": "https://www.vibes.game/spoiler/DoubleTrouble",
+    "set": "3"
   },
   "566": {
     "id": "566",
@@ -11740,7 +11868,8 @@
     "Cost": "2",
     "rarity": "Common",
     "vibe": "4",
-    "source_url": "https://www.vibes.game/spoiler/DramaBirb"
+    "source_url": "https://www.vibes.game/spoiler/DramaBirb",
+    "set": "3"
   },
   "567": {
     "id": "567",
@@ -11765,7 +11894,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "This Action costs one less _G_ to play for each Green Character in your huddle with any number of vibe counters on it. Draw two cards.",
-    "source_url": "https://www.vibes.game/spoiler/FinalVerdict"
+    "source_url": "https://www.vibes.game/spoiler/FinalVerdict",
+    "set": "3"
   },
   "568": {
     "id": "568",
@@ -11790,7 +11920,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Fit and choose a Character not wearing it. Outfit that Character. Draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/FindersKeepers"
+    "source_url": "https://www.vibes.game/spoiler/FindersKeepers",
+    "set": "3"
   },
   "569": {
     "id": "569",
@@ -11814,7 +11945,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "Whenever any number of Characters in your huddle are iced, put a vibe counter on this Character.",
-    "source_url": "https://www.vibes.game/spoiler/FishermanBirb"
+    "source_url": "https://www.vibes.game/spoiler/FishermanBirb",
+    "set": "3"
   },
   "570": {
     "id": "570",
@@ -11839,7 +11971,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Reveal the top five cards of your deck. Put all the Fit cards into your hand. Put the rest on the bottom of your deck in any order.",
-    "source_url": "https://www.vibes.game/spoiler/Fomo"
+    "source_url": "https://www.vibes.game/spoiler/Fomo",
+    "set": "3"
   },
   "571": {
     "id": "571",
@@ -11864,7 +11997,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose up to two Green Characters in your huddle and put a vibe counter on each of them. Whenever any number of vibe counters are removed from a Green Character in your huddle, if this card is in your ice, return it to your hand.",
-    "source_url": "https://www.vibes.game/spoiler/FreezeFrame"
+    "source_url": "https://www.vibes.game/spoiler/FreezeFrame",
+    "set": "3"
   },
   "572": {
     "id": "572",
@@ -11888,7 +12022,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "Whenever a Character in your huddle is outfitted, put a vibe counter on that Character.",
-    "source_url": "https://www.vibes.game/spoiler/GamingPenguin"
+    "source_url": "https://www.vibes.game/spoiler/GamingPenguin",
+    "set": "3"
   },
   "573": {
     "id": "573",
@@ -11913,7 +12048,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Each player ices a Rod they control and draws a card. Each player may pick a card in their hand and put it face-down as a Rod.",
-    "source_url": "https://www.vibes.game/spoiler/GetRekt"
+    "source_url": "https://www.vibes.game/spoiler/GetRekt",
+    "set": "3"
   },
   "574": {
     "id": "574",
@@ -11937,7 +12073,8 @@
     "rarity": "Rare",
     "vibe": "4",
     "text": "When this Character enters the huddle, put a vibe counter on it for each other Character in your huddle.",
-    "source_url": "https://www.vibes.game/spoiler/GigaBirb"
+    "source_url": "https://www.vibes.game/spoiler/GigaBirb",
+    "set": "3"
   },
   "576": {
     "id": "576",
@@ -11961,7 +12098,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"[ACT] _F_: Choose a Character. Move all vibe counters from this Character onto the chosen Character\".",
-    "source_url": "https://www.vibes.game/spoiler/HandmadeSlingshot"
+    "source_url": "https://www.vibes.game/spoiler/HandmadeSlingshot",
+    "set": "3"
   },
   "577": {
     "id": "577",
@@ -11986,7 +12124,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "As an additional cost to play this Action, ice any number of Characters in your huddle. If you iced two or more Characters this way, draw two cards.",
-    "source_url": "https://www.vibes.game/spoiler/HeadOnOut"
+    "source_url": "https://www.vibes.game/spoiler/HeadOnOut",
+    "set": "3"
   },
   "580": {
     "id": "580",
@@ -12010,7 +12149,8 @@
     "rarity": "Uncommon",
     "vibe": "4",
     "text": "Whenever another Character enters your huddle, you may pay _T__T__T_. If you do, put 4 vibe counters on it.",
-    "source_url": "https://www.vibes.game/spoiler/HonorablePenguin"
+    "source_url": "https://www.vibes.game/spoiler/HonorablePenguin",
+    "set": "3"
   },
   "581": {
     "id": "581",
@@ -12034,7 +12174,8 @@
     "rarity": "Common",
     "vibe": "2",
     "text": "Whenever this Character wins Vibe Check, look at the top card of your deck. If it's a Fit card, you may reveal it and draw it. Otherwise, put it on the bottom of your deck.",
-    "source_url": "https://www.vibes.game/spoiler/HoodiePenguin"
+    "source_url": "https://www.vibes.game/spoiler/HoodiePenguin",
+    "set": "3"
   },
   "582": {
     "id": "582",
@@ -12059,7 +12200,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose two Characters and put 2 vibe counters on each of them. Draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/HuntForTheHolySauce"
+    "source_url": "https://www.vibes.game/spoiler/HuntForTheHolySauce",
+    "set": "3"
   },
   "583": {
     "id": "583",
@@ -12083,7 +12225,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "[ACT] _F_, remove 2 vibe counters from this Character: Draw a card.",
-    "source_url": "https://www.vibes.game/spoiler/ImpressionistPenguin"
+    "source_url": "https://www.vibes.game/spoiler/ImpressionistPenguin",
+    "set": "3"
   },
   "584": {
     "id": "584",
@@ -12107,7 +12250,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "_R_ or _Y_.",
-    "source_url": "https://www.vibes.game/spoiler/InfernoWizbirb"
+    "source_url": "https://www.vibes.game/spoiler/InfernoWizbirb",
+    "set": "3"
   },
   "585": {
     "id": "585",
@@ -12130,7 +12274,8 @@
     "Cost": "1",
     "rarity": "Common",
     "vibe": "2",
-    "source_url": "https://www.vibes.game/spoiler/InfluencerBirb"
+    "source_url": "https://www.vibes.game/spoiler/InfluencerBirb",
+    "set": "3"
   },
   "586": {
     "id": "586",
@@ -12154,7 +12299,8 @@
     "rarity": "Epic",
     "vibe": "3",
     "text": "[ACT] _F_: You can play Red Actions from your ice this Cycle. If Red Action cards would be put in your ice this Cycle, put them on the bottom of your deck instead. Ice this Character.",
-    "source_url": "https://www.vibes.game/spoiler/LeaderOfTheCharge"
+    "source_url": "https://www.vibes.game/spoiler/LeaderOfTheCharge",
+    "set": "3"
   },
   "587": {
     "id": "587",
@@ -12178,7 +12324,8 @@
     "rarity": "Uncommon",
     "vibe": "3",
     "text": "When this Character enters the huddle, choose a Character. You may reveal a Fit card in your hand with Fish cost 3 or less. If you do, put it into play outfitting that Character.",
-    "source_url": "https://www.vibes.game/spoiler/LilCoolGuy"
+    "source_url": "https://www.vibes.game/spoiler/LilCoolGuy",
+    "set": "3"
   },
   "588": {
     "id": "588",
@@ -12202,7 +12349,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "[ACT] _F_: Choose a Character in your huddle and choose another Character. Ice the first and put a vibe counter on the second.",
-    "source_url": "https://www.vibes.game/spoiler/LilStuck"
+    "source_url": "https://www.vibes.game/spoiler/LilStuck",
+    "set": "3"
   },
   "589": {
     "id": "589",
@@ -12226,7 +12374,8 @@
     "rarity": "Rare",
     "vibe": "5",
     "text": "[ACT] _F_: Choose a Character in your huddle. Put vibe counters on this Character equal to that Character's vibe. Return it to its owner's hand.",
-    "source_url": "https://www.vibes.game/spoiler/LilWhoLearns"
+    "source_url": "https://www.vibes.game/spoiler/LilWhoLearns",
+    "set": "3"
   },
   "591": {
     "id": "591",
@@ -12251,7 +12400,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "This Action costs one less _R_ to play for each Red Action you've played this Cycle. Choose a Rod, Relic, or Character and ice it.",
-    "source_url": "https://www.vibes.game/spoiler/LunchWithAView"
+    "source_url": "https://www.vibes.game/spoiler/LunchWithAView",
+    "set": "3"
   },
   "592": {
     "id": "592",
@@ -12275,7 +12425,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "[ACT] _F_: Choose a Fit and choose a Character not wearing it. Outfit that Character.",
-    "source_url": "https://www.vibes.game/spoiler/MerchantPenguin"
+    "source_url": "https://www.vibes.game/spoiler/MerchantPenguin",
+    "set": "3"
   },
   "593": {
     "id": "593",
@@ -12299,7 +12450,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this can produce _P_.",
-    "source_url": "https://www.vibes.game/spoiler/MysticPaintbrush"
+    "source_url": "https://www.vibes.game/spoiler/MysticPaintbrush",
+    "set": "3"
   },
   "594": {
     "id": "594",
@@ -12324,7 +12476,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "The next time a Character would be put into ice from play this Cycle, return it from ice to its owner’s huddle. If multiple are put into ice at the same time, you pick.",
-    "source_url": "https://www.vibes.game/spoiler/NextFloorPlease"
+    "source_url": "https://www.vibes.game/spoiler/NextFloorPlease",
+    "set": "3"
   },
   "595": {
     "id": "595",
@@ -12348,7 +12501,8 @@
     "rarity": "Common",
     "vibe": "3",
     "text": "This Character can only [ACT] if another Character entered your huddle this Cycle. [ACT] _F_: Put a vibe counter on this Character.",
-    "source_url": "https://www.vibes.game/spoiler/Noctua"
+    "source_url": "https://www.vibes.game/spoiler/Noctua",
+    "set": "3"
   },
   "596": {
     "id": "596",
@@ -12372,7 +12526,8 @@
     "rarity": "Common",
     "vibe": "6",
     "text": "[ACT] _F_: Choose a Character in your huddle and ice it. You get two Fishsicles.",
-    "source_url": "https://www.vibes.game/spoiler/PatientBirb"
+    "source_url": "https://www.vibes.game/spoiler/PatientBirb",
+    "set": "3"
   },
   "597": {
     "id": "597",
@@ -12396,7 +12551,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Whenever a Fit you control is iced from play, put it on top of your deck.",
-    "source_url": "https://www.vibes.game/spoiler/PenguinInBlue"
+    "source_url": "https://www.vibes.game/spoiler/PenguinInBlue",
+    "set": "3"
   },
   "598": {
     "id": "598",
@@ -12420,7 +12576,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Whenever this Character produces Pudge, choose a Green Character and put a vibe counter on it.",
-    "source_url": "https://www.vibes.game/spoiler/PenguinOfTheFallenCone"
+    "source_url": "https://www.vibes.game/spoiler/PenguinOfTheFallenCone",
+    "set": "3"
   },
   "599": {
     "id": "599",
@@ -12444,7 +12601,8 @@
     "rarity": "Rare",
     "vibe": "2",
     "text": "Whenever a Character in your opponent's huddle is iced, if it's wearing a Fit you own, return that Fit to your hand.",
-    "source_url": "https://www.vibes.game/spoiler/PenguinWhoExploresTheJungle"
+    "source_url": "https://www.vibes.game/spoiler/PenguinWhoExploresTheJungle",
+    "set": "3"
   },
   "600": {
     "id": "600",
@@ -12468,7 +12626,8 @@
     "rarity": "Rare",
     "vibe": "4",
     "text": "[ACT] _F_: Boost the vibe of each Character in your huddle by this Character's vibe for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/PenguinWhoIsWhatHeEats"
+    "source_url": "https://www.vibes.game/spoiler/PenguinWhoIsWhatHeEats",
+    "set": "3"
   },
   "601": {
     "id": "601",
@@ -12492,7 +12651,8 @@
     "rarity": "Uncommon",
     "vibe": "4",
     "text": "[ACT] _R__R__R_, _F_: Choose a Character and flop it.",
-    "source_url": "https://www.vibes.game/spoiler/PerplexedBirb"
+    "source_url": "https://www.vibes.game/spoiler/PerplexedBirb",
+    "set": "3"
   },
   "602": {
     "id": "602",
@@ -12516,7 +12676,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "Whenever any number of Characters in your huddle are iced, choose a Character and put a vibe counter on it.",
-    "source_url": "https://www.vibes.game/spoiler/PoisedPenguin"
+    "source_url": "https://www.vibes.game/spoiler/PoisedPenguin",
+    "set": "3"
   },
   "603": {
     "id": "603",
@@ -12540,7 +12701,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "Playable from ice by icing a Character in your huddle in addition to paying this card's Fish cost.",
-    "source_url": "https://www.vibes.game/spoiler/ProtectorPenguin"
+    "source_url": "https://www.vibes.game/spoiler/ProtectorPenguin",
+    "set": "3"
   },
   "604": {
     "id": "604",
@@ -12564,7 +12726,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"[ACT] _F_: Choose a flopped Character and outfit it with this Character's Fits\".",
-    "source_url": "https://www.vibes.game/spoiler/PuffySnowsuit"
+    "source_url": "https://www.vibes.game/spoiler/PuffySnowsuit",
+    "set": "3"
   },
   "605": {
     "id": "605",
@@ -12589,7 +12752,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character with the lowest vibe in your huddle. Boost its vibe by 6 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/Pump"
+    "source_url": "https://www.vibes.game/spoiler/Pump",
+    "set": "3"
   },
   "606": {
     "id": "606",
@@ -12614,7 +12778,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character in your huddle. Put vibe counters on it equal to its vibe.",
-    "source_url": "https://www.vibes.game/spoiler/RampantVibeflation"
+    "source_url": "https://www.vibes.game/spoiler/RampantVibeflation",
+    "set": "3"
   },
   "607": {
     "id": "607",
@@ -12638,7 +12803,8 @@
     "rarity": "Uncommon",
     "vibe": "3",
     "text": "When you ice the first card from your hand each Cycle, if this Character is flopped, draw a card. Whenever another Relaxing Birb enters a huddle, ice this Character.",
-    "source_url": "https://www.vibes.game/spoiler/RelaxingBirb"
+    "source_url": "https://www.vibes.game/spoiler/RelaxingBirb",
+    "set": "3"
   },
   "608": {
     "id": "608",
@@ -12663,7 +12829,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Red Characters can produce an additional _R_ for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/RomanticGesture"
+    "source_url": "https://www.vibes.game/spoiler/RomanticGesture",
+    "set": "3"
   },
   "609": {
     "id": "609",
@@ -12687,7 +12854,8 @@
     "rarity": "Common",
     "vibe": "6",
     "text": "When this Character enters the huddle, choose a Fit card in your ice and return it to your hand.",
-    "source_url": "https://www.vibes.game/spoiler/ShowtimePenguin"
+    "source_url": "https://www.vibes.game/spoiler/ShowtimePenguin",
+    "set": "3"
   },
   "610": {
     "id": "610",
@@ -12711,7 +12879,8 @@
     "rarity": "Rare",
     "vibe": "1",
     "text": "This Character doesn't participate in Vibe Check unless it has 17 or more vibe counters on it. Whenever you draw any number of cards, put that many vibe counters on this Character.",
-    "source_url": "https://www.vibes.game/spoiler/StealthBirb"
+    "source_url": "https://www.vibes.game/spoiler/StealthBirb",
+    "set": "3"
   },
   "611": {
     "id": "611",
@@ -12735,7 +12904,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "Whenever another Green Character enters your huddle, put a vibe counter on it.",
-    "source_url": "https://www.vibes.game/spoiler/SteamboatPengy"
+    "source_url": "https://www.vibes.game/spoiler/SteamboatPengy",
+    "set": "3"
   },
   "612": {
     "id": "612",
@@ -12759,7 +12929,8 @@
     "rarity": "Common",
     "vibe": "1",
     "text": "_P_ or _B_.",
-    "source_url": "https://www.vibes.game/spoiler/StormreaperWizbirb"
+    "source_url": "https://www.vibes.game/spoiler/StormreaperWizbirb",
+    "set": "3"
   },
   "613": {
     "id": "613",
@@ -12784,7 +12955,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose a Character. If its vibe is less than its Fish cost, ice it.",
-    "source_url": "https://www.vibes.game/spoiler/SundayAfternoon"
+    "source_url": "https://www.vibes.game/spoiler/SundayAfternoon",
+    "set": "3"
   },
   "614": {
     "id": "614",
@@ -12808,7 +12980,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"[ACT] _F_: Choose another Character in your huddle. The next time that Character would be iced this Cycle, turn it face-down as a Rod instead\".",
-    "source_url": "https://www.vibes.game/spoiler/TheComebackStaff"
+    "source_url": "https://www.vibes.game/spoiler/TheComebackStaff",
+    "set": "3"
   },
   "615": {
     "id": "615",
@@ -12833,7 +13006,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Choose any number of Characters and put 2 vibe counters on each of them.",
-    "source_url": "https://www.vibes.game/spoiler/TheGreatChowdown"
+    "source_url": "https://www.vibes.game/spoiler/TheGreatChowdown",
+    "set": "3"
   },
   "616": {
     "id": "616",
@@ -12857,7 +13031,8 @@
     "rarity": "Uncommon",
     "vibe": "2",
     "text": "Whenever this Character is outfitted, if it isn't wearing any other Fits, choose a Character and flop it.",
-    "source_url": "https://www.vibes.game/spoiler/TheGreatPengsby"
+    "source_url": "https://www.vibes.game/spoiler/TheGreatPengsby",
+    "set": "3"
   },
   "617": {
     "id": "617",
@@ -12881,7 +13056,8 @@
     "rarity": "Uncommon",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit, then you may reveal a card named Trusty Boxing Gloves from your Rods and put it into play outfitting the chosen Character. The Character wearing this gets +4 vibe.",
-    "source_url": "https://www.vibes.game/spoiler/TrustyBoxingGloves"
+    "source_url": "https://www.vibes.game/spoiler/TrustyBoxingGloves",
+    "set": "3"
   },
   "619": {
     "id": "619",
@@ -12905,7 +13081,8 @@
     "rarity": "Common",
     "vibe": "3",
     "text": "When this Character enters the huddle, if your huddle has more Characters than your opponent's huddle, put 2 vibe counters on this Character.",
-    "source_url": "https://www.vibes.game/spoiler/WallBirb"
+    "source_url": "https://www.vibes.game/spoiler/WallBirb",
+    "set": "3"
   },
   "620": {
     "id": "620",
@@ -12929,7 +13106,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"Whenever you play an Action, flop all Characters in your huddle with vibe 10 or greater\".",
-    "source_url": "https://www.vibes.game/spoiler/WhimsicalBackpack"
+    "source_url": "https://www.vibes.game/spoiler/WhimsicalBackpack",
+    "set": "3"
   },
   "622": {
     "id": "622",
@@ -12952,7 +13130,8 @@
     "Cost": "2",
     "rarity": "Common",
     "vibe": "4",
-    "source_url": "https://www.vibes.game/spoiler/WonderWeaver"
+    "source_url": "https://www.vibes.game/spoiler/WonderWeaver",
+    "set": "3"
   },
   "557": {
     "id": "557",
@@ -12976,7 +13155,8 @@
     "rarity": "Common",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gains the ability \"[ACT] _F_: The next time this Character is iced this Cycle, choose a Character and ice it\".",
-    "source_url": "https://www.vibes.game/spoiler/ChampionsBelt"
+    "source_url": "https://www.vibes.game/spoiler/ChampionsBelt",
+    "set": "3"
   },
   "444": {
     "id": "444",
@@ -13000,7 +13180,8 @@
     "rarity": "Common",
     "vibe": "4",
     "text": "When this Character enters the huddle, if you have four or more Red Action cards in your ice, choose a Character and flop it.",
-    "source_url": "https://www.vibes.game/spoiler/Emcbirb"
+    "source_url": "https://www.vibes.game/spoiler/Emcbirb",
+    "set": "3"
   },
   "575": {
     "id": "575",
@@ -13025,7 +13206,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose a Character with vibe 2 or less. The next time it would be iced this Cycle, it isn't.",
-    "source_url": "https://www.vibes.game/spoiler/GiveEm"
+    "source_url": "https://www.vibes.game/spoiler/GiveEm",
+    "set": "3"
   },
   "578": {
     "id": "578",
@@ -13050,7 +13232,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "Flip a coin. If heads, you draw two cards. If tails, each player draws a card.",
-    "source_url": "https://www.vibes.game/spoiler/HeadsIWinTailsWeWin"
+    "source_url": "https://www.vibes.game/spoiler/HeadsIWinTailsWeWin",
+    "set": "3"
   },
   "453": {
     "id": "453",
@@ -13075,7 +13258,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Each player ices a card from their hand.",
-    "source_url": "https://www.vibes.game/spoiler/HealthyPush"
+    "source_url": "https://www.vibes.game/spoiler/HealthyPush",
+    "set": "3"
   },
   "579": {
     "id": "579",
@@ -13099,7 +13283,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. As long as the Stack is empty, the Character wearing this can't be chosen by anything.",
-    "source_url": "https://www.vibes.game/spoiler/HerosShield"
+    "source_url": "https://www.vibes.game/spoiler/HerosShield",
+    "set": "3"
   },
   "459": {
     "id": "459",
@@ -13123,7 +13308,8 @@
     "rarity": "Epic",
     "vibe": "8",
     "text": "This Character can only [ACT] if you have 8 or more vibe counters on Characters in your huddle. [ACT] _F_: Choose a Character and put 8 vibe counters on it.",
-    "source_url": "https://www.vibes.game/spoiler/JaskelImaginator"
+    "source_url": "https://www.vibes.game/spoiler/JaskelImaginator",
+    "set": "3"
   },
   "461": {
     "id": "461",
@@ -13148,7 +13334,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose a player. Pick two cards in their ice and put them on top of their deck in any order.",
-    "source_url": "https://www.vibes.game/spoiler/LameStorySis"
+    "source_url": "https://www.vibes.game/spoiler/LameStorySis",
+    "set": "3"
   },
   "590": {
     "id": "590",
@@ -13172,7 +13359,8 @@
     "rarity": "Common",
     "vibe": "6",
     "text": "When this Character enters the huddle, you may ice a Fit you control. If you do, put 4 vibe counters on this Character.",
-    "source_url": "https://www.vibes.game/spoiler/LockedinPenguin"
+    "source_url": "https://www.vibes.game/spoiler/LockedinPenguin",
+    "set": "3"
   },
   "529": {
     "id": "529",
@@ -13197,7 +13385,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose a Character. If it has vibe 2 or less, turn it face-down as a Rod. Otherwise, reduce its vibe by 2 for the rest of this Cycle.",
-    "source_url": "https://www.vibes.game/spoiler/NowARodEvermore"
+    "source_url": "https://www.vibes.game/spoiler/NowARodEvermore",
+    "set": "3"
   },
   "475": {
     "id": "475",
@@ -13221,7 +13410,8 @@
     "rarity": "Epic",
     "vibe": "2",
     "text": "Whenever this Character produces Pudge, you may pick a Character card in your ice and put it under this Character. [ACT] _F_: Pick a card under this Character and put it into your hand.",
-    "source_url": "https://www.vibes.game/spoiler/OrrinForestGuardian"
+    "source_url": "https://www.vibes.game/spoiler/OrrinForestGuardian",
+    "set": "3"
   },
   "635": {
     "id": "635",
@@ -13245,7 +13435,8 @@
     "rarity": "Epic",
     "vibe": "0",
     "text": "Choose a Character to wear this Fit. The Character wearing this gets +20 vibe.",
-    "source_url": "https://www.vibes.game/spoiler/TheCrownOfHouseVibesalot"
+    "source_url": "https://www.vibes.game/spoiler/TheCrownOfHouseVibesalot",
+    "set": "3"
   },
   "618": {
     "id": "618",
@@ -13270,7 +13461,8 @@
     "pudge": "Vibe 0",
     "vibe": "0",
     "text": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose a Character and flop it.",
-    "source_url": "https://www.vibes.game/spoiler/Twistawhat"
+    "source_url": "https://www.vibes.game/spoiler/Twistawhat",
+    "set": "3"
   },
   "621": {
     "id": "621",
@@ -13294,7 +13486,8 @@
     "rarity": "Uncommon",
     "vibe": "4",
     "text": "Whenever a Character is chosen by anything, put a vibe counter on that Character.",
-    "source_url": "https://www.vibes.game/spoiler/WhistlersPenguin"
+    "source_url": "https://www.vibes.game/spoiler/WhistlersPenguin",
+    "set": "3"
   },
   "516": {
     "id": "516",
@@ -13318,7 +13511,8 @@
     "rarity": "Rare",
     "vibe": "6",
     "text": "Whenever you ice any number of cards from your hand, put that many vibe counters on each Character in your huddle.",
-    "source_url": "https://www.vibes.game/spoiler/WindowshoppingBirb"
+    "source_url": "https://www.vibes.game/spoiler/WindowshoppingBirb",
+    "set": "3"
   },
   "623": {
     "id": "623",
@@ -13342,7 +13536,8 @@
     "rarity": "Rare",
     "vibe": "0",
     "text": "When this card is iced from your hand, you get a Fishsicle.",
-    "source_url": "https://www.vibes.game/spoiler/Y"
+    "source_url": "https://www.vibes.game/spoiler/Y",
+    "set": "3"
   },
   "7777": {
     "id": "7777",
